@@ -2996,7 +2996,7 @@ ajv@^7.0.2:
 
 algolia-indexing@1.2.0:
   version "1.2.0"
-  resolved "https://registry.yarnpkg.com/algolia-indexing/-/algolia-indexing-1.2.0.tgz#303c38a96327f1c67c636904c7a3ce0a6c064607"
+  resolved "https://registry.npmjs.org/algolia-indexing/-/algolia-indexing-1.2.0.tgz#303c38a96327f1c67c636904c7a3ce0a6c064607"
   integrity sha512-hLzlZlBxzcvsPm0xczuz3Hcpg6Vvi3T9oBWrWiU0koUnSumoON2/4MK+o0RTtbwV+VqB13HCnS1+BgvfE52Lgg==
   dependencies:
     algoliasearch "4.2.0"

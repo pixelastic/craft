@@ -1,4 +1,7 @@
+const config = require('./src/_data/config.js');
 module.exports = {
+  dataPath: './data/youtube',
+  cachePath: './.cache/youtube',
   playlists: [
     'PLSrIGfVibMhjEUY0_wEHn8c3N-IhJvLkg', // Black Magic Craft
     'PLOt6UN-cmqk3YZvK5lhVt3Hh67R-C8BiF', // Wyloch's Crafting Vids
@@ -95,7 +98,7 @@ module.exports = {
     '437p1gwNNuE',
   ],
   algoliaCredentials: {
-    appId: 'O3F8QXYK6R',
-    indexName: 'gamemaster_craft',
+    appId: config.algolia.appId,
+    indexName: 'gamemaster_craft_youtube',
   },
 };
