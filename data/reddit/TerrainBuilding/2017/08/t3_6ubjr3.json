@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ysrnz",
+    "name": "Rakathu"
+  },
+  "date": {
+    "day": 1502928000,
+    "full": 1502990939,
+    "month": 1501545600,
+    "week": 1502582400
+  },
+  "id": "t3_6ubjr3",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/XJcsk0AwAC1_BCLE40TMtAwGShLUpciAzaP9vX2wKOc.jpg?auto=webp&s=d514005e03560e4ad78fc948715e939a68a05187",
+    "preview": "https://external-preview.redd.it/XJcsk0AwAC1_BCLE40TMtAwGShLUpciAzaP9vX2wKOc.jpg?width=640&crop=smart&auto=webp&s=2d6c3ce18f93c279a49277f6bf19c1d4404c0300",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.74,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain textures and textured basing",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6ubjr3/terrain_textures_and_textured_basing/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_t25cx",
+    "name": "Snikkelbaars"
+  },
+  "date": {
+    "day": 1557446400,
+    "full": 1557507932,
+    "month": 1556668800,
+    "week": 1557014400
+  },
+  "id": "t3_bn0u5i",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/o4ivkdi71fx21.jpg?auto=webp&s=f8b4721409d8331d3f4f77148f8ad200e4614cd3",
+    "preview": "https://preview.redd.it/o4ivkdi71fx21.jpg?width=640&crop=smart&auto=webp&s=ebd2dc32dc94aaaffd71b44b2ad69131255a091d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/1ZFYjiMBM0jWBVC-JjY2of_JNMBrRpjwYdsKSEw2sQs.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Magic circle with LEDs",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bn0u5i/wip_magic_circle_with_leds/"
+}

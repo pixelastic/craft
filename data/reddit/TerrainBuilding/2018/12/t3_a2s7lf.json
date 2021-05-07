@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1543795200,
+    "full": 1543866469,
+    "month": 1543622400,
+    "week": 1543708800
+  },
+  "id": "t3_a2s7lf",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/F4WKqkFY5Psdie2kPsGIvUfgFieM81ylOppJlA_p1jc.jpg?auto=webp&s=03c48095becf45d63cf00ce229b1ad3a39fd455c",
+    "preview": "https://external-preview.redd.it/F4WKqkFY5Psdie2kPsGIvUfgFieM81ylOppJlA_p1jc.jpg?width=640&crop=smart&auto=webp&s=7a905e357556255eeafe87be9b794ae709c73801",
+    "thumbnail": "https://b.thumbs.redditmedia.com/6DCaV_0WmuVNwb8pT1HsFtAUbBYbbE4eUK54QLr-OAs.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 90,
+    "value": 90
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Observatory, made from a yoghurt tub and half of a bauble!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a2s7lf/observatory_made_from_a_yoghurt_tub_and_half_of_a/"
+}

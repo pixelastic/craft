@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_omivs",
+    "name": "willywvlf"
+  },
+  "date": {
+    "day": 1590364800,
+    "full": 1590407626,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gq9ote",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/yqe8srpvgw051.jpg?auto=webp&s=e46e0a386cc0a5f9698b94ef6522eb052f0f2172",
+    "preview": "https://preview.redd.it/yqe8srpvgw051.jpg?width=640&crop=smart&auto=webp&s=868a7c694817e08c33bfd8f254bbebe2b39205b5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/6oSx09Ioeckc206BaQSlPYsLYDXwaZgpCcq2Opx9fbI.jpg"
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first foray into making terrain: some tiles, stackers and ruined walls inspired by Black Magic Craft.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gq9ote/my_first_foray_into_making_terrain_some_tiles/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16t58j",
+    "name": "Projekt_BF"
+  },
+  "date": {
+    "day": 1559606400,
+    "full": 1559692047,
+    "month": 1559347200,
+    "week": 1559433600
+  },
+  "id": "t3_bwvvv6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/bjcjux3pff231.jpg?auto=webp&s=27f46607babf6e3d3998782b9d2922901e1af1f8",
+    "preview": "https://preview.redd.it/bjcjux3pff231.jpg?width=640&crop=smart&auto=webp&s=92ae8c4c9e9819a09f92b702545dfcd084186376",
+    "thumbnail": "https://b.thumbs.redditmedia.com/RQhJT5eFIaxX5S1l6D-z2Ha7W6MIY113gh2KaO5agmA.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Quick and dirty ruin, test for something bigger",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bwvvv6/quick_and_dirty_ruin_test_for_something_bigger/"
+}

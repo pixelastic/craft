@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4q33ybtg",
+    "name": "Blindman2112"
+  },
+  "date": {
+    "day": 1602288000,
+    "full": 1602357177,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j8qd5t",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/e179mqd1hbs51.jpg?auto=webp&s=0dd0e3fb489f6c5c7e014acb43f63bd47dfba6bb",
+    "preview": "https://preview.redd.it/e179mqd1hbs51.jpg?width=640&crop=smart&auto=webp&s=17f93db0626f91af3d2960fce3388d7b1a613673",
+    "thumbnail": "https://b.thumbs.redditmedia.com/iZdXNjVvjgeBoV0JTSE5aoci1pvTRL1435nWxzFeYWo.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 106,
+    "value": 106
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Verdegris Tutorial",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j8qd5t/verdegris_tutorial/"
+}

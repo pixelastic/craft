@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_a3nl5",
+    "name": "TixuOty"
+  },
+  "date": {
+    "day": 1559001600,
+    "full": 1559053622,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_bu0nvq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/g3iagds5py031.jpg?auto=webp&s=86abd9c71a2dca1f5c991aaf175b28393e7809ee",
+    "preview": "https://preview.redd.it/g3iagds5py031.jpg?width=640&crop=smart&auto=webp&s=42a7c326665c20c68f3f5ff775bbbc738334fe2c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/RjTbdYMoRIMlMLdtnNZdwaZuWi_uX5WRICVlYCz1VeI.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 106,
+    "value": 106
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small wall section to display my Gondor warriors.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bu0nvq/small_wall_section_to_display_my_gondor_warriors/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_tpf9b",
+    "name": "Okaaran"
+  },
+  "date": {
+    "day": 1546041600,
+    "full": 1546112319,
+    "month": 1543622400,
+    "week": 1545523200
+  },
+  "id": "t3_aao7ue",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5hghf4h7s9721.jpg?auto=webp&s=92d862841e5092aeb5a7a930bef698c12470d3bb",
+    "preview": "https://preview.redd.it/5hghf4h7s9721.jpg?width=640&crop=smart&auto=webp&s=82b5acce89b2b6770f253fe4be06841f4f1c1578",
+    "thumbnail": "https://b.thumbs.redditmedia.com/cvh78M78y0iCwbN97Y6BP-wit--VgQR3V7mdL_bQKuM.jpg"
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 209,
+    "value": 209
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Brick Ruins. Yes, they’re BMC inspired.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aao7ue/wip_brick_ruins_yes_theyre_bmc_inspired/"
+}

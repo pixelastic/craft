@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6ikzfqzr",
+    "name": "Starbugmechanic"
+  },
+  "date": {
+    "day": 1598313600,
+    "full": 1598315503,
+    "month": 1596240000,
+    "week": 1598140800
+  },
+  "id": "t3_ig1lk6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/uv8unhe2n1j51.jpg?auto=webp&s=1a1b21b5d347b0bb39c9bea898c3e7f1023809d5",
+    "preview": "https://preview.redd.it/uv8unhe2n1j51.jpg?width=640&crop=smart&auto=webp&s=27daffbb6fc9151519c5264b9ed519707feaf327",
+    "thumbnail": "https://a.thumbs.redditmedia.com/FE6-Rr1KS2UKxKSTab_aXwc4bJ4-lULh2ZnL9sah0e4.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 203,
+    "value": 203
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first scratch built building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ig1lk6/my_first_scratch_built_building/"
+}

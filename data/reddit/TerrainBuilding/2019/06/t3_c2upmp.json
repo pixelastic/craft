@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11b2p2",
+    "name": "Bardy92"
+  },
+  "date": {
+    "day": 1560988800,
+    "full": 1561029065,
+    "month": 1559347200,
+    "week": 1560643200
+  },
+  "id": "t3_c2upmp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/8j433h5xuh531.png?auto=webp&s=ca69912783a6f27fa71d55f246bd4c93d3365592",
+    "preview": "https://preview.redd.it/8j433h5xuh531.png?width=640&crop=smart&auto=webp&s=3ccbd9bad0082f9c195aee67c0e368210b2a9711",
+    "thumbnail": "https://b.thumbs.redditmedia.com/HokWvYGHdvK-VzIVH6Gc1wF8CP4ShvFSXM_HCmGsKUI.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 295,
+    "value": 295
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First serious build - Tavern",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/c2upmp/first_serious_build_tavern/"
+}

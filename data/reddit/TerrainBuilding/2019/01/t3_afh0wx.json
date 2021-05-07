@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16ycovb",
+    "name": "tiny_architect"
+  },
+  "date": {
+    "day": 1547337600,
+    "full": 1547363640,
+    "month": 1546300800,
+    "week": 1547337600
+  },
+  "id": "t3_afh0wx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/q773falz45a21.jpg?auto=webp&s=a3ca0df3e2b5a04ee3b2e4cd8053abbc373b2168",
+    "preview": "https://preview.redd.it/q773falz45a21.jpg?width=640&crop=smart&auto=webp&s=43935dd918dfe3761a2b5533452a59ff7a86be6b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/fRX304PFftgNt9KXGYagnru2euZuvTAYkHWPcu973yE.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Wargaming Terrain: Oasis",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/afh0wx/wargaming_terrain_oasis/"
+}

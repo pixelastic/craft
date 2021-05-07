@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_e2rll45",
+    "name": "jimsjamss"
+  },
+  "date": {
+    "day": 1513296000,
+    "full": 1513354079,
+    "month": 1512086400,
+    "week": 1512864000
+  },
+  "id": "t3_7k0mem",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0ln0ubt314401.jpg?auto=webp&s=73cf9696edcb7724177964dd2980ee68bd3f1e5e",
+    "preview": "https://preview.redd.it/0ln0ubt314401.jpg?width=640&crop=smart&auto=webp&s=e692e24cf27ffe6fc61bac72638bed316ea2a3eb",
+    "thumbnail": "https://b.thumbs.redditmedia.com/o48rLrEaecJVkLcOdgCIVJ5WrRoVeUrLrZg3607kb7g.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A monastery i built.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7k0mem/a_monastery_i_built/"
+}

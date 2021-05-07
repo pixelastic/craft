@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1574035200,
+    "full": 1574095362,
+    "month": 1572566400,
+    "week": 1573948800
+  },
+  "id": "t3_dy5n5l",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9hw9kve34hz31.jpg?auto=webp&s=8ff3e8efb3622c019b917e6a48b5c911b4059e42",
+    "preview": "https://preview.redd.it/9hw9kve34hz31.jpg?width=640&crop=smart&auto=webp&s=f4c726e5ee098e523fff9b9d5167e214f1ca8ce9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/iNaZRR2aOMTo8yESGb7RWsQHAljeu1UpH33NKEoo3eA.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making some basic hills (work in progress)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dy5n5l/making_some_basic_hills_work_in_progress/"
+}

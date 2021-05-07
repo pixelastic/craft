@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5s0y6nue",
+    "name": "thereclusivedm"
+  },
+  "date": {
+    "day": 1586908800,
+    "full": 1586959192,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g1sfwl",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xcws5k4xmzs41.jpg?auto=webp&s=144d863ee1d8862f817508ab27a0e2e45ceb62f5",
+    "preview": "https://preview.redd.it/xcws5k4xmzs41.jpg?width=640&crop=smart&auto=webp&s=aea51ae59ab376782cdbebfa3d8b10bd606c50fe",
+    "thumbnail": "https://b.thumbs.redditmedia.com/UDpZbtORv2dbeGkj-CM8t6NuwTpACvg0wGLiR1Bv_pE.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sealing terrain containing flock, requesting community experience.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g1sfwl/sealing_terrain_containing_flock_requesting/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_nmhmh",
+    "name": "FailFailWin"
+  },
+  "date": {
+    "day": 1590278400,
+    "full": 1590331783,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gpqvv7",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/4z4O8Te9O8hEPnIv3hEfOBDemxNXi3UOmJav3eEzVhg.png?format=pjpg&auto=webp&s=73e7d908ccb6b339207dd419b704e1f799f06390",
+    "preview": "https://external-preview.redd.it/4z4O8Te9O8hEPnIv3hEfOBDemxNXi3UOmJav3eEzVhg.png?width=640&crop=smart&format=pjpg&auto=webp&s=40f0e70f667854b40a83b2f2b4847d28bb942a34",
+    "thumbnail": "https://b.thumbs.redditmedia.com/a95KPts9C7EU6VvLl1rBDRFXRWeaX56DNiZQRKsX01E.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 67,
+    "value": 67
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Homemade magnetic modular building system I developed for my group - tutorial and more examples in comments!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gpqvv7/homemade_magnetic_modular_building_system_i/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lczd4az",
+    "name": "Jarod9000"
+  },
+  "date": {
+    "day": 1593648000,
+    "full": 1593705391,
+    "month": 1593561600,
+    "week": 1593302400
+  },
+  "id": "t3_hjzl9q",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/s57viyvtug851.jpg?auto=webp&s=0017136fb6882ef1bb8f6a9302ee1166f0a190f6",
+    "preview": "https://preview.redd.it/s57viyvtug851.jpg?width=640&crop=smart&auto=webp&s=8ac72e0b0f46a2e643297e1b53bbd816d56ab00f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/byw-VxvY3472cLkKp-TArXv_tuRGZkhAK_yMApT4rcE.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sewer Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hjzl9q/sewer_terrain/"
+}

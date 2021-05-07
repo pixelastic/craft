@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1587340800,
+    "full": 1587406991,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g4y8q5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/94kq6cedm0u41.jpg?auto=webp&s=9e0ee6c33dbc25152e139f8e1b640b5ad3171fb6",
+    "preview": "https://preview.redd.it/94kq6cedm0u41.jpg?width=640&crop=smart&auto=webp&s=a4640740cf57015485edac05e3abe2941b60859e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/nFU7V0iiy5OFD6K1j-RPgqc8RLvedHrlOScxip3Pq1s.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some templates for a watchtower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g4y8q5/made_some_templates_for_a_watchtower_download/"
+}

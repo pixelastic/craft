@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6iff3",
+    "name": "kalidan"
+  },
+  "date": {
+    "day": 1533340800,
+    "full": 1533393337,
+    "month": 1533081600,
+    "week": 1532822400
+  },
+  "id": "t3_94jk3k",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/56ezwzr083e11.jpg?auto=webp&s=d8a4ebb33e036f45fb661704455122b6075c6b7d",
+    "preview": "https://preview.redd.it/56ezwzr083e11.jpg?width=640&crop=smart&auto=webp&s=113cf488dffe2ffffe25b3defa45ab6ccfc28076",
+    "thumbnail": "https://b.thumbs.redditmedia.com/toO8rDGqZ5g795hm8qyZ2MrRWco68zNVmy2aVt7nyQY.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP first attempt at building dungeon pieces",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/94jk3k/wip_first_attempt_at_building_dungeon_pieces/"
+}

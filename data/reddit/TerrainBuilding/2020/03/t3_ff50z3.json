@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dy6q6",
+    "name": "ColourTheft"
+  },
+  "date": {
+    "day": 1583625600,
+    "full": 1583630226,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_ff50z3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/nnz15mh7ocl41.jpg?auto=webp&s=97d02977fda0ebdd3159066fddbbe9fb393d2948",
+    "preview": "https://preview.redd.it/nnz15mh7ocl41.jpg?width=640&crop=smart&auto=webp&s=7db4227b56e0221b3a67593cf706713bf40dd0c1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Z0YKalxYYjx7qCGFub8fMkKmCS1HQA7SNvxjdAcAKjI.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain I made for my local stores AOS board.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ff50z3/terrain_i_made_for_my_local_stores_aos_board/"
+}

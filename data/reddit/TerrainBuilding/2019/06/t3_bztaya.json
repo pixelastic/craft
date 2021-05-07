@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1rradms",
+    "name": "graybirdsmatt"
+  },
+  "date": {
+    "day": 1560297600,
+    "full": 1560356879,
+    "month": 1559347200,
+    "week": 1560038400
+  },
+  "id": "t3_bztaya",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/yebow84kcy331.jpg?auto=webp&s=3e70b443c4f1b6f26fa6a11b22a6e8236cb35974",
+    "preview": "https://preview.redd.it/yebow84kcy331.jpg?width=640&crop=smart&auto=webp&s=60527895f6b9dc5b0be7c0dd6363beafb997cebd",
+    "thumbnail": "https://b.thumbs.redditmedia.com/6_BmphJw1FHa39IA-vH77K0WVuB-Jfg9cjAyx7Yu1ws.jpg"
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 102,
+    "value": 102
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This will be fun to use!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bztaya/this_will_be_fun_to_use/"
+}

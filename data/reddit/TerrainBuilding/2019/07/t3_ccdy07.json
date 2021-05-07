@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ycysz",
+    "name": "p-billy"
+  },
+  "date": {
+    "day": 1562889600,
+    "full": 1562952858,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_ccdy07",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xgrmlrhrrw931.jpg?auto=webp&s=8b78365eee2b8b9f89e49909f2094b33b72a2a88",
+    "preview": "https://preview.redd.it/xgrmlrhrrw931.jpg?width=640&crop=smart&auto=webp&s=1c60daaaa17509339db517df2e8cf40dae641596",
+    "thumbnail": "https://a.thumbs.redditmedia.com/GpTLvNLFsem6T1NfIW1nfLuPGy26s5ng7sLI_emNPe8.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 153,
+    "value": 153
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fossilized remains? A comfy nap?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ccdy07/fossilized_remains_a_comfy_nap/"
+}

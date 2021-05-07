@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_l061d",
+    "name": "Sinqnew"
+  },
+  "date": {
+    "day": 1588032000,
+    "full": 1588103858,
+    "month": 1585699200,
+    "week": 1587859200
+  },
+  "id": "t3_g9ub88",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vfmzjl1m6mv41.jpg?auto=webp&s=5d7fd7ebe5e7a509e4af7582011b4ecfc0a1d03f",
+    "preview": "https://preview.redd.it/vfmzjl1m6mv41.jpg?width=640&crop=smart&auto=webp&s=888fa9665ca0d95c9059108f472974129f1e49d4",
+    "thumbnail": "https://a.thumbs.redditmedia.com/TBkwN6FI9rd4mHH-bNv8M2VwsZ3nQvs0vxi1wlKyit0.jpg"
+  },
+  "score": {
+    "comments": 29,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 322,
+    "value": 322
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "City of Greywater in progress!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g9ub88/city_of_greywater_in_progress/"
+}

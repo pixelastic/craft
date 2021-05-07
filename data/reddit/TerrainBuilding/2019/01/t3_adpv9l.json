@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_yeaz7q",
+    "name": "CooksAdventures"
+  },
+  "date": {
+    "day": 1546905600,
+    "full": 1546917040,
+    "month": 1546300800,
+    "week": 1546732800
+  },
+  "id": "t3_adpv9l",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/n959r8j194921.jpg?auto=webp&s=4ef9a21edae35f143e2ab515b8720374a136f8fe",
+    "preview": "https://preview.redd.it/n959r8j194921.jpg?width=640&crop=smart&auto=webp&s=16d14c051131a487814f7f86f12baa44c6f55bd8",
+    "thumbnail": "https://b.thumbs.redditmedia.com/4fhs5hmxkdWgb8PC8XTrQwA0Qk4zDjdC5tTZka5mFNY.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 110,
+    "value": 110
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished my first build, CC please.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/adpv9l/finished_my_first_build_cc_please/"
+}

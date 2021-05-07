@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7uefs",
+    "name": "Regun14"
+  },
+  "date": {
+    "day": 1572393600,
+    "full": 1572448867,
+    "month": 1569888000,
+    "week": 1572134400
+  },
+  "id": "t3_dp86x9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/68bdm5244pv31.jpg?auto=webp&s=7ad1baca1a267d46270bc3788d4169bed7a473ac",
+    "preview": "https://preview.redd.it/68bdm5244pv31.jpg?width=640&crop=smart&auto=webp&s=a5d1677a814c82b8c72e06fd4939c83ba4b19446",
+    "thumbnail": "https://b.thumbs.redditmedia.com/8yCjfsNQLQ4jQGjGmJj1sp44nL2enFlfQt96j9CAQTQ.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 195,
+    "value": 195
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A small addition to the collection",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dp86x9/a_small_addition_to_the_collection/"
+}

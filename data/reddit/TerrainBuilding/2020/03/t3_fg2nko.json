@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_of3ip",
+    "name": "L1A1"
+  },
+  "date": {
+    "day": 1583712000,
+    "full": 1583790868,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fg2nko",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/wkj7wyaqxpl41.jpg?auto=webp&s=d01496b82a1d766ef39afe9fe901220096083bb2",
+    "preview": "https://preview.redd.it/wkj7wyaqxpl41.jpg?width=640&crop=smart&auto=webp&s=022603dde24888aa7a217b502c1c3d6201c429f8",
+    "thumbnail": "https://b.thumbs.redditmedia.com/OhxFiMSsZgH7_HwWtCSPNrK9Iq4ojep5a78cJrm8vkg.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 253,
+    "value": 253
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "(WFB) Leopold's Rare Book Emporium",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fg2nko/wfb_leopolds_rare_book_emporium/"
+}

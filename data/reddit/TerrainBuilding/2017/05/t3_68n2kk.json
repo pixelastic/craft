@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_17j4jc",
+    "name": "N4ird"
+  },
+  "date": {
+    "day": 1493596800,
+    "full": 1493656892,
+    "month": 1493596800,
+    "week": 1493510400
+  },
+  "id": "t3_68n2kk",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/UJE7E9eppb9EcGLLOdJapcEUtJJTaavzvkw4gUAv8bo.jpg?auto=webp&s=7e18f6db6dda739b494d4aa12685a071d43d6738",
+    "preview": "https://external-preview.redd.it/UJE7E9eppb9EcGLLOdJapcEUtJJTaavzvkw4gUAv8bo.jpg?width=640&crop=smart&auto=webp&s=ce37283788e9798cf9777027dd11843e0bf7ccf6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/9wwVEN8JoMNEaZg4LECnAj34I58S9sh0-bLlZ3B5Vxs.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 71,
+    "value": 71
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attemp at terrain building ever",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/68n2kk/first_attemp_at_terrain_building_ever/"
+}

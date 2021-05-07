@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1585267200,
+    "full": 1585334960,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fq2yms",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/1nt4m6tyg9p41.jpg?auto=webp&s=3366ec0e4f0fd437f98b425b43773d644535e63e",
+    "preview": "https://preview.redd.it/1nt4m6tyg9p41.jpg?width=640&crop=smart&auto=webp&s=d3d54c641c6ab2e983a09de1cca3dfce200be51c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/P-vCPHa9wjK-61940o1qxMDBE5UO_HCR5Ogx5D1niFc.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP fantasy tower, starting to assemble sub-components",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fq2yms/wip_fantasy_tower_starting_to_assemble/"
+}

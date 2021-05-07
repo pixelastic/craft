@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5adb1swe",
+    "name": "Loose-Ingenuity"
+  },
+  "date": {
+    "day": 1584230400,
+    "full": 1584268196,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_fizebu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/g84lfe95dtm41.jpg?auto=webp&s=39d3639b1bed3b5b4920960a91665e2da00aacf0",
+    "preview": "https://preview.redd.it/g84lfe95dtm41.jpg?width=640&crop=smart&auto=webp&s=35ec083d3c7f0f286b7b24e065a923a13eb83c9d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/6fBxaop21ETtZrvLzllb7a-YgUkOxDmOhi8vLqZBWMw.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Rogue on a bridge. First plaster cast.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fizebu/rogue_on_a_bridge_first_plaster_cast/"
+}

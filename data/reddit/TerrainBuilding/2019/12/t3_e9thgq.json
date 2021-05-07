@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4ee9g2je",
+    "name": "Marked1975"
+  },
+  "date": {
+    "day": 1576108800,
+    "full": 1576184132,
+    "month": 1575158400,
+    "week": 1575763200
+  },
+  "id": "t3_e9thgq",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/ABvWvonja-C8tPZfTkZQ5cUc0_VPZU4LSxR53rvExy4.png?format=pjpg&auto=webp&s=4bf6a416df7d82d15654f5808f78e7be73c38af3",
+    "preview": "https://external-preview.redd.it/ABvWvonja-C8tPZfTkZQ5cUc0_VPZU4LSxR53rvExy4.png?width=640&crop=smart&format=pjpg&auto=webp&s=7a4512e21ec52a67a00ab9e8ef93fe163f29da85",
+    "thumbnail": "https://b.thumbs.redditmedia.com/c7FoXhr74GXBeu9rfxwQ3diutNmmKhEIOlwPexeTm8A.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tower diorama update: Having some issues with drawbridge but I think that if I add more weight to the top it should do it. Could I add a spring that will help to push it forward? I want to add servos but it would be pointless if the drawbridge won’t drop on its own. Any suggestions?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e9thgq/oc_tower_diorama_update_having_some_issues_with/"
+}

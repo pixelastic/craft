@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1oie84ds",
+    "name": "momento358mori"
+  },
+  "date": {
+    "day": 1605744000,
+    "full": 1605828660,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jxdwh2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/iquctylj7a061.jpg?auto=webp&s=6955e47f0cc415baf3793b80d85614bc30f2e89f",
+    "preview": "https://preview.redd.it/iquctylj7a061.jpg?width=640&crop=smart&auto=webp&s=2d05a48690b156625215d1a4af897097c95e576e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/4Ckr-8eSy9bFqmW0kT6hR0iabuVPeK8L5v_cMirXXOA.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain building in a digital world. A DMGinfo style backdrop for my dungeon crawl next week.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jxdwh2/terrain_building_in_a_digital_world_a_dmginfo/"
+}

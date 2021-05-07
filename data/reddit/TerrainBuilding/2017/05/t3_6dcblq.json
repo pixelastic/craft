@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g3xwq",
+    "name": "Sam_the_White"
+  },
+  "date": {
+    "day": 1495670400,
+    "full": 1495744744,
+    "month": 1493596800,
+    "week": 1495324800
+  },
+  "id": "t3_6dcblq",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/uDmb8PC5UeDHqulVZxl-RXJsw2o9usW8tBzlvbwCmtE.jpg?auto=webp&s=8ee3ca6db6e3a073c7c195708bf47b8e3e3063fd",
+    "preview": "https://external-preview.redd.it/uDmb8PC5UeDHqulVZxl-RXJsw2o9usW8tBzlvbwCmtE.jpg?width=640&crop=smart&auto=webp&s=6f6595bc9fd2e87dfeee96e146a068150baed6cf",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Bushido Board -- First attempt at miniature terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6dcblq/bushido_board_first_attempt_at_miniature_terrain/"
+}

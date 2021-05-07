@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16ycovb",
+    "name": "tiny_architect"
+  },
+  "date": {
+    "day": 1562630400,
+    "full": 1562645645,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_cavt88",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vts8srx8e7931.jpg?auto=webp&s=1563e72031ed0b3765a82bec449c832fb5ac6450",
+    "preview": "https://preview.redd.it/vts8srx8e7931.jpg?width=640&crop=smart&auto=webp&s=17575939bc67101269df1022bc8e515dce9854ff",
+    "thumbnail": "https://b.thumbs.redditmedia.com/FBrQWPd-ZFP2MjBQYrfSpLjIyGj2haiNmfk8mdxLbvk.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "5x5 monster scatter terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cavt88/5x5_monster_scatter_terrain/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6h24l",
+    "name": "intraspeculator"
+  },
+  "date": {
+    "day": 1545264000,
+    "full": 1545340083,
+    "month": 1543622400,
+    "week": 1544918400
+  },
+  "id": "t3_a82hz1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/8kx4jlbxzh521.jpg?auto=webp&s=9250022fc818d86aad6a73acf39ec69830827e77",
+    "preview": "https://preview.redd.it/8kx4jlbxzh521.jpg?width=640&crop=smart&auto=webp&s=d1cec291ac3a5c06dc48d8c5259b400c05f59d4f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/BmIcvJPKr-fSzP_xakf1gjuqd8gqM7FlblDcxKsvtPs.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 248,
+    "value": 248
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Autumn Woods.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a82hz1/autumn_woods/"
+}

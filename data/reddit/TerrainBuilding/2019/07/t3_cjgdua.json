@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_l4ynp",
+    "name": "GrafGrobian"
+  },
+  "date": {
+    "day": 1564358400,
+    "full": 1564429798,
+    "month": 1561939200,
+    "week": 1564272000
+  },
+  "id": "t3_cjgdua",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/d694dd5hrad31.jpg?auto=webp&s=70ccce26aa578a3cf6f1c63671d1b3a1abfe508a",
+    "preview": "https://preview.redd.it/d694dd5hrad31.jpg?width=640&crop=smart&auto=webp&s=ce22648be252143f7b23e2018d6f0e936e16c0a1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/bVnN93kZYkiO3RKcmx7ljUqUlhftb2l7a8P8vK_ZXnk.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some Teleport Markers. Also my second try on OSL, feedback appreciated!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cjgdua/made_some_teleport_markers_also_my_second_try_on/"
+}

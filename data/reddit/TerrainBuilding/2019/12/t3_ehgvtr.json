@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ficz6",
+    "name": "drlloyd2"
+  },
+  "date": {
+    "day": 1577664000,
+    "full": 1577679061,
+    "month": 1575158400,
+    "week": 1577577600
+  },
+  "id": "t3_ehgvtr",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/hdhpmqRTlkrWtpvj5Lmi7ZlYnMiRBoRZ9dabaL31wls.jpg?auto=webp&s=d492070706bbacf430e9809b1b6b05a77f114695",
+    "preview": "https://external-preview.redd.it/hdhpmqRTlkrWtpvj5Lmi7ZlYnMiRBoRZ9dabaL31wls.jpg?width=640&crop=smart&auto=webp&s=6553f825490de731ac4f696682f7543b7e780d72",
+    "thumbnail": "https://b.thumbs.redditmedia.com/x-ts-ykMV1BfuEDlgSeO2Rcj3DtlxB3tvuGnVvSpkwA.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at home-brew grass flocking material",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ehgvtr/my_first_attempt_at_homebrew_grass_flocking/"
+}

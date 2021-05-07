@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hzlby",
+    "name": "torealis"
+  },
+  "date": {
+    "day": 1579651200,
+    "full": 1579711519,
+    "month": 1577836800,
+    "week": 1579392000
+  },
+  "id": "t3_esekfd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/izhuz9kvzcc41.jpg?auto=webp&s=7f513575a5293e482afcdb028c190e64f9a0c712",
+    "preview": "https://preview.redd.it/izhuz9kvzcc41.jpg?width=640&crop=smart&auto=webp&s=2012df154a09f630666e6acb7bafc13b97f133f2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/25DgnmRhz-T92qvvD82M1FZ3JyIpbwdL_0wTTE1J_Yg.jpg"
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 207,
+    "value": 207
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making good progress on the highway. Exploiting some printer failures for battle damage.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/esekfd/making_good_progress_on_the_highway_exploiting/"
+}

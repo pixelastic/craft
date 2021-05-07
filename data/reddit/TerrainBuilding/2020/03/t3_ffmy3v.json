@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_b25ip4o",
+    "name": "Nephlem"
+  },
+  "date": {
+    "day": 1583712000,
+    "full": 1583717527,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_ffmy3v",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/pwjroqepvjl41.jpg?auto=webp&s=616825c8d8d7245600535bcda80b1045e874aa10",
+    "preview": "https://preview.redd.it/pwjroqepvjl41.jpg?width=640&crop=smart&auto=webp&s=0c6883b6df78bce6bbde3d49376901fb4da686d5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/QvHCUbvwQh9gfm-1V-SiMBucePWRtFyA8HjnxCceSeY.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 422,
+    "value": 422
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Brooklyn",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ffmy3v/brooklyn/"
+}

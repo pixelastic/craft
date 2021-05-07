@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8i8yqpp",
+    "name": "Q363Q"
+  },
+  "date": {
+    "day": 1551052800,
+    "full": 1551131472,
+    "month": 1548979200,
+    "week": 1550966400
+  },
+  "id": "t3_auqvzd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/zq78tlelcsi21.jpg?auto=webp&s=339a9981c13a92796e53a1e13de004775b15b64e",
+    "preview": "https://preview.redd.it/zq78tlelcsi21.jpg?width=640&crop=smart&auto=webp&s=36263292d5b1108f18816864cf84c5453276866e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qR8E4-IayJwbJC--S5zE4hjXL7ppkdv3dzauq-Tehhg.jpg"
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Arcane Dungeon Tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/auqvzd/arcane_dungeon_tiles/"
+}

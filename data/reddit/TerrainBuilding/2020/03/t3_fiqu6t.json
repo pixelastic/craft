@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4np6vced",
+    "name": "sladdo"
+  },
+  "date": {
+    "day": 1584144000,
+    "full": 1584224935,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fiqu6t",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/94fbf3lkspm41.jpg?auto=webp&s=b7d7f869e3b8ba652f967693aeb1c8246e97b1e7",
+    "preview": "https://preview.redd.it/94fbf3lkspm41.jpg?width=640&crop=smart&auto=webp&s=280438c02c80f1a54172a9ed2a35c6f0a5262a68",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uSHYfox-nNAtTmL9MAbb6hWmdkAPURIe5LAD24W1kDg.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a little archer outpost",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fiqu6t/i_made_a_little_archer_outpost/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_41oh4",
+    "name": "Impius"
+  },
+  "date": {
+    "day": 1551657600,
+    "full": 1551723601,
+    "month": 1551398400,
+    "week": 1551571200
+  },
+  "id": "t3_axad7l",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/8mvekkhd95k21.png?auto=webp&s=add04953a270a67ccdc3fb7f7b4edef1cdd437c4",
+    "preview": "https://preview.redd.it/8mvekkhd95k21.png?width=640&crop=smart&auto=webp&s=5a2106007026c2d33f60caf0cd870be98aaa8cc3",
+    "thumbnail": "https://a.thumbs.redditmedia.com/wAifGB2-YNk2sK_JuMzgxsOSH7ENn4WLRztV795iB30.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time ever working on something like this, ambitious project but it seems to be going well so far.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/axad7l/first_time_ever_working_on_something_like_this/"
+}

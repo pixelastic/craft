@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_17439h",
+    "name": "The_Peasant"
+  },
+  "date": {
+    "day": 1579996800,
+    "full": 1580055305,
+    "month": 1577836800,
+    "week": 1579996800
+  },
+  "id": "t3_eu8nd9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/diuf0861e5d41.jpg?auto=webp&s=6838635992700ceff90043ba72a2fb916c60d2df",
+    "preview": "https://preview.redd.it/diuf0861e5d41.jpg?width=640&crop=smart&auto=webp&s=cc929916e8ff9f73326090d78ec44504aaa31d87",
+    "thumbnail": "https://b.thumbs.redditmedia.com/XqbFNOv5uBL5UCbPuaJU9wyYuoXM0EXy83Lm6W-zB9k.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 252,
+    "value": 252
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "BMC-style Dungeon Tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eu8nd9/bmcstyle_dungeon_tiles/"
+}

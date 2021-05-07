@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2pbtzul",
+    "name": "KingcarlBavaria"
+  },
+  "date": {
+    "day": 1596585600,
+    "full": 1596610758,
+    "month": 1596240000,
+    "week": 1596326400
+  },
+  "id": "t3_i40kqc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/g6kiyckzt4f51.jpg?auto=webp&s=16f43853ed7ba5549be2a903792e3df98e450579",
+    "preview": "https://preview.redd.it/g6kiyckzt4f51.jpg?width=640&crop=smart&auto=webp&s=9b42d2239d4cfb6adc047f1052040493aab1d6f0",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Tr_7Lv7ZSN_k4rbmb4RGUTw9Ktz6uUiwGbC9M8vnyiE.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Modular City System",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i40kqc/wip_modular_city_system/"
+}

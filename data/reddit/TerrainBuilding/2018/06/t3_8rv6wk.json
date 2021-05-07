@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_r9e9k",
+    "name": "ATinyTinyMan"
+  },
+  "date": {
+    "day": 1529280000,
+    "full": 1529280424,
+    "month": 1527811200,
+    "week": 1529193600
+  },
+  "id": "t3_8rv6wk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cjjaqh8cin411.png?auto=webp&s=3a3a455137f2c840b03d34991f347f546ec641d7",
+    "preview": "https://preview.redd.it/cjjaqh8cin411.png?width=640&crop=smart&auto=webp&s=2dcea6880de329d8f2a9b8afd5555f90ca31a2b4",
+    "thumbnail": "https://b.thumbs.redditmedia.com/flEcZUPlJAEvg07u3_0HfvSyU8BwxijjhwkHg1WaFHU.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Home made hot wire cutter.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8rv6wk/home_made_hot_wire_cutter/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2e8u5puj",
+    "name": "castyrminion"
+  },
+  "date": {
+    "day": 1539388800,
+    "full": 1539389562,
+    "month": 1538352000,
+    "week": 1538870400
+  },
+  "id": "t3_9npjl4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cgdfc1wzhur11.jpg?auto=webp&s=146d70b8c13144365fec28375a6104cd4af7b868",
+    "preview": "https://preview.redd.it/cgdfc1wzhur11.jpg?width=640&crop=smart&auto=webp&s=5a179cdebc5e7606b3407b1c0dbb598cb0f725f5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/tGFuOiqznte6nM4SjmMAcTMXEy09-5x8qRHsm7_LvII.jpg"
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First crack at terrain! C&C appreciated!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9npjl4/first_crack_at_terrain_cc_appreciated/"
+}

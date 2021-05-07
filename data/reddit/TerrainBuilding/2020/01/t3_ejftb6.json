@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1578009600,
+    "full": 1578060336,
+    "month": 1577836800,
+    "week": 1577577600
+  },
+  "id": "t3_ejftb6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9m08igiylk841.jpg?auto=webp&s=216376b8007f314d3a1335244e6401b88cfe8191",
+    "preview": "https://preview.redd.it/9m08igiylk841.jpg?width=640&crop=smart&auto=webp&s=c275364acee56e7ff49f9463dc5263633687e091",
+    "thumbnail": "https://b.thumbs.redditmedia.com/U-NzJBaHTLt12RZxb5d-I1r9ImjGFBaH7IEWD702QLs.jpg"
+  },
+  "score": {
+    "comments": 29,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 306,
+    "value": 306
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small cardboard building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ejftb6/small_cardboard_building/"
+}

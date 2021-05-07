@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_itgid",
+    "name": "blockypigeon"
+  },
+  "date": {
+    "day": 1584576000,
+    "full": 1584579164,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_fl0v2m",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kj2qzbov1jn41.jpg?auto=webp&s=2309c558e9bf63483a441e6ccb664988bf2db234",
+    "preview": "https://preview.redd.it/kj2qzbov1jn41.jpg?width=640&crop=smart&auto=webp&s=d561f93e645f90699bceea057dc7cecf565cc2cf",
+    "thumbnail": "https://b.thumbs.redditmedia.com/tb-mJj_6f-em3ab2Q4e7I9Gqq3nG2mu-G6QI2MU7ccw.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Had an old model turned it into some scatter terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fl0v2m/had_an_old_model_turned_it_into_some_scatter/"
+}

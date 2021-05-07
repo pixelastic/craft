@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8a4jazn2",
+    "name": "The_Schwarnold"
+  },
+  "date": {
+    "day": 1609027200,
+    "full": 1609082604,
+    "month": 1606780800,
+    "week": 1609027200
+  },
+  "id": "t3_kl5cth",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/gxj3djw6zq761.jpg?auto=webp&s=3f60262421c79e98e37f016428da84ddb0ef103b",
+    "preview": "https://preview.redd.it/gxj3djw6zq761.jpg?width=640&crop=smart&auto=webp&s=b5e2ecd659314de7547fb5eb47144662f7b10877",
+    "thumbnail": "https://b.thumbs.redditmedia.com/LS-TaLuSZfYORgQN2zuDBomsKe2eOQid2L2lX340DMI.jpg"
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 390,
+    "value": 390
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A wip of my little test project, goblin for scale",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kl5cth/a_wip_of_my_little_test_project_goblin_for_scale/"
+}

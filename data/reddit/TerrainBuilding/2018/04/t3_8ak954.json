@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33u00",
+    "name": "roflo1"
+  },
+  "date": {
+    "day": 1523059200,
+    "full": 1523127854,
+    "month": 1522540800,
+    "week": 1522540800
+  },
+  "id": "t3_8ak954",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ot2tul0fbjq01.jpg?auto=webp&s=59714f98d1211c0371b724246708d5afce3c5a19",
+    "preview": "https://preview.redd.it/ot2tul0fbjq01.jpg?width=640&crop=smart&auto=webp&s=7601f625e6a246bc5be58f3e56d2586288f1b007",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Rw_4M7mpfHHPn3YFLIY4ihCAA5wvJHdTyUTMqFH1iuY.jpg"
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 122,
+    "value": 122
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first serious attempt at terrain building.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8ak954/my_first_serious_attempt_at_terrain_building/"
+}

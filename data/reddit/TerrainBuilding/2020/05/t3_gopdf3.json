@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_69s6qpkc",
+    "name": "A_Pev"
+  },
+  "date": {
+    "day": 1590105600,
+    "full": 1590173603,
+    "month": 1588291200,
+    "week": 1589673600
+  },
+  "id": "t3_gopdf3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/s0o07py05d051.jpg?auto=webp&s=e31a291bf76ce27331bf2580048d715f22bd9f90",
+    "preview": "https://preview.redd.it/s0o07py05d051.jpg?width=640&crop=smart&auto=webp&s=83c72ce2534c96370832bed60808578f22601511",
+    "thumbnail": "https://b.thumbs.redditmedia.com/-Hr3rW32yMT11DKjMCmtdl1QSZRFIjaHLDPOwsS8O5w.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 105,
+    "value": 105
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Went a little overboard with dot filtering. Now that it's dry, is there any way to tone it down a bit?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gopdf3/went_a_little_overboard_with_dot_filtering_now/"
+}

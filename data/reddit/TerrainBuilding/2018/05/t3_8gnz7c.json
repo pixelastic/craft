@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_93xk8",
+    "name": "bcs00002"
+  },
+  "date": {
+    "day": 1525305600,
+    "full": 1525324482,
+    "month": 1525132800,
+    "week": 1524960000
+  },
+  "id": "t3_8gnz7c",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/wopq2t97rkv01.jpg?auto=webp&s=34e5664d4e601ee94aeb03ad8f6f738d36bd971b",
+    "preview": "https://preview.redd.it/wopq2t97rkv01.jpg?width=640&crop=smart&auto=webp&s=4d361a313c18a6c7479a7ac41efc0e178aac73f4",
+    "thumbnail": "https://b.thumbs.redditmedia.com/-YQs9OJwJjK8DVqLr05RAS3zwSxmeUZJyr8NLlOMqmw.jpg"
+  },
+  "score": {
+    "comments": 22,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 257,
+    "value": 257
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Inquisitor shanty town first 2x2 section.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8gnz7c/inquisitor_shanty_town_first_2x2_section/"
+}

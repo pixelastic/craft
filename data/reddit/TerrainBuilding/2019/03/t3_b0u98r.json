@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_283948zt",
+    "name": "Cardboard-DM"
+  },
+  "date": {
+    "day": 1552521600,
+    "full": 1552526716,
+    "month": 1551398400,
+    "week": 1552176000
+  },
+  "id": "t3_b0u98r",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kgju34hvjzl21.jpg?auto=webp&s=c0d4e57b402c292d0936465cb08122b2affc77c8",
+    "preview": "https://preview.redd.it/kgju34hvjzl21.jpg?width=640&crop=smart&auto=webp&s=780ca4f8f55c93a4959cef041425c894bc3de470",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ZUWzRgBOHeJotc9sfVuCl2gj2psKYTzc8zlPpb4Gx6w.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cardboard abandoned mill battlemap",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b0u98r/art_cardboard_abandoned_mill_battlemap/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4pse81m4",
+    "name": "borasrb"
+  },
+  "date": {
+    "day": 1585353600,
+    "full": 1585396478,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fqisxh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/taw8q906kep41.jpg?auto=webp&s=c830fdc8a16ce19f6575aee3fef4548bf6a14dc9",
+    "preview": "https://preview.redd.it/taw8q906kep41.jpg?width=640&crop=smart&auto=webp&s=46390d10c8b0f7cc99392d19035e5cbc1e2104d5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/hlb7PtXr-sBECS2Uqega2zSDnJDTe7EEv871SeGfwzs.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 110,
+    "value": 110
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Different angle.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fqisxh/different_angle/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_fu25z",
+    "name": "ADDB_98"
+  },
+  "date": {
+    "day": 1602720000,
+    "full": 1602782816,
+    "month": 1601510400,
+    "week": 1602374400
+  },
+  "id": "t3_jbs2he",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/dgbfvqromat51.jpg?auto=webp&s=1745162965eabf7dbc1c74bb3f4efe0c572fa04b",
+    "preview": "https://preview.redd.it/dgbfvqromat51.jpg?width=640&crop=smart&auto=webp&s=071edecad2c30f4dabddd22d5176a452c92c192d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Xsx9DQCsRJL6Hora1eAhk13c-kvr1vVh_U0SFOvNq3A.jpg"
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 671,
+    "value": 671
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First bit of terrain building turned out better than expected",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jbs2he/first_bit_of_terrain_building_turned_out_better/"
+}

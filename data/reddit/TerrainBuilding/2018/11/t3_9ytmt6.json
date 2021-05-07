@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_cduzz",
+    "name": "Shellout"
+  },
+  "date": {
+    "day": 1542672000,
+    "full": 1542731004,
+    "month": 1541030400,
+    "week": 1542499200
+  },
+  "id": "t3_9ytmt6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9ji5hjathiz11.jpg?auto=webp&s=10180a5a79b2edd76e7970882607f9323a692f26",
+    "preview": "https://preview.redd.it/9ji5hjathiz11.jpg?width=640&crop=smart&auto=webp&s=69ad119808d773be7c74cac010e2ed2f0b5d9ed3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/faTcTTNlNLULF_mvlVqs_hUlTegjWsxdSMBY-hGeggA.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another WIP: cave sections",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9ytmt6/another_wip_cave_sections/"
+}

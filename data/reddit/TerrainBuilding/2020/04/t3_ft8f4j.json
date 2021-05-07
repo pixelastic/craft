@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3eedtcrb",
+    "name": "Ethan-Level"
+  },
+  "date": {
+    "day": 1585699200,
+    "full": 1585774426,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ft8f4j",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/hdd3lj60s9q41.jpg?auto=webp&s=615ec6343734d52bd906e3e271aeefaa50ff47d6",
+    "preview": "https://preview.redd.it/hdd3lj60s9q41.jpg?width=640&crop=smart&auto=webp&s=f8b25553e76f8143fa39d77f9e26de80418ac1a4",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Vckti6epe7JYDoCt_rbAk2FgmbWD2jTQyBsn9v6VI5s.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How to rustify this barrel?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ft8f4j/how_to_rustify_this_barrel/"
+}

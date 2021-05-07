@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4s1rk2fb",
+    "name": "changobongo1"
+  },
+  "date": {
+    "day": 1601424000,
+    "full": 1601505833,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j2whv9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kvnbgbbj5dq51.jpg?auto=webp&s=e09fcf4567c8455e02f05c3d3ed8d91111163690",
+    "preview": "https://preview.redd.it/kvnbgbbj5dq51.jpg?width=640&crop=smart&auto=webp&s=7a288c2cc1c9852a57853cafcd545a3eca7288cd",
+    "thumbnail": "https://a.thumbs.redditmedia.com/aXvGnTLE-SqAbCkX9zOKVAehbsUwqi2dIAvAjxH61h4.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Weathering soon",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j2whv9/weathering_soon/"
+}

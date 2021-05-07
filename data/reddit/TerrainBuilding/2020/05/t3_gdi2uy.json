@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_itgid",
+    "name": "blockypigeon"
+  },
+  "date": {
+    "day": 1588550400,
+    "full": 1588619880,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_gdi2uy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/uruzfsxzssw41.jpg?auto=webp&s=1eb657f3a38617452237fdb491201c794749ef69",
+    "preview": "https://preview.redd.it/uruzfsxzssw41.jpg?width=640&crop=smart&auto=webp&s=89d8a3bb8e445b83a1a2be2bd34105bfd1ea275b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/jduXhE3i9VZjv9OStHkQg6-KcUDUJd9gBmq13JMXWUw.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First little shack of a whole ruined shack village for warcry.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gdi2uy/first_little_shack_of_a_whole_ruined_shack/"
+}

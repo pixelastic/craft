@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3mwgqg",
+    "name": "Peanut_Pancake"
+  },
+  "date": {
+    "day": 1579996800,
+    "full": 1580013355,
+    "month": 1577836800,
+    "week": 1579996800
+  },
+  "id": "t3_eu26ge",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6h44rp2ex1d41.jpg?auto=webp&s=e0450a6c93e49da01efba7b4ea32c78ac7e3a46d",
+    "preview": "https://preview.redd.it/6h44rp2ex1d41.jpg?width=640&crop=smart&auto=webp&s=584c48f2dad89b03acc8cc4cfa3009473261670a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/iFeHFvZpTqQ9M1Eapsvkk2A45DeHb-99QeNVNR3eZNc.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Tudor Windows",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eu26ge/wip_tudor_windows/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1526947200,
+    "full": 1526996994,
+    "month": 1525132800,
+    "week": 1526774400
+  },
+  "id": "t3_8la45f",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/w_1s6LehX0Q0wi2j1GMNLaqt76FvRKN2bdiZeRLJ6jU.png?format=pjpg&auto=webp&s=a31c68053df73f5c7fbb7485a5410c4d19f93eee",
+    "preview": "https://external-preview.redd.it/w_1s6LehX0Q0wi2j1GMNLaqt76FvRKN2bdiZeRLJ6jU.png?width=640&crop=smart&format=pjpg&auto=webp&s=70701428659014a395dc04b84c3b6b9bf1d218e1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/rJP6EhK1o9d1m-XReVJIeSv3QDst4xh1IVPjEtvyqnM.jpg"
+  },
+  "score": {
+    "comments": 24,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 293,
+    "value": 293
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "10mm Sci Fi - testing reddit video",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8la45f/10mm_sci_fi_testing_reddit_video/"
+}

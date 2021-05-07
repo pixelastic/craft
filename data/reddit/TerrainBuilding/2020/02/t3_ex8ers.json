@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2kxcq",
+    "name": "Hideous"
+  },
+  "date": {
+    "day": 1580515200,
+    "full": 1580573966,
+    "month": 1580515200,
+    "week": 1579996800
+  },
+  "id": "t3_ex8ers",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/P8UfTi5faewHlLhFEegGTDNaYcTlavEBP0swX4tc-wE.jpg?auto=webp&s=a1b4c9f7f702e511c1d9c0abae8954907916ccbb",
+    "preview": "https://external-preview.redd.it/P8UfTi5faewHlLhFEegGTDNaYcTlavEBP0swX4tc-wE.jpg?width=640&crop=smart&auto=webp&s=3ec7c70e45fa62e5ba200c66c301c57bb35d71fd",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Cca0gPnNf7ubsHf-N0-NpYVr8E-sb-1giEggsD7chGs.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A well-decorated dice tower counts as terrain, right?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ex8ers/a_welldecorated_dice_tower_counts_as_terrain_right/"
+}

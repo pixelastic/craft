@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1atmbb4p",
+    "name": "zach5483"
+  },
+  "date": {
+    "day": 1583884800,
+    "full": 1583940215,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fgytse",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/u9fu2qyx92m41.jpg?auto=webp&s=06f2a4074e60fe8ed9a77aa8e3c1f7e804e57683",
+    "preview": "https://preview.redd.it/u9fu2qyx92m41.jpg?width=640&crop=smart&auto=webp&s=14ac3564aaf7f652001d1b58fe9187dda1008049",
+    "thumbnail": "https://b.thumbs.redditmedia.com/QhM4k1c5SB6sUPEb7ZszRXdPhIFJJUIbYtZ9GJDpA3E.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 145,
+    "value": 145
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dungeon Pillars",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fgytse/dungeon_pillars/"
+}

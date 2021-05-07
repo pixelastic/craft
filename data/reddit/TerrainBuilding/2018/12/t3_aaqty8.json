@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hoawo8l",
+    "name": "Lazarus-TRM"
+  },
+  "date": {
+    "day": 1546128000,
+    "full": 1546129813,
+    "month": 1543622400,
+    "week": 1546128000
+  },
+  "id": "t3_aaqty8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xas3wv088b721.jpg?auto=webp&s=54c880a7ba9646a5fdda2bea9bbe283e047508c6",
+    "preview": "https://preview.redd.it/xas3wv088b721.jpg?width=640&crop=smart&auto=webp&s=a557fd0afc9d1b9cd194f36e03ddbcf054fd05d7",
+    "thumbnail": "https://a.thumbs.redditmedia.com/XpTdj5JekJDRMQX4h6URKGvC8jyrqHDeWLzSoGaEql0.jpg"
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 101,
+    "value": 101
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "After nearly half a roll of filament, our first successful terrain print!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aaqty8/after_nearly_half_a_roll_of_filament_our_first/"
+}

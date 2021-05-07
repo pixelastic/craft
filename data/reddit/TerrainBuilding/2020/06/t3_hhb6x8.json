@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_14me76",
+    "name": "Oatstar"
+  },
+  "date": {
+    "day": 1593302400,
+    "full": 1593334492,
+    "month": 1590969600,
+    "week": 1593302400
+  },
+  "id": "t3_hhb6x8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/q7jn3ipu7m751.jpg?auto=webp&s=906bdb11ca4050e3e41421d9d2598a284f0d1deb",
+    "preview": "https://preview.redd.it/q7jn3ipu7m751.jpg?width=640&crop=smart&auto=webp&s=d0aa14a9e5e6dfb19008ebab0e005a94a9fd5c5d",
+    "thumbnail": "https://a.thumbs.redditmedia.com/SHHrFVfjv2qUESvVhx4swS_rDlC3iuv8GBTGiR3ao50.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Waystones / Oathmarks / POI's",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hhb6x8/waystones_oathmarks_pois/"
+}

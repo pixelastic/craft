@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12dey0",
+    "name": "Anp117"
+  },
+  "date": {
+    "day": 1590969600,
+    "full": 1590981325,
+    "month": 1590969600,
+    "week": 1590883200
+  },
+  "id": "t3_gucwb7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/bsgxzs4su7251.jpg?auto=webp&s=bdb5bad626e190d23643dec3f0e23b05d0fb7504",
+    "preview": "https://preview.redd.it/bsgxzs4su7251.jpg?width=640&crop=smart&auto=webp&s=9bb9bfd06ff2e887846005e8b26c867880c58bd3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/jAg4IHTPNLyAo1QAuInTnrCNZHvyxLPtB5EuJYGIMAo.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 70,
+    "value": 70
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP viking longboat with the BMC template.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gucwb7/wip_viking_longboat_with_the_bmc_template/"
+}

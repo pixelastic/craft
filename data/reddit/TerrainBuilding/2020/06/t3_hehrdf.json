@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5m0sdkl9",
+    "name": "Kuqry"
+  },
+  "date": {
+    "day": 1592870400,
+    "full": 1592929630,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hehrdf",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5bu4ph6blu551.jpg?auto=webp&s=d6f84a335315455c841bb06eabf865e56ebda826",
+    "preview": "https://preview.redd.it/5bu4ph6blu551.jpg?width=640&crop=smart&auto=webp&s=7dc0f3d872a40e42acc23d6fa3fd525713189d6d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/0mUuqEZ-8ZDwQv-ICc_basXXabo4SfmfNqtybxVy-DE.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 108,
+    "value": 108
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": ".",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hehrdf/_/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1o0vdpco",
+    "name": "Master-Ace"
+  },
+  "date": {
+    "day": 1580083200,
+    "full": 1580161430,
+    "month": 1577836800,
+    "week": 1579996800
+  },
+  "id": "t3_euuzzk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/s080o8oo5ed41.jpg?auto=webp&s=d9e5ee66fcd82c87200fdd326fbeab7c37168af4",
+    "preview": "https://preview.redd.it/s080o8oo5ed41.jpg?width=640&crop=smart&auto=webp&s=611de758517daf2ead9a2d4948c13bc0b978360d",
+    "thumbnail": "https://a.thumbs.redditmedia.com/JxZgfFdlFYhMJWPmiQqLwDCg4c1VOlBFOjg-BHs9DE0.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A mini mountain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/euuzzk/a_mini_mountain/"
+}

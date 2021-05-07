@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3hrcrk8k",
+    "name": "Parzivel123"
+  },
+  "date": {
+    "day": 1603411200,
+    "full": 1603461509,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jgnlun",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/08yecnpqouu51.jpg?auto=webp&s=5b37242cbbe3e658b10be9cea115e8d2fee5573f",
+    "preview": "https://preview.redd.it/08yecnpqouu51.jpg?width=640&crop=smart&auto=webp&s=058613842b649d8b8fbfd0d477553f5fe73d2dfc",
+    "thumbnail": "https://b.thumbs.redditmedia.com/UZH_NkcqFvwyDGC7_yvLV9XK7oBupZmfDLvuqKTJzdg.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building 3/3",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jgnlun/building_33/"
+}

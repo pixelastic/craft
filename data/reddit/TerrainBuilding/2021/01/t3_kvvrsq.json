@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1610409600,
+    "full": 1610471359,
+    "month": 1609459200,
+    "week": 1610236800
+  },
+  "id": "t3_kvvrsq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5aloefyloxa61.jpg?auto=webp&s=b41f8dfdd1374d9da8f3f68f44d36cc3eaa29993",
+    "preview": "https://preview.redd.it/5aloefyloxa61.jpg?width=640&crop=smart&auto=webp&s=a7a70a2ec8589e2624cea2a5a2a0e081fed54046",
+    "thumbnail": "https://b.thumbs.redditmedia.com/DEId0ve9oKyhx77jKAD-GirsvykuQ4Bi6nlwXOFKQ5A.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made some cardboard components for a project I'm working on (video in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kvvrsq/made_some_cardboard_components_for_a_project_im/"
+}

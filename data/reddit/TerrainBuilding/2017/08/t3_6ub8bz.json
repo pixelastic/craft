@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_15k36d",
+    "name": "GoblinFoundry"
+  },
+  "date": {
+    "day": 1502928000,
+    "full": 1502988204,
+    "month": 1501545600,
+    "week": 1502582400
+  },
+  "id": "t3_6ub8bz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ofohqi12ubgz.jpg?auto=webp&s=39bf4aac22942154faa7365ae69db1033b3cb5f0",
+    "preview": "https://preview.redd.it/ofohqi12ubgz.jpg?width=640&crop=smart&auto=webp&s=265b2f8ed6802a5b36b67cc05c711b875915a705",
+    "thumbnail": "https://b.thumbs.redditmedia.com/SsA-6ueAe7jIKzwvdifO7ugZvKLXzTZP7RBQIJiQc4s.jpg"
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 129,
+    "value": 129
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My cathedral project update.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6ub8bz/op_oc_my_cathedral_project_update/"
+}

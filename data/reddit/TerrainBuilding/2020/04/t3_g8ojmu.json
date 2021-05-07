@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_gugox",
+    "name": "MArkFIA"
+  },
+  "date": {
+    "day": 1587859200,
+    "full": 1587942120,
+    "month": 1585699200,
+    "week": 1587859200
+  },
+  "id": "t3_g8ojmu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3m95fhgot8v41.jpg?auto=webp&s=2a45a110bdf555e029131b1f35c900db3925ddce",
+    "preview": "https://preview.redd.it/3m95fhgot8v41.jpg?width=640&crop=smart&auto=webp&s=170bdcff412b0000b76a0ddff02d4d4e56f0aa6a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uJJtf376Gms2r1XgtH6HjSA-hLIEwMVZ11sW3NmMl1s.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on some things",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g8ojmu/working_on_some_things/"
+}

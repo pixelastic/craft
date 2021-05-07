@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_44vku",
+    "name": "red_rock"
+  },
+  "date": {
+    "day": 1484438400,
+    "full": 1484524567,
+    "month": 1483228800,
+    "week": 1484438400
+  },
+  "id": "t3_5o7dmm",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/hZDGZOteIny9zXTgcQNTXHBmSLNlW_SORQn1VMQhpGg.jpg?auto=webp&s=f3b71d118cdc638ecdf05a90bf480a8f8fe180db",
+    "preview": "https://external-preview.redd.it/hZDGZOteIny9zXTgcQNTXHBmSLNlW_SORQn1VMQhpGg.jpg?width=640&crop=smart&auto=webp&s=420c754808a86961df1f199b32069036a5534c6d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/i_m_rzBFJ4TZHd7fld7aSwUw6OO2fTLZkdQFVKeaArY.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "4Ground builds",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5o7dmm/4ground_builds/"
+}

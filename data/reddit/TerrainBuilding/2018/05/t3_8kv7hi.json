@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1526774400,
+    "full": 1526847303,
+    "month": 1525132800,
+    "week": 1526774400
+  },
+  "id": "t3_8kv7hi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xsbrvdbfj2z01.jpg?auto=webp&s=f98165d4c8c05d9ea86448753c8679786b4c26cf",
+    "preview": "https://preview.redd.it/xsbrvdbfj2z01.jpg?width=640&crop=smart&auto=webp&s=33578730952380b6604b5dbf973bce97d67e12d0",
+    "thumbnail": "https://b.thumbs.redditmedia.com/12ZbJquh2bHl7_KgkfZopGvnNNJLSm8GQg2oM3WFkVQ.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 66,
+    "value": 66
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some test bases using some new tufts I got.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8kv7hi/some_test_bases_using_some_new_tufts_i_got/"
+}

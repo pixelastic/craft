@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdsei",
+    "name": "kittbash"
+  },
+  "date": {
+    "day": 1608854400,
+    "full": 1608890042,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kjwn8p",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ddbwfdvk2b761.jpg?auto=webp&s=741ecc127e5fe5a467dc17efc3c11fed4a4ea50f",
+    "preview": "https://preview.redd.it/ddbwfdvk2b761.jpg?width=640&crop=smart&auto=webp&s=a04fd06fbfa84b6250848f36deb7869c53e2d9fa",
+    "thumbnail": "https://b.thumbs.redditmedia.com/0i5xwNqBudiQeW235ntsyaDCPPP5191SghkxImOO48E.jpg"
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What would you build out of this?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kjwn8p/what_would_you_build_out_of_this/"
+}

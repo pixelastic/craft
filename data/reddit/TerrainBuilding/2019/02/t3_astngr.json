@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dnz7l",
+    "name": "Captainnada"
+  },
+  "date": {
+    "day": 1550620800,
+    "full": 1550696295,
+    "month": 1548979200,
+    "week": 1550361600
+  },
+  "id": "t3_astngr",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/nXVaw84XDlXOuN6RAF5uXegP6IukBCzz-RxQMbYK53k.jpg?auto=webp&s=72f90090b86617ff93dcbcf6e457f08013a7de70",
+    "preview": "https://external-preview.redd.it/nXVaw84XDlXOuN6RAF5uXegP6IukBCzz-RxQMbYK53k.jpg?width=640&crop=smart&auto=webp&s=ea9ffeedd53efb4a5cb72ff92e87c9361c694da8",
+    "thumbnail": "https://b.thumbs.redditmedia.com/RQVpQcji_dbYMxrQPlVgMbndGhbhdB-69_iTBD7RSMA.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Test Run Before I Start Building My First Terrain. C&C Appreciated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/astngr/a_test_run_before_i_start_building_my_first/"
+}

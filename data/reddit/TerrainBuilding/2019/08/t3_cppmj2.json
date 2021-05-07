@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3q3ftels",
+    "name": "Robertdeanfourie1"
+  },
+  "date": {
+    "day": 1565654400,
+    "full": 1565680743,
+    "month": 1564617600,
+    "week": 1565481600
+  },
+  "id": "t3_cppmj2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/qxwpee8636g31.jpg?auto=webp&s=7bd15bae602e595c0099f2aabd3d57a600aa5bf8",
+    "preview": "https://preview.redd.it/qxwpee8636g31.jpg?width=640&crop=smart&auto=webp&s=ff178af77a55e8df6151bfff33f7c28027949fd7",
+    "thumbnail": "https://b.thumbs.redditmedia.com/F39_jgnoMsH7_E_4h8YosX71xpzkXcj2VRQc6IPMDpA.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My attempt at a water terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cppmj2/my_attempt_at_a_water_terrain/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2owenc35",
+    "name": "Taruskippy"
+  },
+  "date": {
+    "day": 1585872000,
+    "full": 1585878711,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ftzcbv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/qxv61ou3eiq41.jpg?auto=webp&s=f9f5f46c252d44e256abe0a1ff816a8026684eaf",
+    "preview": "https://preview.redd.it/qxv61ou3eiq41.jpg?width=640&crop=smart&auto=webp&s=9af977c9350c4d0ed52f3b37af40cd496c8e79dd",
+    "thumbnail": "https://a.thumbs.redditmedia.com/95iZ1CGx-u_f3-sasMFgs6UB_Q3xubTHUSA3CXkobM8.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I started making my first bit of terrain. Went with the cocofiber method. I already have ideas for how to improve, but I really like how these turned out.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ftzcbv/i_started_making_my_first_bit_of_terrain_went/"
+}

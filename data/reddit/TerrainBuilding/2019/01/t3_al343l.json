@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7vwlz",
+    "name": "TopHatPanda"
+  },
+  "date": {
+    "day": 1548720000,
+    "full": 1548787189,
+    "month": 1546300800,
+    "week": 1548547200
+  },
+  "id": "t3_al343l",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ccy0w6atped21.jpg?auto=webp&s=a1eeb6461652c4aea84a23dbef7dd9b529a5670b",
+    "preview": "https://preview.redd.it/ccy0w6atped21.jpg?width=640&crop=smart&auto=webp&s=2d1fd1cbd16faf8eda331671e4906cfd41558311",
+    "thumbnail": "https://b.thumbs.redditmedia.com/QLYGxJimjL7ABPl8aLUomGup2STlEIMF2tiXk0gnpZU.jpg"
+  },
+  "score": {
+    "comments": 44,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 321,
+    "value": 321
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Brick joint tests for my small shack in progress. Findings inside.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/al343l/brick_joint_tests_for_my_small_shack_in_progress/"
+}

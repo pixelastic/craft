@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_17db83",
+    "name": "TUB1230"
+  },
+  "date": {
+    "day": 1579132800,
+    "full": 1579143994,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_epd9jz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/o5aqd08c42b41.jpg?auto=webp&s=c44b248ce883781ac4c146909886447175dc7d44",
+    "preview": "https://preview.redd.it/o5aqd08c42b41.jpg?width=640&crop=smart&auto=webp&s=2620bcf8be7653a35c1e65192e151163326a0056",
+    "thumbnail": "https://b.thumbs.redditmedia.com/4g0c2Fl3LUf8FoChzfd9Bcfci94da-hap59bXDDRV9w.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally got a picture of my modular tiles in action",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/epd9jz/finally_got_a_picture_of_my_modular_tiles_in/"
+}

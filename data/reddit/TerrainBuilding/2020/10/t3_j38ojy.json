@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7o01e",
+    "name": "Yanturas"
+  },
+  "date": {
+    "day": 1601510400,
+    "full": 1601559352,
+    "month": 1601510400,
+    "week": 1601164800
+  },
+  "id": "t3_j38ojy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/870i49tokhq51.jpg?auto=webp&s=0547a4c39eebc3006ca0d318a9e5d3389d816dca",
+    "preview": "https://preview.redd.it/870i49tokhq51.jpg?width=640&crop=smart&auto=webp&s=9fe8b850c1b0a7f8b5357608a7effa950bed8c89",
+    "thumbnail": "https://b.thumbs.redditmedia.com/YalCLbSoE1_a0_guhuGO-lJcKhQwnlpqEXRi-oSv9hk.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.76,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Looking for ideas!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j38ojy/looking_for_ideas/"
+}

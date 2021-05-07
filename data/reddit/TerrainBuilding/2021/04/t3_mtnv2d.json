@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5olrp",
+    "name": "TitoOliveira"
+  },
+  "date": {
+    "day": 1618704000,
+    "full": 1618787515,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mtnv2d",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/DMr3YZlyvvcVLZOlw2jF92nv9Br-4p8PoXpzrv1XI6M.jpg?auto=webp&s=c9beb07fa812400dcf505aa05d1a7bfd025380cb",
+    "preview": "https://external-preview.redd.it/DMr3YZlyvvcVLZOlw2jF92nv9Br-4p8PoXpzrv1XI6M.jpg?width=640&crop=smart&auto=webp&s=5a15cef94c17ee24ad8d586fd6dbdc8659c6345e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/vIMwfvdV0jk3kpG_SdyN22qTO83Vy-Y-gR-sTuJTpHs.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first piece of terrain building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mtnv2d/my_first_piece_of_terrain_building/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_nmhmh",
+    "name": "FailFailWin"
+  },
+  "date": {
+    "day": 1593907200,
+    "full": 1593961256,
+    "month": 1593561600,
+    "week": 1593907200
+  },
+  "id": "t3_hlnzma",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/8Z2iH3sKLmz_RDqomO40ltSBXi-Vj1_5z-1iZE_VoMA.png?format=pjpg&auto=webp&s=92580f4c50cd687ab2e5029bd8db7b25be7f9a8f",
+    "preview": "https://external-preview.redd.it/8Z2iH3sKLmz_RDqomO40ltSBXi-Vj1_5z-1iZE_VoMA.png?width=640&crop=smart&format=pjpg&auto=webp&s=6a6897e2fd3fd4d0ea2d97e593ff11e0b6625acb",
+    "thumbnail": "https://b.thumbs.redditmedia.com/DcXEpyDaybZCfjONDkvxMKVkG_U-DGYKguQbrK6U1sc.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "So this week I made a tutorial for how to make a full cathedral scene from modular tiles - link in comments :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hlnzma/so_this_week_i_made_a_tutorial_for_how_to_make_a/"
+}

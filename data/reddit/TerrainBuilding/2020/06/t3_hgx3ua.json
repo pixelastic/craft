@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1593216000,
+    "full": 1593277216,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hgx3ua",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/m3fo9zrnhh751.jpg?auto=webp&s=9b5da14e2773393c35a449dc4f96533da8af4077",
+    "preview": "https://preview.redd.it/m3fo9zrnhh751.jpg?width=640&crop=smart&auto=webp&s=3957a22404fbd601f66bbab6bbb8c55afa2cd761",
+    "thumbnail": "https://b.thumbs.redditmedia.com/sgNJtv70WyVayxGrwqqnmAtBlX-LXqbu8IMsb8JagPI.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Helping my friend build his first terrain table!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hgx3ua/helping_my_friend_build_his_first_terrain_table/"
+}

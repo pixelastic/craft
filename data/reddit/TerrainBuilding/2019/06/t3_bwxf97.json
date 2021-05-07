@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5uqgf",
+    "name": "devicezero"
+  },
+  "date": {
+    "day": 1559692800,
+    "full": 1559701502,
+    "month": 1559347200,
+    "week": 1559433600
+  },
+  "id": "t3_bwxf97",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/307kczlt7g231.jpg?auto=webp&s=aad2f731f7b9b447ddd3562eca1bcb42ba59a9f2",
+    "preview": "https://preview.redd.it/307kczlt7g231.jpg?width=640&crop=smart&auto=webp&s=11610554530a0fca75371c2f214345b106c7b8b0",
+    "thumbnail": "https://b.thumbs.redditmedia.com/6fEgNOZ4klMY79ucVaKC-meHmj4b5AX5P881ppaLZHU.jpg"
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Magic portal - album in comments",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bwxf97/magic_portal_album_in_comments/"
+}

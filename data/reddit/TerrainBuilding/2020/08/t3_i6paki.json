@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1596931200,
+    "full": 1597000871,
+    "month": 1596240000,
+    "week": 1596931200
+  },
+  "id": "t3_i6paki",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/g2x5ha2v11g51.jpg?auto=webp&s=c9bc828f9864e1da2f59f92b0bb40aa0a51aed2e",
+    "preview": "https://preview.redd.it/g2x5ha2v11g51.jpg?width=640&crop=smart&auto=webp&s=9592e48cd1549b11e411cd48e0d2c2477603412e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uhFm3xxJrTgZueBVO3apCx9au7fmHo_i5MZUkm5O3qA.jpg"
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 1091,
+    "value": 1091
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some experimenting with tiny LEDs",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i6paki/some_experimenting_with_tiny_leds/"
+}

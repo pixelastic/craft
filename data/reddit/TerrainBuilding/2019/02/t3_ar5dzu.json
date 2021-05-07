@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2fca5fa7",
+    "name": "amaurra"
+  },
+  "date": {
+    "day": 1550275200,
+    "full": 1550292138,
+    "month": 1548979200,
+    "week": 1549756800
+  },
+  "id": "t3_ar5dzu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/7oh46zdy0vg21.jpg?auto=webp&s=2d9aa104b1ea17eb96492427046efd8442ff75de",
+    "preview": "https://preview.redd.it/7oh46zdy0vg21.jpg?width=640&crop=smart&auto=webp&s=2618f3339af1a707b44547e9d8d10642cc873a91",
+    "thumbnail": "https://b.thumbs.redditmedia.com/slnETb4Rps7txrf-8LIEXJKWc5OXsnro_ToUC1idfFg.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 270,
+    "value": 270
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first terrain ready to play tomorrow.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ar5dzu/my_first_terrain_ready_to_play_tomorrow/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12254g",
+    "name": "Fulcrum1812"
+  },
+  "date": {
+    "day": 1553212800,
+    "full": 1553274683,
+    "month": 1551398400,
+    "week": 1552780800
+  },
+  "id": "t3_b47myk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kubkb5ekdpn21.jpg?auto=webp&s=a40ec983f9ee2713361885ad89c6de1ebdcb852c",
+    "preview": "https://preview.redd.it/kubkb5ekdpn21.jpg?width=640&crop=smart&auto=webp&s=7e989f23d0ec289b21e2d7bd3251050f8d55e38e",
+    "thumbnail": "https://a.thumbs.redditmedia.com/mosghKdl_Xf6M8LYc04M6u_T-K6JfyEHi2E5kG--xC8.jpg"
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Converted tower based on Printable Scenery’s lighthouse",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b47myk/converted_tower_based_on_printable_scenerys/"
+}

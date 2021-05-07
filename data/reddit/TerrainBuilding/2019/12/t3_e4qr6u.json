@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3sf73gvq",
+    "name": "CollinBressie"
+  },
+  "date": {
+    "day": 1575244800,
+    "full": 1575247007,
+    "month": 1575158400,
+    "week": 1575158400
+  },
+  "id": "t3_e4qr6u",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/invfoc0l84241.jpg?auto=webp&s=620fd5857f84915023bdaead94800cf1e1dea344",
+    "preview": "https://preview.redd.it/invfoc0l84241.jpg?width=640&crop=smart&auto=webp&s=be5ee81a84683f43ce2ad7adb3578dac19aa8f42",
+    "thumbnail": "https://b.thumbs.redditmedia.com/JUky-vElLsETKUhwqfaVVNJWad5-4ufHh_Fp6d9dsCk.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 228,
+    "value": 228
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scatter terrain inspired by Black Magic Craft!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e4qr6u/scatter_terrain_inspired_by_black_magic_craft/"
+}

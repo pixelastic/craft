@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10o1u5",
+    "name": "maybe_i_am_a_robot"
+  },
+  "date": {
+    "day": 1553299200,
+    "full": 1553383736,
+    "month": 1551398400,
+    "week": 1552780800
+  },
+  "id": "t3_b4po4o",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kkdeo0nvrwn21.png?auto=webp&s=c6aa1da28b4c1ece75042ae33ad4d14e6c0d04d4",
+    "preview": "https://preview.redd.it/kkdeo0nvrwn21.png?width=640&crop=smart&auto=webp&s=a32690b551ee9b9925000e085033b3da0514231c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/jyQI-xh0rFChqEn1FvrTaFhfquCZfaYW4lzoMsBpgsI.jpg"
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 176,
+    "value": 176
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Spring has returned, and the foliage is fresh in all the kingdoms!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b4po4o/spring_has_returned_and_the_foliage_is_fresh_in/"
+}

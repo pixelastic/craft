@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2yn2zal3",
+    "name": "jamesbob009"
+  },
+  "date": {
+    "day": 1552262400,
+    "full": 1552289880,
+    "month": 1551398400,
+    "week": 1552176000
+  },
+  "id": "t3_azqk87",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/icy6v3y81gl21.jpg?auto=webp&s=ced2c8e67d1aa07dd3144b45db8cc458aa23c27c",
+    "preview": "https://preview.redd.it/icy6v3y81gl21.jpg?width=640&crop=smart&auto=webp&s=8e2b5ce5c1474428ea1775ab97ac3916bd0a251d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/lXeE_r8iBzaYJfiejF0DAOcWg1ZtZL1xk1LkcWrrPLQ.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My Urban Terrain Painting Recipe",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/azqk87/my_urban_terrain_painting_recipe/"
+}

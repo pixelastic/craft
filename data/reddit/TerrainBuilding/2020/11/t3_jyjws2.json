@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6er2cxyz",
+    "name": "Echo_32"
+  },
+  "date": {
+    "day": 1605916800,
+    "full": 1605997489,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jyjws2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/urhq0m3k5o061.jpg?auto=webp&s=aee5d00bbdec76555d52ca2b31eb418249094c62",
+    "preview": "https://preview.redd.it/urhq0m3k5o061.jpg?width=640&crop=smart&auto=webp&s=a0f1f735bafe1ec8a0cea184c3a29b6419addbf1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/SJdk-l3Gczw6JIQTVgqlBV-jcLk0ONBy5SrqAyWf8dA.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fun with EVA foam and foam board ahead....",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jyjws2/fun_with_eva_foam_and_foam_board_ahead/"
+}

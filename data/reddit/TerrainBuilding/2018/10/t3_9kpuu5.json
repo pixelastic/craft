@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_lc5bw",
+    "name": "Thumbscrewer"
+  },
+  "date": {
+    "day": 1538438400,
+    "full": 1538480430,
+    "month": 1538352000,
+    "week": 1538265600
+  },
+  "id": "t3_9kpuu5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/m8avq9foerp11.jpg?auto=webp&s=3513acc74b59ae3c2817ca5b7cc921138829a08b",
+    "preview": "https://preview.redd.it/m8avq9foerp11.jpg?width=640&crop=smart&auto=webp&s=c15f962af1eadd2d3aa2fe68d68c5acf940be462",
+    "thumbnail": "https://b.thumbs.redditmedia.com/eYxfrfHM8M5Bdddfb0aUaLMQduM7Kx4ewDwK0TDKtAs.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Little update",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9kpuu5/little_update/"
+}

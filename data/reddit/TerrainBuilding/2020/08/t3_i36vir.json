@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1qnq1end",
+    "name": "ugubugu12"
+  },
+  "date": {
+    "day": 1596412800,
+    "full": 1596492837,
+    "month": 1596240000,
+    "week": 1596326400
+  },
+  "id": "t3_i36vir",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6b1upyjc3ve51.jpg?auto=webp&s=9afb67aca991addc25297362c80bb6396dd58766",
+    "preview": "https://preview.redd.it/6b1upyjc3ve51.jpg?width=640&crop=smart&auto=webp&s=01f83aad40ff6e7454e39b16f0dd5be0004615dc",
+    "thumbnail": "https://a.thumbs.redditmedia.com/_nJ_l3Em2ftDgpZOfX8lp_1Ceyy4TxhVV6yz39RwLf4.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First bigger build. Still experimenting with materials and paints",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i36vir/first_bigger_build_still_experimenting_with/"
+}

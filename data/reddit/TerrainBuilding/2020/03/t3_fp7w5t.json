@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5v7amwi0",
+    "name": "Das_Booj"
+  },
+  "date": {
+    "day": 1585180800,
+    "full": 1585210969,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fp7w5t",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/lLDEcKL9591qoEhjmb2kD9irnhAntbhI5kudo9dgZXE.jpg?auto=webp&s=312f31d4c292c3a94159490d4476fbb32e422c50",
+    "preview": "https://external-preview.redd.it/lLDEcKL9591qoEhjmb2kD9irnhAntbhI5kudo9dgZXE.jpg?width=640&crop=smart&auto=webp&s=ad7d6b622476db74cee760d0f12ac75bde85bd7e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/fV8HRz-MG2wUzJRzERykG4AuD8gFBLTd4d6pE096vsc.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Diving Into Terrain!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fp7w5t/diving_into_terrain/"
+}

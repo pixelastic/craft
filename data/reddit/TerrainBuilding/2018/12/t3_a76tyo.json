@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ycysz",
+    "name": "p-billy"
+  },
+  "date": {
+    "day": 1545091200,
+    "full": 1545100639,
+    "month": 1543622400,
+    "week": 1544918400
+  },
+  "id": "t3_a76tyo",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/yubrgqdy7y421.jpg?auto=webp&s=c5217b3c3e27ed1693314cd5637dcc1070d2bbd1",
+    "preview": "https://preview.redd.it/yubrgqdy7y421.jpg?width=640&crop=smart&auto=webp&s=8927f919373ea5d0d65d6ec1a7490bfa49177ab1",
+    "thumbnail": "https://a.thumbs.redditmedia.com/ClMG-q_z8sNebIDfKQn7PXdAWak8bmhJuWER7yVIdh0.jpg"
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 225,
+    "value": 225
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first piece of completed-ish terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a76tyo/my_first_piece_of_completedish_terrain/"
+}

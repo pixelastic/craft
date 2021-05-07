@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3ekzvr69",
+    "name": "SunkenPayload"
+  },
+  "date": {
+    "day": 1570060800,
+    "full": 1570065754,
+    "month": 1569888000,
+    "week": 1569715200
+  },
+  "id": "t3_dcjxfy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/dzpbk430a8q31.jpg?auto=webp&s=b183638578d7e2e19b06a88d87ab730fa1d66e79",
+    "preview": "https://preview.redd.it/dzpbk430a8q31.jpg?width=640&crop=smart&auto=webp&s=8ce49d9d51c35950fb9a3603823fe899c9e92aea",
+    "thumbnail": "https://b.thumbs.redditmedia.com/9sHqkTD0ng0q6gDMFGYfODMqz_oDOMwrFptmpuOb-_A.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 102,
+    "value": 102
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The terrain is still a lil tacky, but holding up great, and is certainly sweet to play with!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dcjxfy/the_terrain_is_still_a_lil_tacky_but_holding_up/"
+}

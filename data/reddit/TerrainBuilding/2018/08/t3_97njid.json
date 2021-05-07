@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_pu2ia",
+    "name": "Chronochinaski"
+  },
+  "date": {
+    "day": 1534377600,
+    "full": 1534378881,
+    "month": 1533081600,
+    "week": 1534032000
+  },
+  "id": "t3_97njid",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/B8FoCdmDJGWipzBBzQC_aiA7yRIyXVTmsyCZuTw2gIU.jpg?auto=webp&s=5999735334af7ae2571eb0b4e161083cb017db62",
+    "preview": "https://external-preview.redd.it/B8FoCdmDJGWipzBBzQC_aiA7yRIyXVTmsyCZuTw2gIU.jpg?width=640&crop=smart&auto=webp&s=3337cc27cb79416306c2b7d8c595560831b973d8",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Jungle scatter terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/97njid/jungle_scatter_terrain/"
+}

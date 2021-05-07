@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_odv06",
+    "name": "Pieburn"
+  },
+  "date": {
+    "day": 1520553600,
+    "full": 1520553848,
+    "month": 1519862400,
+    "week": 1520121600
+  },
+  "id": "t3_832ce9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kk2ltfmqpmk01.jpg?auto=webp&s=d83f760401d6e877fbf32b2b443d5fe4708d16e2",
+    "preview": "https://preview.redd.it/kk2ltfmqpmk01.jpg?width=640&crop=smart&auto=webp&s=02da2477f71495d2cfe1771a4af43c232ab1c6d1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/P9OuF9QVw18Cva5C7kblut5SB8hOCITIfek9vZMfd_k.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gold Mine!?!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/832ce9/gold_mine/"
+}

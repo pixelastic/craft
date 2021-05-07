@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_rqifm",
+    "name": "szymok"
+  },
+  "date": {
+    "day": 1514419200,
+    "full": 1514494051,
+    "month": 1512086400,
+    "week": 1514073600
+  },
+  "id": "t3_7mpayi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/at73gs0s6q601.jpg?auto=webp&s=78f04ff9687b0faa021bdc6bcf1bb9cfc347fb4d",
+    "preview": "https://preview.redd.it/at73gs0s6q601.jpg?width=640&crop=smart&auto=webp&s=9c7d3590230a82ae05db4f32330be76db1c0d0b7",
+    "thumbnail": "https://b.thumbs.redditmedia.com/O0TDqXl_bTUbhZYTlBU__cBArl1crBlSpGV7GWE_HKo.jpg"
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 130,
+    "value": 130
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first piece of terrain ever...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7mpayi/my_first_piece_of_terrain_ever/"
+}

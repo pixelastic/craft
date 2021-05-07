@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_55jhmg23",
+    "name": "Miniocalypse"
+  },
+  "date": {
+    "day": 1602806400,
+    "full": 1602889829,
+    "month": 1601510400,
+    "week": 1602374400
+  },
+  "id": "t3_jckcft",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/wmp0lMb4HDf0LeJw3IM4KFkT3o6-uY9An55M7djW6Uw.png?format=pjpg&auto=webp&s=f403e173d49b9ffdc85d4ffd46e32e6b04da7fea",
+    "preview": "https://external-preview.redd.it/wmp0lMb4HDf0LeJw3IM4KFkT3o6-uY9An55M7djW6Uw.png?width=640&crop=smart&format=pjpg&auto=webp&s=3c0db2364be96fd89730010ef20082b1074d34c3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ImzbgSQMwTRzaUA5IY7x6rQ5JAtHFcxc0aaw7qIgd2w.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 110,
+    "value": 110
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain entry for #sodacanchallenge",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jckcft/terrain_entry_for_sodacanchallenge/"
+}

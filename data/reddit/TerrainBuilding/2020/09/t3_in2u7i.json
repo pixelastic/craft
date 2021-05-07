@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5sdha68h",
+    "name": "Dtharme"
+  },
+  "date": {
+    "day": 1599264000,
+    "full": 1599319084,
+    "month": 1598918400,
+    "week": 1598745600
+  },
+  "id": "t3_in2u7i",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/o17ziid8jcl51.jpg?auto=webp&s=5fd8ce64bbe11e447f7a8f7529067174f4586e9d",
+    "preview": "https://preview.redd.it/o17ziid8jcl51.jpg?width=640&crop=smart&auto=webp&s=fe2c887559a3bdf200f04ae9b384f83e743b085a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/nr8APzJAm9J9re0venwBFLOByw2S12G_mmO54rt-VUk.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 52,
+    "value": 52
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sir, we have a situation...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/in2u7i/sir_we_have_a_situation/"
+}

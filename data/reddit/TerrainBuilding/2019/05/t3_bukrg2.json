@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_kiocr",
+    "name": "xenward"
+  },
+  "date": {
+    "day": 1559088000,
+    "full": 1559166680,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_bukrg2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/yksnetli18131.jpg?auto=webp&s=78f956031f10f7d9ce436e1c16fe1ea75b894c31",
+    "preview": "https://preview.redd.it/yksnetli18131.jpg?width=640&crop=smart&auto=webp&s=b6206c3297e25f4bb727a3320e30732ffd7d2a5a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/TLCCaqvuFQO48ywzYy6ABWHT8djNslmyn58-SMgZH_Y.jpg"
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 96,
+    "value": 96
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Anyone else get hung up on painting?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bukrg2/anyone_else_get_hung_up_on_painting/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_gugox",
+    "name": "MArkFIA"
+  },
+  "date": {
+    "day": 1588291200,
+    "full": 1588331612,
+    "month": 1588291200,
+    "week": 1587859200
+  },
+  "id": "t3_gbg7a4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/17i4ftauz4w41.jpg?auto=webp&s=b2351aee1de0b803a133f793d831eb14fef4071d",
+    "preview": "https://preview.redd.it/17i4ftauz4w41.jpg?width=640&crop=smart&auto=webp&s=bf578106b5a9ea1f2af7b9f2adaa353f18b4110d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/OcuJ8TQwucwlTjnF2GO43jVgoJJVsetRTmJD4JCuN5U.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 62,
+    "value": 62
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made a new set of hills",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gbg7a4/made_a_new_set_of_hills/"
+}

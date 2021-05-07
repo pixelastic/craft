@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16etzl",
+    "name": "Unweededgarden"
+  },
+  "date": {
+    "day": 1543363200,
+    "full": 1543382771,
+    "month": 1541030400,
+    "week": 1543104000
+  },
+  "id": "t3_a1384o",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ugovweujb0121.jpg?auto=webp&s=4f409afc8e0ac2032fa4465007b21e840cea4425",
+    "preview": "https://preview.redd.it/ugovweujb0121.jpg?width=640&crop=smart&auto=webp&s=ddf8ff3cb3f3c0b470180d52fb61d0a11378129d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Rt3_S-BJfYZgiJtn0KawHZzGQIOwDk4253D0EKNZBZw.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 80,
+    "value": 80
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Magma Forge",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a1384o/the_magma_forge/"
+}

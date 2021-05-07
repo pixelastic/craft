@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_aam1y",
+    "name": "sidekickman"
+  },
+  "date": {
+    "day": 1590019200,
+    "full": 1590086746,
+    "month": 1588291200,
+    "week": 1589673600
+  },
+  "id": "t3_go2mg3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9zgsq3jqy5051.jpg?auto=webp&s=8de866db3cfe238c6b44382d34ac68e566094a55",
+    "preview": "https://preview.redd.it/9zgsq3jqy5051.jpg?width=640&crop=smart&auto=webp&s=9535f45ae12f429993502c89cf48dad72a9ddbc4",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ooTNLPvTmaLmcb4cyaGztAw5iPT1WsHnSeYXk1VLPGE.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on Imperial Titan wreckage for a Kill Team map",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/go2mg3/working_on_imperial_titan_wreckage_for_a_kill/"
+}

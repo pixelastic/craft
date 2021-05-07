@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_yg2d7",
+    "name": "Kelantropo"
+  },
+  "date": {
+    "day": 1611273600,
+    "full": 1611354145,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l2ym1q",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/TDa7QNYD0yGHr4h-mwWJkSEMGmW9SCMPFXxzEfqEt4g.png?format=pjpg&auto=webp&s=ddc71c9527bb53ed0b8eae8895b3570f23d7be20",
+    "preview": "https://external-preview.redd.it/TDa7QNYD0yGHr4h-mwWJkSEMGmW9SCMPFXxzEfqEt4g.png?width=640&crop=smart&format=pjpg&auto=webp&s=29ae01443f777365ec5a4e424011ab84360da0c6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/QERdkCGqRa13H27popV-P2DjsLRvWho3Pd5pNpxLh7I.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Trying to exploit the Kill Team movement rules with some new warcry terrain that ai was given for Christmas. Did I overdo it?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l2ym1q/trying_to_exploit_the_kill_team_movement_rules/"
+}

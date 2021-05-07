@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1592697600,
+    "full": 1592730003,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hd3qsb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/75rejjvca8651.jpg?auto=webp&s=a0ea6e8377dc65ce6b4783680cc2f3ba6fa19d01",
+    "preview": "https://preview.redd.it/75rejjvca8651.jpg?width=640&crop=smart&auto=webp&s=02cf77de3b72e326cbabd51477d68172f7b4b701",
+    "thumbnail": "https://b.thumbs.redditmedia.com/GYaqjN3W_IwgzYmpIm3Z3TaFBVqxwrUhs2OZkij5P7o.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tree in progress",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hd3qsb/tree_in_progress/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_xd9f8rk",
+    "name": "smoresman"
+  },
+  "date": {
+    "day": 1571270400,
+    "full": 1571351511,
+    "month": 1569888000,
+    "week": 1570924800
+  },
+  "id": "t3_djdwn1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kd32mkb7h6t31.jpg?auto=webp&s=6dc226322fcf7577f1f9067fb0faceebb02fa2a9",
+    "preview": "https://preview.redd.it/kd32mkb7h6t31.jpg?width=640&crop=smart&auto=webp&s=55258375fc804db9a551b3aa209d75c4369fa1c9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/_jop9j74rasWtIiZGzgx82G549f26yymo3QRk4_PbcE.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 51,
+    "value": 51
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/djdwn1/wip_building/"
+}

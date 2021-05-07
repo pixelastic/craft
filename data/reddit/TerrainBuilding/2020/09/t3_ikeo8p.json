@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_pe78q",
+    "name": "rangerholt"
+  },
+  "date": {
+    "day": 1598918400,
+    "full": 1598938731,
+    "month": 1598918400,
+    "week": 1598745600
+  },
+  "id": "t3_ikeo8p",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/gHxdXprLUvYCetrnKfnumHURZzCYgpbvtW7X1kml0KM.jpg?auto=webp&s=52c32728985df2ce03c28e4ac7c504fc16687d5e",
+    "preview": "https://external-preview.redd.it/gHxdXprLUvYCetrnKfnumHURZzCYgpbvtW7X1kml0KM.jpg?width=640&crop=smart&auto=webp&s=6077d08bedc6b89c7c3c0abf7776171f8293d759",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time terrain maker - Thoughts after my first couple pieces + recommendations for other newbies",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ikeo8p/first_time_terrain_maker_thoughts_after_my_first/"
+}

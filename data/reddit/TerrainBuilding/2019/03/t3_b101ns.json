@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3xze4iw",
+    "name": "HerrGottchen"
+  },
+  "date": {
+    "day": 1552521600,
+    "full": 1552568380,
+    "month": 1551398400,
+    "week": 1552176000
+  },
+  "id": "t3_b101ns",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/I4mSGtIzzoiS1Wy97sfFMBPHlk9HOmPtOSDlX6SI6o8.jpg?auto=webp&s=623b97fd230198ce9730cf330252c6f24d33ec44",
+    "preview": "https://external-preview.redd.it/I4mSGtIzzoiS1Wy97sfFMBPHlk9HOmPtOSDlX6SI6o8.jpg?width=640&crop=smart&auto=webp&s=6f5372328006a5f6957cbe74eb04b9b912455b72",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I need help with building a moon base.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b101ns/i_need_help_with_building_a_moon_base/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12dxs1mr",
+    "name": "ArenadoStubble"
+  },
+  "date": {
+    "day": 1585699200,
+    "full": 1585779432,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ft9yfx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9fn4jbwv6aq41.jpg?auto=webp&s=761b7b92bfad00941302c3c8d640a7b42df3a49b",
+    "preview": "https://preview.redd.it/9fn4jbwv6aq41.jpg?width=640&crop=smart&auto=webp&s=d259704de6593064c2ff4e3799f18f778d918c24",
+    "thumbnail": "https://b.thumbs.redditmedia.com/e8IinQfjNRRsFobbt9RdiLmC-S0fqDgsv6OxRy8ccAY.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some rock canyon thingies.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ft9yfx/some_rock_canyon_thingies/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_mormp",
+    "name": "FleshCopter"
+  },
+  "date": {
+    "day": 1563494400,
+    "full": 1563514522,
+    "month": 1561939200,
+    "week": 1563062400
+  },
+  "id": "t3_cf3m2a",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/gn26ox2w57b31.jpg?auto=webp&s=55c6828625098c92ab8c04829d1c271b48d2e8ab",
+    "preview": "https://preview.redd.it/gn26ox2w57b31.jpg?width=640&crop=smart&auto=webp&s=d9a76509362b569286a940e77e9afac4aefdb6c3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/rpEKmZrVUI8FvrLgwCiRDVakkSXj6lWzHllhQHUG8Bs.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time scratch building anything. Any C&C appreciated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cf3m2a/first_time_scratch_building_anything_any_cc/"
+}

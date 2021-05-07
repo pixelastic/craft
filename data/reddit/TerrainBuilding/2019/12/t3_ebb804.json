@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4vkr7m2m",
+    "name": "pjallday1212"
+  },
+  "date": {
+    "day": 1576454400,
+    "full": 1576476504,
+    "month": 1575158400,
+    "week": 1576368000
+  },
+  "id": "t3_ebb804",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6wf2kspisx441.jpg?auto=webp&s=520d4a9bded16dc0bf5fb339ee187a05daf708d0",
+    "preview": "https://preview.redd.it/6wf2kspisx441.jpg?width=640&crop=smart&auto=webp&s=18f0e0e51cf4c419cfb536c932bc9909d383f38e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/QASilP11k6M_w1p9QNB18KLbAOCVGQOoruiOzWDWAxM.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First build ever! I made a modular caravan/house, any tips on how I could improve for future builds?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ebb804/first_build_ever_i_made_a_modular_caravanhouse/"
+}

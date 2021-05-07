@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7ppu3",
+    "name": "Rank2"
+  },
+  "date": {
+    "day": 1456790400,
+    "full": 1456807914,
+    "month": 1456790400,
+    "week": 1456617600
+  },
+  "id": "t3_48elo9",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/BpNjRmDZ2Jygf59mz4wk7ml3lZsw-7648Sr-dYXZLb8.jpg?auto=webp&s=a867252d5768ef5fbe706c8e220ab6d4bc796b0a",
+    "preview": "https://external-preview.redd.it/BpNjRmDZ2Jygf59mz4wk7ml3lZsw-7648Sr-dYXZLb8.jpg?width=640&crop=smart&auto=webp&s=9b44c131414ff08ce8f0dfabd91c7582c48aeed2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qgaoWULPiked_W508ENkBnTivXtixqq0aXJdwjkhK6U.jpg"
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Adding some water effects to my dungeon tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/48elo9/adding_some_water_effects_to_my_dungeon_tiles/"
+}

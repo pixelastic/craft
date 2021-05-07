@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5eko4m4",
+    "name": "joebarber1"
+  },
+  "date": {
+    "day": 1501804800,
+    "full": 1501844085,
+    "month": 1501545600,
+    "week": 1501372800
+  },
+  "id": "t3_6rjp20",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/k19j8er0cpdz.jpg?auto=webp&s=05b88020369111d8c718ad84e9c6e4aed0faa455",
+    "preview": "https://preview.redd.it/k19j8er0cpdz.jpg?width=640&crop=smart&auto=webp&s=8afa61be14f9863810e422e2ad56d27574ccb846",
+    "thumbnail": "https://b.thumbs.redditmedia.com/KJ7pudV9nnxOSlv9ffuZLLEsxWT3b8cnnZMX1jaoWXc.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Would this look good on 40k buildings?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6rjp20/would_this_look_good_on_40k_buildings/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1erx8im4",
+    "name": "devilmanotis"
+  },
+  "date": {
+    "day": 1579219200,
+    "full": 1579262711,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_epziek",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ldbhkszbxbb41.jpg?auto=webp&s=d25546f48448d78fae9781056de24c7fa327815d",
+    "preview": "https://preview.redd.it/ldbhkszbxbb41.jpg?width=640&crop=smart&auto=webp&s=dd3b1314917a02489f111914b7f1cf3ae3a915d1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/zEJpcAjDrLS30Pf4lhuLALtIqOgLqKCSfveMT20LzUg.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Lava eruption",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/epziek/lava_eruption/"
+}

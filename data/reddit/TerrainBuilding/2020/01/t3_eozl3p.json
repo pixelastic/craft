@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_sakrnw4",
+    "name": "Lee_Beedo"
+  },
+  "date": {
+    "day": 1579046400,
+    "full": 1579076164,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_eozl3p",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kvis2yxliwa41.jpg?auto=webp&s=0b01c16c7ab9302e85714beefbe150ed42e2d26e",
+    "preview": "https://preview.redd.it/kvis2yxliwa41.jpg?width=640&crop=smart&auto=webp&s=e783e73e324bacded01fbe14cf58c7916f7fd6b2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/9oOBLioZ-QgaHPocU8BUR6IIuSYrfKSB-eCr50bePBs.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Stackers, stackers, STACKERS!!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eozl3p/stackers_stackers_stackers/"
+}

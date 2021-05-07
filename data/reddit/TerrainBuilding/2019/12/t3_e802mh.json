@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2fpqgu",
+    "name": "ovaltein"
+  },
+  "date": {
+    "day": 1575763200,
+    "full": 1575841756,
+    "month": 1575158400,
+    "week": 1575763200
+  },
+  "id": "t3_e802mh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/z6g55bt1dh341.jpg?auto=webp&s=bba2aaa5045e5bd85927abc169c51825aec292fc",
+    "preview": "https://preview.redd.it/z6g55bt1dh341.jpg?width=640&crop=smart&auto=webp&s=d9af8b6a53f6fb65ac2900c633fa4bcdb89942d2",
+    "thumbnail": "https://a.thumbs.redditmedia.com/Y872SaKgHeIwmUJpaph85estU2PvGQ1JeircqjF8di0.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 123,
+    "value": 123
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first building, BMC style farmhouse",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e802mh/my_first_building_bmc_style_farmhouse/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1596931200,
+    "full": 1597009924,
+    "month": 1596240000,
+    "week": 1596931200
+  },
+  "id": "t3_i6rzhf",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/g9tk4fiws1g51.jpg?auto=webp&s=825e07202c241b4c76f5262e34ec38112c975002",
+    "preview": "https://preview.redd.it/g9tk4fiws1g51.jpg?width=640&crop=smart&auto=webp&s=3a6cd4a27269bb27e8383d1c207d34046ac1b9f2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/MZMVM0vG36hnBtoPepVnWRzphC1kLkk7XaczqinNpnA.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hill of the Stone Dwarf - near Teufelsberg.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i6rzhf/hill_of_the_stone_dwarf_near_teufelsberg/"
+}

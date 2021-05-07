@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_69s6qpkc",
+    "name": "A_Pev"
+  },
+  "date": {
+    "day": 1611446400,
+    "full": 1611516737,
+    "month": 1609459200,
+    "week": 1611446400
+  },
+  "id": "t3_l45wcm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/1x37rj941cd61.jpg?auto=webp&s=7ff68d737b98278cddb2248555e99b794127817b",
+    "preview": "https://preview.redd.it/1x37rj941cd61.jpg?width=640&crop=smart&auto=webp&s=dd21da95d087bd5efafd2a7055346663463cc4dd",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qu6jL2GRArOW94k8z8bvS_S2iOpL5P_6q37cfmCeHLM.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP urban/cyberpunk/sci-fi building. First time using foamcore, enjoying it so far.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l45wcm/wip_urbancyberpunkscifi_building_first_time_using/"
+}

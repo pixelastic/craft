@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4sb0mdes",
+    "name": "holupasec"
+  },
+  "date": {
+    "day": 1574812800,
+    "full": 1574818354,
+    "month": 1572566400,
+    "week": 1574553600
+  },
+  "id": "t3_e28eiu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/vVkRCzcMRtlZ3dQKAmaG6TvglGZoetzNIdEbUuYw6GQ.jpg?auto=webp&s=a44e18da10eb7a4eb50a317c56da0f21adced8db",
+    "preview": "https://external-preview.redd.it/vVkRCzcMRtlZ3dQKAmaG6TvglGZoetzNIdEbUuYw6GQ.jpg?width=640&crop=smart&auto=webp&s=22179e3e6f984b9732fe87701ebf9282d97fb1e0",
+    "thumbnail": "https://a.thumbs.redditmedia.com/OMSgKORnd3qLdp3XWDe3RMXKztE1brCjsfp6W6-a2W8.jpg"
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 404,
+    "value": 404
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "BMC inspired city gate.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e28eiu/bmc_inspired_city_gate/"
+}

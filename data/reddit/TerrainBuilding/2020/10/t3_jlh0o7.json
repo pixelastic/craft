@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_gpnjh",
+    "name": "rededdyp"
+  },
+  "date": {
+    "day": 1604102400,
+    "full": 1604144749,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_jlh0o7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/k7hjjgxo2fw51.jpg?auto=webp&s=db7bbdf60937e41caa3a3c6563f8ddb8eed989f9",
+    "preview": "https://preview.redd.it/k7hjjgxo2fw51.jpg?width=640&crop=smart&auto=webp&s=7f5853b26763056adf5779f8664f65d18acafb48",
+    "thumbnail": "https://b.thumbs.redditmedia.com/rQaEJILCKix0G8ENz2eipQuFflagVIukUUVitnR2nCw.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a stage with working lights for my Dooty Bois!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jlh0o7/i_made_a_stage_with_working_lights_for_my_dooty/"
+}

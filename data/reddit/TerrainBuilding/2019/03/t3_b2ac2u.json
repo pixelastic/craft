@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9f6na",
+    "name": "Travispsilo"
+  },
+  "date": {
+    "day": 1552780800,
+    "full": 1552858523,
+    "month": 1551398400,
+    "week": 1552780800
+  },
+  "id": "t3_b2ac2u",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5tmcy2gzzqm21.jpg?auto=webp&s=7573b299c23ab509fc0c4ec1e8cfd2508a5b36c5",
+    "preview": "https://preview.redd.it/5tmcy2gzzqm21.jpg?width=640&crop=smart&auto=webp&s=966d3e9a0faf0184a7edf00aabbc8838e142c444",
+    "thumbnail": "https://b.thumbs.redditmedia.com/G12OAz1ug5n4IxjQTh861K3ZoHSMlt960umKLYDEKCU.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Wayfarer's Campsite",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b2ac2u/the_wayfarers_campsite/"
+}

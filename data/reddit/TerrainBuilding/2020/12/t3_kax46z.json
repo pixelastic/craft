@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1607644800,
+    "full": 1607666655,
+    "month": 1606780800,
+    "week": 1607212800
+  },
+  "id": "t3_kax46z",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0mevwd3l0i461.jpg?auto=webp&s=b53922c986eb09c41d2c30c6614297d7abf31270",
+    "preview": "https://preview.redd.it/0mevwd3l0i461.jpg?width=640&crop=smart&auto=webp&s=ddd12965fd020dce35781fb038273c18224e9224",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Z3aNSNXn1ap99ogBi5f4qs2QL2WVnOzQyHCL6s_tWSY.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 416,
+    "value": 416
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tonight's project: an old dock",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kax46z/tonights_project_an_old_dock/"
+}

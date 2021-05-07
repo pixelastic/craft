@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33u00",
+    "name": "roflo1"
+  },
+  "date": {
+    "day": 1571529600,
+    "full": 1571601604,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dkowy2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/21q7qqfx4rt31.jpg?auto=webp&s=595b8ba394829c95a9774000ba5d181d4cb49257",
+    "preview": "https://preview.redd.it/21q7qqfx4rt31.jpg?width=640&crop=smart&auto=webp&s=69caa9bf4103d1c246c44d39810d9a960b3dc7be",
+    "thumbnail": "https://b.thumbs.redditmedia.com/KYga_AM2rZEaVvgj0eBFWIQ6RDDLFwmyVKF2hfYGX_E.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A platform of sorts",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dkowy2/a_platform_of_sorts/"
+}

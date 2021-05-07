@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33u00",
+    "name": "roflo1"
+  },
+  "date": {
+    "day": 1529625600,
+    "full": 1529682341,
+    "month": 1527811200,
+    "week": 1529193600
+  },
+  "id": "t3_8t2co9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/hon9k34cdk511.jpg?auto=webp&s=5da8cf1cf8ec65dbbfb2ac0edbb0203df04fb5d2",
+    "preview": "https://preview.redd.it/hon9k34cdk511.jpg?width=640&crop=smart&auto=webp&s=d195abf0a04f259102ea4b12735ff84ddf2974bd",
+    "thumbnail": "https://b.thumbs.redditmedia.com/jrJ7bcEpG_a-zm-SlCtLr4XdhSPoGRAHeGP6nx90Pew.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tower in ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8t2co9/tower_in_ruins/"
+}

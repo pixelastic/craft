@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7zd0a",
+    "name": "Gyem"
+  },
+  "date": {
+    "day": 1525046400,
+    "full": 1525090465,
+    "month": 1522540800,
+    "week": 1524960000
+  },
+  "id": "t3_8fyzhv",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/b-bZNHvsufsKhRhU-UR7zv_7UaVUP5ZQC6a6rb3YhfI.jpg?auto=webp&s=78c449b07a515da1cc28b3043eeb1942e0ea2c40",
+    "preview": "https://external-preview.redd.it/b-bZNHvsufsKhRhU-UR7zv_7UaVUP5ZQC6a6rb3YhfI.jpg?width=640&crop=smart&auto=webp&s=e0ac90c9b35312c33ef97f2d04e4852aa3b4c78f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ghW66cgmSEroNPb8ksjzPkRH3b2mzP2fFhpVnk5ftQw.jpg"
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tournament display boards",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8fyzhv/tournament_display_boards/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_itgid",
+    "name": "blockypigeon"
+  },
+  "date": {
+    "day": 1588982400,
+    "full": 1589060291,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_ggoa0k",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/441c8cmk6tx41.jpg?auto=webp&s=8e9ca35a140182934a63505d07c9f922385e1af0",
+    "preview": "https://preview.redd.it/441c8cmk6tx41.jpg?width=640&crop=smart&auto=webp&s=70320ea1fa3b47420505f197ad5f9872bd8039f1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/gyzWXydv3I8UUJDmVe4lSjDNgP3AB6DFmac04m1ZhHA.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP of the ruined shack modular board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ggoa0k/wip_of_the_ruined_shack_modular_board/"
+}

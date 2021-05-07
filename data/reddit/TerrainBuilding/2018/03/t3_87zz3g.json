@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hwbxazg",
+    "name": "mjstcs"
+  },
+  "date": {
+    "day": 1522281600,
+    "full": 1522316631,
+    "month": 1519862400,
+    "week": 1521936000
+  },
+  "id": "t3_87zz3g",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5u0oah49boo01.jpg?auto=webp&s=e56bf3a45e1d98b411812ee1b22a90d350ac44b4",
+    "preview": "https://preview.redd.it/5u0oah49boo01.jpg?width=640&crop=smart&auto=webp&s=06404dfb5a18fac25302a298a76e2133b1a672f0",
+    "thumbnail": "https://a.thumbs.redditmedia.com/VqyB1L3fQXC2CeWFwjsinO5dlpA2POqourP8objKee8.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.82,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Under construction",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/87zz3g/under_construction/"
+}

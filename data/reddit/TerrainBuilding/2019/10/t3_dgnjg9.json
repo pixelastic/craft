@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lmghcxo",
+    "name": "Om3nchi1d"
+  },
+  "date": {
+    "day": 1570838400,
+    "full": 1570838839,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_dgnjg9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/chaml1vt40s31.jpg?auto=webp&s=f3d50b4512f873289d3287e2d13189e6d39a4720",
+    "preview": "https://preview.redd.it/chaml1vt40s31.jpg?width=640&crop=smart&auto=webp&s=3a0b189781408bfc5ae1f57cdaf771b6d40e8f05",
+    "thumbnail": "https://b.thumbs.redditmedia.com/2pO56Ishd8EVwJIbRuBwCSztR2gymUhTPoTBZbBmxyo.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A tower I'm working on",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dgnjg9/a_tower_im_working_on/"
+}

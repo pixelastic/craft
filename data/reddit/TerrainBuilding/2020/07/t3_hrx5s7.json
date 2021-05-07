@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3l234r8o",
+    "name": "adamsjoe330"
+  },
+  "date": {
+    "day": 1594771200,
+    "full": 1594850597,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hrx5s7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/h6wphwg4g3b51.jpg?auto=webp&s=21cf33510b5742fbf59bd3c923a5da9fc6c2078f",
+    "preview": "https://preview.redd.it/h6wphwg4g3b51.jpg?width=640&crop=smart&auto=webp&s=c3d83eff49b43b8b24ad723b87901220cd57df2e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/j1jEzqi5KurXKURc6YLVI505c0JYv0NlJwE3CFr9Efs.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally done with the lava tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hrx5s7/finally_done_with_the_lava_tiles/"
+}

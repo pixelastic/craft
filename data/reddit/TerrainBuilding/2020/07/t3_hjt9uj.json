@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ozbxh65",
+    "name": "3dmapart"
+  },
+  "date": {
+    "day": 1593648000,
+    "full": 1593678621,
+    "month": 1593561600,
+    "week": 1593302400
+  },
+  "id": "t3_hjt9uj",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/mqzgu1r8ne851.jpg?auto=webp&s=f51c5b246ba08e7a828d19ab1142b3a9e02bb027",
+    "preview": "https://preview.redd.it/mqzgu1r8ne851.jpg?width=640&crop=smart&auto=webp&s=5d6247793b341d85706c9eea1da7baecb7e67ed1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/WpaQVXmOgTMKF_QKatHN3X0IosGEMgAyCJSx9CiaW0U.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 129,
+    "value": 129
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D terrain map of the world. Wood, acrylic",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hjt9uj/3d_terrain_map_of_the_world_wood_acrylic/"
+}

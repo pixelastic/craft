@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3mwgqg",
+    "name": "Peanut_Pancake"
+  },
+  "date": {
+    "day": 1592697600,
+    "full": 1592726339,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hd32ay",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ipsulz8mz7651.jpg?auto=webp&s=9d41c34ac4f0996c93b0edac1b34944309674855",
+    "preview": "https://preview.redd.it/ipsulz8mz7651.jpg?width=640&crop=smart&auto=webp&s=33b22e2eee079f6d8f7e9ca34ed90934ad387cbf",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ZMSXdSvK74YF9WB46jdftFarsjQI5EtV6t497Bs0oaM.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 176,
+    "value": 176
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A shield rack I made with spare shields",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hd32ay/a_shield_rack_i_made_with_spare_shields/"
+}

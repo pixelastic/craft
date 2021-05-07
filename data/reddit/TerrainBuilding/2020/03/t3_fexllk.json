@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_13225e",
+    "name": "mooseman55"
+  },
+  "date": {
+    "day": 1583539200,
+    "full": 1583599258,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fexllk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/58izegku3al41.jpg?auto=webp&s=4425c36fb5bd560bd0e8d1dc5690156a7a3c3ae3",
+    "preview": "https://preview.redd.it/58izegku3al41.jpg?width=640&crop=smart&auto=webp&s=6a72cb33a3f37d3bfc9d98735b02f58af80e1ffb",
+    "thumbnail": "https://a.thumbs.redditmedia.com/CcMZHpeRVQzpmsKVaUx1vFP1IUIdcjm9mizZyd8EdT0.jpg"
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 345,
+    "value": 345
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little sloppy, but every new build is a good learning tool.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fexllk/a_little_sloppy_but_every_new_build_is_a_good/"
+}

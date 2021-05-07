@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_953xw",
+    "name": "TheWilted"
+  },
+  "date": {
+    "day": 1588982400,
+    "full": 1589013215,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_ggbsw4",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/5sHXU6nSUooenLnY1fffrVJkWKYDgdA1jYA_V1x6xQs.jpg?format=pjpg&auto=webp&s=3e8ce3c05527aaf5a31b53adabe761f1a34c6e63",
+    "preview": "https://external-preview.redd.it/5sHXU6nSUooenLnY1fffrVJkWKYDgdA1jYA_V1x6xQs.jpg?width=640&crop=smart&format=pjpg&auto=webp&s=a5845cde511e637651d9913cfd8c85b305cca265",
+    "thumbnail": "https://a.thumbs.redditmedia.com/hLpzVt0RmMxdNtzAgyhRaG8AXcJMo9GWbwLsB_Ibb80.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 432,
+    "value": 432
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Rocket League flickering LED diorama",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ggbsw4/rocket_league_flickering_led_diorama/"
+}

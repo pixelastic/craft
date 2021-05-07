@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1a7zhq9x",
+    "name": "wilairak"
+  },
+  "date": {
+    "day": 1549152000,
+    "full": 1549214659,
+    "month": 1548979200,
+    "week": 1549152000
+  },
+  "id": "t3_amrn01",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9e51zlx11ee21.jpg?auto=webp&s=55e5a67ce23d132df6441223bc7797cebc96bf81",
+    "preview": "https://preview.redd.it/9e51zlx11ee21.jpg?width=640&crop=smart&auto=webp&s=e58b5fb210bf9a6eaaf5726690a34e3d9041af37",
+    "thumbnail": "https://a.thumbs.redditmedia.com/L-TsH3aQilYHFemz3Ykpe52cM_Ear1LQsrU5Ja-WtQ8.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Second attempt at dungeon tiles.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/amrn01/second_attempt_at_dungeon_tiles/"
+}

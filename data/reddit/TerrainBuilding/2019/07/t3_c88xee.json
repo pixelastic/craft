@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bbddx",
+    "name": "Akblabla"
+  },
+  "date": {
+    "day": 1562025600,
+    "full": 1562072370,
+    "month": 1561939200,
+    "week": 1561852800
+  },
+  "id": "t3_c88xee",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/30yza1ld1w731.jpg?auto=webp&s=369e2c2746bae4a67c839dbf4a05b6786491aa93",
+    "preview": "https://preview.redd.it/30yza1ld1w731.jpg?width=640&crop=smart&auto=webp&s=8e245785c2f87b1c2640abb5cad00a6b65a2c8a5",
+    "thumbnail": "https://a.thumbs.redditmedia.com/ozt9jit7vrTsFinfdsA8WrF3k8ujzh9dzxTqGpjFM80.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 70,
+    "value": 70
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Trying out foamcore as a building material",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/c88xee/trying_out_foamcore_as_a_building_material/"
+}

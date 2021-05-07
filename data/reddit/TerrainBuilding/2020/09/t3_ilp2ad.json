@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_cpmpv9h",
+    "name": "jusrijujssi"
+  },
+  "date": {
+    "day": 1599091200,
+    "full": 1599118640,
+    "month": 1598918400,
+    "week": 1598745600
+  },
+  "id": "t3_ilp2ad",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/tmp6rbd7zvk51.jpg?auto=webp&s=844fed9b2a159781e168d1906a4f5d610520b4e9",
+    "preview": "https://preview.redd.it/tmp6rbd7zvk51.jpg?width=640&crop=smart&auto=webp&s=4485cc4a6a5ea836d8164cfe83971c65004261a3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/U7lCxYQN-uxLdMtBJtS2fuGtWXf5sMqErsuhUzuSNaw.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 37,
+    "value": 37
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP modular Kill Team board. Idea is to have fixed buildings/terrain on each tile, but still have room for scatter pieces. Looking for ideas on what kind of buildings/structures should I add to the rest of the tiles.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ilp2ad/wip_modular_kill_team_board_idea_is_to_have_fixed/"
+}

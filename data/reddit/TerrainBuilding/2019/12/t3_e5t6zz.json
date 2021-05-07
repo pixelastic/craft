@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1fycb3v1",
+    "name": "yougonnapickmeup"
+  },
+  "date": {
+    "day": 1575417600,
+    "full": 1575430752,
+    "month": 1575158400,
+    "week": 1575158400
+  },
+  "id": "t3_e5t6zz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/djt1ktmyej241.jpg?auto=webp&s=a3bb3c46dc267b6b849ef97fff8b73894e48feee",
+    "preview": "https://preview.redd.it/djt1ktmyej241.jpg?width=640&crop=smart&auto=webp&s=d874cea88f93f1c6b999deac646028a6f7c3be59",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Rz7prjnPYftDo5zeVhmkVGFIfco2Gd9kRVCemSeQkrM.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice tower I made. Dice roll down a spiral staircase",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e5t6zz/dice_tower_i_made_dice_roll_down_a_spiral/"
+}

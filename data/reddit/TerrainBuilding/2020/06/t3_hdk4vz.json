@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4a0llczj",
+    "name": "karen-want-manager"
+  },
+  "date": {
+    "day": 1592784000,
+    "full": 1592795387,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hdk4vz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/t8lsevlxod651.jpg?auto=webp&s=603e4e6e424871519c0db10b9a25ee437aaadafb",
+    "preview": "https://preview.redd.it/t8lsevlxod651.jpg?width=640&crop=smart&auto=webp&s=6ea93a28081d02f88aae06faa73117a4b96ccc9a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/cpwONMMvTcUra8PdeOyuskryccSZC4bl-TxRLzYq2nQ.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 31,
+    "value": 31
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a witch hut",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hdk4vz/i_made_a_witch_hut/"
+}

@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "[deleted]"
+  },
+  "date": {
+    "day": 1590624000,
+    "full": 1590677251,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gs7ku8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/rwjio5mmqi151.jpg?auto=webp&s=00b301a9b136eade1cddd404d42178f6cdcd7fdc",
+    "preview": "https://preview.redd.it/rwjio5mmqi151.jpg?width=640&crop=smart&auto=webp&s=6ce2eb7ae64916afa16073006153be5753f7a20d",
+    "thumbnail": "https://a.thumbs.redditmedia.com/NLPOEb_g2nEUYzRiswtpqgOaBLDh42HIYTHKDBimOl8.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Prototype marble tiles for a chessboard-themed terrain piece",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gs7ku8/prototype_marble_tiles_for_a_chessboardthemed/"
+}

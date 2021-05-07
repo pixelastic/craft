@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_yf9qv",
+    "name": "Timago"
+  },
+  "date": {
+    "day": 1593820800,
+    "full": 1593862208,
+    "month": 1593561600,
+    "week": 1593302400
+  },
+  "id": "t3_hl1vgi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xf2wwe35tt851.jpg?auto=webp&s=0f1655b90d7124c0a848b403ab13bddffe9f3ed5",
+    "preview": "https://preview.redd.it/xf2wwe35tt851.jpg?width=640&crop=smart&auto=webp&s=632d75323e7f46840e258cb53d9871a461aa2885",
+    "thumbnail": "https://b.thumbs.redditmedia.com/eTr077o_n4qyzGzQ9WrYGLxrYS6ZlAMlzyo4aon4CAI.jpg"
+  },
+  "score": {
+    "comments": 37,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 759,
+    "value": 759
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at crafting terrain :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hl1vgi/my_first_attempt_at_crafting_terrain/"
+}

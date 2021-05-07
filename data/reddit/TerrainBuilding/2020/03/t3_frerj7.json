@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4tmn3ro",
+    "name": "Warpix408"
+  },
+  "date": {
+    "day": 1585440000,
+    "full": 1585521091,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_frerj7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/244t6bqpuop41.jpg?auto=webp&s=bc84d2b9f55da3e079fc85f905a418ddec6a910a",
+    "preview": "https://preview.redd.it/244t6bqpuop41.jpg?width=640&crop=smart&auto=webp&s=e2681a6a90420ad4670852d3cd3f91b054249501",
+    "thumbnail": "https://a.thumbs.redditmedia.com/swBwPArC3K69YGZKxig8nnLUfsiNMOE_PPsJj3RVev0.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Model friendly modular hills.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/frerj7/model_friendly_modular_hills/"
+}

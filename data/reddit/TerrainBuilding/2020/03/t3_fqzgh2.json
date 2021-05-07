@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3rjc8609",
+    "name": "jimbospookhouse"
+  },
+  "date": {
+    "day": 1585440000,
+    "full": 1585454537,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_fqzgh2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/l8h6ahctcjp41.jpg?auto=webp&s=c0e7503501b77c60df178af1fb3f4668b89ebd8f",
+    "preview": "https://preview.redd.it/l8h6ahctcjp41.jpg?width=640&crop=smart&auto=webp&s=31dc586298722fbbc2694c25a143c423059c21f9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ezPKsKZrT5VeFwHaplao24_NPcqVnd0k6z-ploFa1PM.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is my first diorama! I see it as a 70s General Store",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fqzgh2/this_is_my_first_diorama_i_see_it_as_a_70s/"
+}

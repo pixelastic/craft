@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_31ld5pxe",
+    "name": "Aurumescens"
+  },
+  "date": {
+    "day": 1572048000,
+    "full": 1572095233,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dndmm6",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/UepMH6jIN9CEQAa_Sa4sfp3BLxLqETdKWLkoRF84V5Y.png?auto=webp&s=9d7f6f3d5a0d91010f61abe5ecaedde48800f3a7",
+    "preview": "https://external-preview.redd.it/UepMH6jIN9CEQAa_Sa4sfp3BLxLqETdKWLkoRF84V5Y.png?width=640&crop=smart&auto=webp&s=e051265b50f08d6915ce59def69eaa24325a93db",
+    "thumbnail": "https://b.thumbs.redditmedia.com/4Z72nUppDkmq6JF6-OE2QZWqrlAuj8tmI_VQ_ncBm3A.jpg"
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 321,
+    "value": 321
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress of my airship....",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dndmm6/progress_of_my_airship/"
+}

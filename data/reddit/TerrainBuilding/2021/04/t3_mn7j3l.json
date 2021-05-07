@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bssml",
+    "name": "TopHatMcFenbury"
+  },
+  "date": {
+    "day": 1617926400,
+    "full": 1617935110,
+    "month": 1617235200,
+    "week": 1617494400
+  },
+  "id": "t3_mn7j3l",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5pk96x8862s61.jpg?auto=webp&s=780e430654bacd0b4af979dfe77f965274a72fe7",
+    "preview": "https://preview.redd.it/5pk96x8862s61.jpg?width=640&crop=smart&auto=webp&s=da6a3e92e4f31326b5c77bcc73e75b2e072958ed",
+    "thumbnail": "https://a.thumbs.redditmedia.com/SbtHdNNH5Kc_jT147-24riFciGr_c4Osuz4KtD_68f8.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 98,
+    "value": 98
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First time making scatter terrain!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mn7j3l/first_time_making_scatter_terrain/"
+}

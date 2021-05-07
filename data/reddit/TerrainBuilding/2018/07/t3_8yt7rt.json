@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_116v7s",
+    "name": "Soliduus"
+  },
+  "date": {
+    "day": 1531526400,
+    "full": 1531574490,
+    "month": 1530403200,
+    "week": 1531008000
+  },
+  "id": "t3_8yt7rt",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/mxw3xzdizw911.jpg?auto=webp&s=859c47e9353c6ca7760c4e3df1992c63acd7b917",
+    "preview": "https://preview.redd.it/mxw3xzdizw911.jpg?width=640&crop=smart&auto=webp&s=a26d3ebb2de2ffb2b2197e40bd47bf26fbe7676f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ntH0HJJKHUIyB67T0aNun64szmoeME7JNXwK3J-R5xM.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 120,
+    "value": 120
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made my first terrain piece with some bits. C&C appreciated :)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8yt7rt/made_my_first_terrain_piece_with_some_bits_cc/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2t2yba5o",
+    "name": "front4242"
+  },
+  "date": {
+    "day": 1591574400,
+    "full": 1591588859,
+    "month": 1590969600,
+    "week": 1591488000
+  },
+  "id": "t3_gyritp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/2ljuv3xa1m351.jpg?auto=webp&s=061a5d8a0142cfdbd29a4c7d829e9c317842436d",
+    "preview": "https://preview.redd.it/2ljuv3xa1m351.jpg?width=640&crop=smart&auto=webp&s=101c2960643ff13c81209f229ef73e5ce7cb1746",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qh0BemJ1t5rWHfKIdQb3HEHDvW2dolF_2G_SMjFneRo.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 101,
+    "value": 101
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cyberpunk MDF terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gyritp/cyberpunk_mdf_terrain/"
+}

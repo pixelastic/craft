@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2joc78s0",
+    "name": "croesusBlack"
+  },
+  "date": {
+    "day": 1576800000,
+    "full": 1576842113,
+    "month": 1575158400,
+    "week": 1576368000
+  },
+  "id": "t3_ed938s",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/7c7dukwnzr541.jpg?auto=webp&s=899813fc524f7b1753189aa4f91e3cd41e1228df",
+    "preview": "https://preview.redd.it/7c7dukwnzr541.jpg?width=640&crop=smart&auto=webp&s=9dd137591311c8c1cfeb56379305cbd9977027f9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/-i54cKMfdQxeocmGtQX6rCF2gZwvrGj4My1tLuhGPpo.jpg"
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 241,
+    "value": 241
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempted water effect. Learned a bit",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ed938s/first_attempted_water_effect_learned_a_bit/"
+}

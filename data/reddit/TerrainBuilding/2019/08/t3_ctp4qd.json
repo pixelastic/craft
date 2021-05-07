@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_mewtk",
+    "name": "oldercloud"
+  },
+  "date": {
+    "day": 1566345600,
+    "full": 1566430929,
+    "month": 1564617600,
+    "week": 1566086400
+  },
+  "id": "t3_ctp4qd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/yy0lso8v1wh31.jpg?auto=webp&s=e96a14ed6bea3748433a1a33000b3f438965e0be",
+    "preview": "https://preview.redd.it/yy0lso8v1wh31.jpg?width=640&crop=smart&auto=webp&s=1a384e114914b12f794a018d82ce97b2f2c9b2c8",
+    "thumbnail": "https://a.thumbs.redditmedia.com/XSEmxjOKO_FThAoPykO0RZMm2CY3Ri9HGE6JnJebKR0.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Walls Are Complete",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ctp4qd/walls_are_complete/"
+}

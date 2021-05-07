@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lczd4az",
+    "name": "Jarod9000"
+  },
+  "date": {
+    "day": 1608422400,
+    "full": 1608424860,
+    "month": 1606780800,
+    "week": 1608422400
+  },
+  "id": "t3_kgk0af",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/YkTdEWFYMLzZo8kMGJR1KQKZbzgpR3RPeTIigTX4o_4.png?format=pjpg&auto=webp&s=9a27195a5bafd4c366e669811e5abd15c047cbac",
+    "preview": "https://external-preview.redd.it/YkTdEWFYMLzZo8kMGJR1KQKZbzgpR3RPeTIigTX4o_4.png?width=640&crop=smart&format=pjpg&auto=webp&s=d32adaa348ad2723aa1ef3f552efca6358016d23",
+    "thumbnail": "https://b.thumbs.redditmedia.com/9Uszhtf_OhRPG5fUQ52ogndhiQBaWT4xL9D9QUXFYqg.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 160,
+    "value": 160
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice Display",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kgk0af/dice_display/"
+}

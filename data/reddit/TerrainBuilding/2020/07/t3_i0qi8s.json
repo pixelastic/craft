@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1rd066i8",
+    "name": "Segef"
+  },
+  "date": {
+    "day": 1596067200,
+    "full": 1596131057,
+    "month": 1593561600,
+    "week": 1595721600
+  },
+  "id": "t3_i0qi8s",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ebrt1cfk71e51.jpg?auto=webp&s=f6bc42812496ca4d78fb47265be7ceebe904be78",
+    "preview": "https://preview.redd.it/ebrt1cfk71e51.jpg?width=640&crop=smart&auto=webp&s=18ff223e369cf620d7c68809f4c4a09aae38a332",
+    "thumbnail": "https://b.thumbs.redditmedia.com/J9a3F7vXxw7wNABE0HfcQdLv0GxReNqCBBCTjmV9K3s.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Home defense goes brrrrrrrrrr",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i0qi8s/home_defense_goes_brrrrrrrrrr/"
+}

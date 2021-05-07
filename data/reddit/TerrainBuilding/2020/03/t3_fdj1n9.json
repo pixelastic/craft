@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3ekzvr69",
+    "name": "SunkenPayload"
+  },
+  "date": {
+    "day": 1583280000,
+    "full": 1583353232,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fdj1n9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ptj614chspk41.jpg?auto=webp&s=d9668392a9853853dfe28adfb052b6cf84d05ad4",
+    "preview": "https://preview.redd.it/ptj614chspk41.jpg?width=640&crop=smart&auto=webp&s=9927d9a8b6b13f6c15eed08808ee129e5e035c3b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/VQv--dzEKsykuELW3rcb2bB18P7jNx-rBQL5EwVBZIg.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 87,
+    "value": 87
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Painted crystal method!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fdj1n9/painted_crystal_method/"
+}

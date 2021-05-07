@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2s29wfsk",
+    "name": "Borabador"
+  },
+  "date": {
+    "day": 1561075200,
+    "full": 1561081427,
+    "month": 1559347200,
+    "week": 1560643200
+  },
+  "id": "t3_c34gvz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vul3abk17m531.jpg?auto=webp&s=74063c0217908281ac438bd8eff012434338d6a1",
+    "preview": "https://preview.redd.it/vul3abk17m531.jpg?width=640&crop=smart&auto=webp&s=21f7a7c4928ee03fe4d91960b69253c1498597af",
+    "thumbnail": "https://b.thumbs.redditmedia.com/685rWlEkhS9vfL4-OglzdTUZfN9Wyxpnrj5dVTNkHJc.jpg"
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 270,
+    "value": 270
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Still have a bit left but this is my first shot at terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/c34gvz/still_have_a_bit_left_but_this_is_my_first_shot/"
+}

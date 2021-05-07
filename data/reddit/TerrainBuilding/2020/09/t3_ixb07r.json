@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1600646400,
+    "full": 1600727636,
+    "month": 1598918400,
+    "week": 1600560000
+  },
+  "id": "t3_ixb07r",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/nubyby0evko51.jpg?auto=webp&s=ec945a214c62caf04b5c3005abd434bd86f7cce1",
+    "preview": "https://preview.redd.it/nubyby0evko51.jpg?width=640&crop=smart&auto=webp&s=7ec22ac8e9f5ac3fca2ef8e43f69e56efc479cbe",
+    "thumbnail": "https://a.thumbs.redditmedia.com/d1JfdordiywtDfVC_skmOts_hO3jjgVspLegM5ml364.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making an XPS ruin (wip)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ixb07r/making_an_xps_ruin_wip/"
+}

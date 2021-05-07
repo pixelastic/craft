@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1611014400,
+    "full": 1611055049,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l0hwlv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cpmjiyq7w9c61.jpg?auto=webp&s=f042a454a9ef45c325aa8ea9891036ec57e2efa2",
+    "preview": "https://preview.redd.it/cpmjiyq7w9c61.jpg?width=640&crop=smart&auto=webp&s=e95ea72d13dacaca756589b78b61f159d7455ef5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/LYZqDQfQrFaEygFGSmH7zuGAVnB4OfzPvrDNIWjlbas.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 425,
+    "value": 425
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Experimenting with a paint effect for a sewer (video in comments)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l0hwlv/experimenting_with_a_paint_effect_for_a_sewer/"
+}

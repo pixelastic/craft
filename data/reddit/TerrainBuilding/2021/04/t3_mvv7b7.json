@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_exp45",
+    "name": "Aendrel"
+  },
+  "date": {
+    "day": 1619049600,
+    "full": 1619057940,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mvv7b7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/hxnxut5zwmu61.jpg?auto=webp&s=f993134e699008cf882ea4030a6bb557d65589e8",
+    "preview": "https://preview.redd.it/hxnxut5zwmu61.jpg?width=640&crop=smart&auto=webp&s=c54dc27b46e1284f7fb57783f9a1a11d5ea195a1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/UueZColHh91p5_9wuBxtAgVZVTh7z_7d7FISyFA9cKE.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 587,
+    "value": 587
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D printed building I painted for a friend",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/mvv7b7/3d_printed_building_i_painted_for_a_friend/"
+}

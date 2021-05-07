@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4xtsne5s",
+    "name": "DON-ATLAS"
+  },
+  "date": {
+    "day": 1598745600,
+    "full": 1598813998,
+    "month": 1596240000,
+    "week": 1598745600
+  },
+  "id": "t3_iji9ce",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5n7o0hnct6k51.jpg?auto=webp&s=02b6bb52f3d10fbd56e9c458f01b2fe008d5eb03",
+    "preview": "https://preview.redd.it/5n7o0hnct6k51.jpg?width=640&crop=smart&auto=webp&s=e1dbcd19fd123ace2a3286977ac2bd947df467b3",
+    "thumbnail": "https://a.thumbs.redditmedia.com/8CXgDKf2cfz7czqZmLBQWvXEz_Q5HUeazw3katAG3e0.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "After a long time, some progress.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/iji9ce/after_a_long_time_some_progress/"
+}

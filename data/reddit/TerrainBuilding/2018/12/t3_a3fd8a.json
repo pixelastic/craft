@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_d3w81",
+    "name": "foodmotron"
+  },
+  "date": {
+    "day": 1543968000,
+    "full": 1544036511,
+    "month": 1543622400,
+    "week": 1543708800
+  },
+  "id": "t3_a3fd8a",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/ZaqjjxISHB3vDiSoLjGjQdlqAvMrzJwgoiPjD8XrDrA.jpg?auto=webp&s=b23c5c07d3aad3249d27a4032d01b23c752b6d22",
+    "preview": "https://external-preview.redd.it/ZaqjjxISHB3vDiSoLjGjQdlqAvMrzJwgoiPjD8XrDrA.jpg?width=640&crop=smart&auto=webp&s=f5e50b95d1611b36f1fd24407789d2a55c2a3caa",
+    "thumbnail": "https://a.thumbs.redditmedia.com/Yev0z6yMSQ69ef-vcZpbB8Gt-aW5DZhaWJ03yMM2ar4.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made an ol' timey foam house",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a3fd8a/made_an_ol_timey_foam_house/"
+}

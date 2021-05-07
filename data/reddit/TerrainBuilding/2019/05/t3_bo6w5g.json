@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_17959p",
+    "name": "capt_yellowbeard"
+  },
+  "date": {
+    "day": 1557705600,
+    "full": 1557770580,
+    "month": 1556668800,
+    "week": 1557619200
+  },
+  "id": "t3_bo6w5g",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/aa7soewll0y21.jpg?auto=webp&s=0e5df3579e9326929758534c2b53745d536d2815",
+    "preview": "https://preview.redd.it/aa7soewll0y21.jpg?width=640&crop=smart&auto=webp&s=2682389b3f9c2c252cb553706580142df4ad475d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/1JqNeP7Q-yarvhEysfY6CobTuChkMDn1fJ8dQNCXjPM.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 359,
+    "value": 359
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is a mini's eye view of a tower that is part of a modular system I am working on.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bo6w5g/this_is_a_minis_eye_view_of_a_tower_that_is_part/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1594080000,
+    "full": 1594085768,
+    "month": 1593561600,
+    "week": 1593907200
+  },
+  "id": "t3_hml6i9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/wk4b35dq9c951.jpg?auto=webp&s=9b9de7c63b76baf6ce183c6bbf2a40d5c49837fd",
+    "preview": "https://preview.redd.it/wk4b35dq9c951.jpg?width=640&crop=smart&auto=webp&s=d7faed47b0723e0d296bbbc7bc584c6597db6338",
+    "thumbnail": "https://b.thumbs.redditmedia.com/pBrxeGBA6XkdeV7gRTffCuqzvAZGm6UPqYgyoR_Ei_s.jpg"
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 86,
+    "value": 86
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finished up my tensegrity base",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hml6i9/finished_up_my_tensegrity_base/"
+}

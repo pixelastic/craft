@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9casa",
+    "name": "CooterSquirrel"
+  },
+  "date": {
+    "day": 1415923200,
+    "full": 1415973371,
+    "month": 1414800000,
+    "week": 1415491200
+  },
+  "id": "t3_2ma8az",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/hBxw_E5PIQmVa5sJUbyqWd-Gg1lVXPF8ZlXQqLzl1RA.jpg?auto=webp&s=385d5c50ea94a8b4b4fff7907e983ef526e89af8",
+    "preview": "https://external-preview.redd.it/hBxw_E5PIQmVa5sJUbyqWd-Gg1lVXPF8ZlXQqLzl1RA.jpg?width=640&crop=smart&auto=webp&s=05ba7daeead8c8cdcca4c775729b702c81ef0e1a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/YKrTpBXkVZRSEGFcZxTE_dCIcQfuJUgW8c9QsOUlD4Y.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small update",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/2ma8az/small_update/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_erqw4",
+    "name": "whitemanrunning"
+  },
+  "date": {
+    "day": 1448841600,
+    "full": 1448855030,
+    "month": 1446336000,
+    "week": 1448755200
+  },
+  "id": "t3_3uszam",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/V6netG5A7lu0B80avv_mZEFkvxg_kCEsweohYKfBEpI.jpg?auto=webp&s=95693b31b4ee87072b7b7de055460a233eb8568d",
+    "preview": "https://external-preview.redd.it/V6netG5A7lu0B80avv_mZEFkvxg_kCEsweohYKfBEpI.jpg?width=640&crop=smart&auto=webp&s=978a4d164bd38acb29bca75cfd68d0a6b0ce6916",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ve3__weJ4Dc1a1cnzXAJ7cWtJ8fzTlRulSyKrWMkUzs.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Coblestone test...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/3uszam/coblestone_test/"
+}

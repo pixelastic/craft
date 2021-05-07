@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_45dcpp41",
+    "name": "Redfaint"
+  },
+  "date": {
+    "day": 1590105600,
+    "full": 1590143249,
+    "month": 1588291200,
+    "week": 1589673600
+  },
+  "id": "t3_gogulg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/tkm737grma051.jpg?auto=webp&s=b4cd34ea0787537358aea7afb7b201d626ec5ea7",
+    "preview": "https://preview.redd.it/tkm737grma051.jpg?width=640&crop=smart&auto=webp&s=418cec599e0f266aaa74cc0bb5ff2d283b19b844",
+    "thumbnail": "https://b.thumbs.redditmedia.com/a7_SW28LwXC9BNATd8RvUdXcs2nTsvfjYAwRTlMdDEc.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 280,
+    "value": 280
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fantasy stuff so far (wip)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gogulg/fantasy_stuff_so_far_wip/"
+}

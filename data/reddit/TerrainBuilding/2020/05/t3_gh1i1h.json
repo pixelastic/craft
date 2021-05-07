@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_gc80z",
+    "name": "Parang"
+  },
+  "date": {
+    "day": 1589068800,
+    "full": 1589117290,
+    "month": 1588291200,
+    "week": 1589068800
+  },
+  "id": "t3_gh1i1h",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/L5TXokT3B4Weh6s7DZZmrqGt8UM_-yzVaLfrbcpVV94.jpg?auto=webp&s=00a23683b4638bb0c3bbe44cd4ce4033b3b682dc",
+    "preview": "https://external-preview.redd.it/L5TXokT3B4Weh6s7DZZmrqGt8UM_-yzVaLfrbcpVV94.jpg?width=640&crop=smart&auto=webp&s=04f2891c079a2325391be64169e4d432626efe8f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/JHsb0En1rQSqlDlNuWrQ91W2m3Cz-uzKy5EUpeANj4A.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP guard tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gh1i1h/wip_guard_tower/"
+}

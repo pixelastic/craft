@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1erx8im4",
+    "name": "devilmanotis"
+  },
+  "date": {
+    "day": 1556064000,
+    "full": 1556109813,
+    "month": 1554076800,
+    "week": 1555804800
+  },
+  "id": "t3_bgu5cc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xagc7zsvj7u21.jpg?auto=webp&s=539cfadec9dd5fe89a47a9002ee25e61be2d10db",
+    "preview": "https://preview.redd.it/xagc7zsvj7u21.jpg?width=640&crop=smart&auto=webp&s=ad096b901dccf0d6a03fbcbcc220515aef417adf",
+    "thumbnail": "https://b.thumbs.redditmedia.com/PIAvTSYet5ufEO2ShYZMuZAKJGW61fnt78oH9LwKYtc.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 95,
+    "value": 95
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mausoleum for a cemetery im building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bgu5cc/mausoleum_for_a_cemetery_im_building/"
+}

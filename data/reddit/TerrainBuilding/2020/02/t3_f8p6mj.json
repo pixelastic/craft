@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_45dcpp41",
+    "name": "Redfaint"
+  },
+  "date": {
+    "day": 1582502400,
+    "full": 1582538960,
+    "month": 1580515200,
+    "week": 1582416000
+  },
+  "id": "t3_f8p6mj",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/z2hccd4bjui41.jpg?auto=webp&s=d383a789d218fe045e0215d5f906e46c71011faf",
+    "preview": "https://preview.redd.it/z2hccd4bjui41.jpg?width=640&crop=smart&auto=webp&s=ddb3312dc7375ee1ad6992d46de8911238be8a81",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Mbr7Wt0HQQbFpKxXU9qWlO5GzuTA34UZ4rZWr9x72-Q.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Plattforms for Cyberpunk City Table",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f8p6mj/plattforms_for_cyberpunk_city_table/"
+}

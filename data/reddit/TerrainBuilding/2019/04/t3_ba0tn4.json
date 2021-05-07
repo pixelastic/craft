@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3jt503yv",
+    "name": "Hexhog06"
+  },
+  "date": {
+    "day": 1554508800,
+    "full": 1554525647,
+    "month": 1554076800,
+    "week": 1553990400
+  },
+  "id": "t3_ba0tn4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/20vm4tncpkq21.jpg?auto=webp&s=0a05ac42f3ac20017a86a96aa71e541f5a3c150e",
+    "preview": "https://preview.redd.it/20vm4tncpkq21.jpg?width=640&crop=smart&auto=webp&s=d1d64d5cfcfe53db5280e691d2cabc4cec5072db",
+    "thumbnail": "https://b.thumbs.redditmedia.com/fmcoH5-dI1t-VTJZPJVqWfixeG6rLkbSFKatZtfpoLg.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular Terrain Project (3d printed)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ba0tn4/modular_terrain_project_3d_printed/"
+}

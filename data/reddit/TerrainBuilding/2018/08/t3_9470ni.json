@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_15ot4h",
+    "name": "DigitalGM"
+  },
+  "date": {
+    "day": 1533254400,
+    "full": 1533275373,
+    "month": 1533081600,
+    "week": 1532822400
+  },
+  "id": "t3_9470ni",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/OaHDbxsi2VJVQownbeQBtrDlGHMaS8PH3iGUSfe5Kz4.jpg?auto=webp&s=5096affc7f39ad7f0a841961722e08ee5345d603",
+    "preview": "https://external-preview.redd.it/OaHDbxsi2VJVQownbeQBtrDlGHMaS8PH3iGUSfe5Kz4.jpg?width=640&crop=smart&auto=webp&s=82d0b06551e2685e77a2b4310b783f7904a3f5c0",
+    "thumbnail": "https://b.thumbs.redditmedia.com/kCjKF9Eer1DBQn8DAdomPBxlLtD0qAUiiPuSRTao1IM.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.78,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Saw this in r/3dprinting, looked perfect terrain if you could tweak for 15mm",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9470ni/saw_this_in_r3dprinting_looked_perfect_terrain_if/"
+}

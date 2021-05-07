@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6cdzrb",
+    "name": "LazarusCrusader"
+  },
+  "date": {
+    "day": 1559260800,
+    "full": 1559333180,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_bvc8nc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/2416cxbxol131.jpg?auto=webp&s=5fd46974c851581bd3af125479d7806e21d77f36",
+    "preview": "https://preview.redd.it/2416cxbxol131.jpg?width=640&crop=smart&auto=webp&s=9fb21d7e6fdf5678823303a4d6c92fbfafd5e963",
+    "thumbnail": "https://b.thumbs.redditmedia.com/8zOcOX-gLa0xXjmfKq6UAlVWI6B8xycQmF_ocnumFHM.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another ruin for Gath",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bvc8nc/another_ruin_for_gath/"
+}

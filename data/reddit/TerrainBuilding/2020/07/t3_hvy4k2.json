@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_aw2f1",
+    "name": "ns2680"
+  },
+  "date": {
+    "day": 1595376000,
+    "full": 1595439248,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hvy4k2",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/pn2oYNtXl0uJCIByOJdOgnkB3rz92ktrp-2E2f4FJoo.jpg?auto=webp&s=f1cba2418301056cc10740200665592486785144",
+    "preview": "https://external-preview.redd.it/pn2oYNtXl0uJCIByOJdOgnkB3rz92ktrp-2E2f4FJoo.jpg?width=640&crop=smart&auto=webp&s=273ca65b535f00ff1d6c3a58bca6044f12a7638d",
+    "thumbnail": "https://a.thumbs.redditmedia.com/Rn6FSjxqsrTLlsL3yfrPKihXfxvyAzkJfWtrwSbilm4.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built my first bits of terrain. Input and general advice on improvements would be appreciated.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hvy4k2/built_my_first_bits_of_terrain_input_and_general/"
+}

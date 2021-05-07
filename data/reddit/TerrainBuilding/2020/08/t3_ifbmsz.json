@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1x4o6qs9",
+    "name": "DannyDasPirate"
+  },
+  "date": {
+    "day": 1598140800,
+    "full": 1598217855,
+    "month": 1596240000,
+    "week": 1598140800
+  },
+  "id": "t3_ifbmsz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5h5mkqupkti51.png?auto=webp&s=0bacca8a6b63b1dcb32ed66b0e741b73fb0f92d6",
+    "preview": "https://preview.redd.it/5h5mkqupkti51.png?width=640&crop=smart&auto=webp&s=48d53f4ef44fd60ba1360a1ea3edb5acdb37783c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/CkfyhAX7lo17BOYUnS3C89EGhIaIiQj02dJNiM001Mg.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 71,
+    "value": 71
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some sci-fi scatter terrain made from 3D print support scraps, failed prints, Ikea leftovers, and googly eyes",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ifbmsz/some_scifi_scatter_terrain_made_from_3d_print/"
+}

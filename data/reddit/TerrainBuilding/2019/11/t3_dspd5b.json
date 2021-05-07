@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4sdfg",
+    "name": "aducknamedjoe"
+  },
+  "date": {
+    "day": 1573084800,
+    "full": 1573086353,
+    "month": 1572566400,
+    "week": 1572739200
+  },
+  "id": "t3_dspd5b",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/d3cc4svmr5x31.jpg?auto=webp&s=8107cb088242d2727de5031b09c60a00b505bcc1",
+    "preview": "https://preview.redd.it/d3cc4svmr5x31.jpg?width=640&crop=smart&auto=webp&s=86afb8952b3056e9d311f38d97547cc2bd99a2ec",
+    "thumbnail": "https://b.thumbs.redditmedia.com/wdW88owtfwYW8xBw2nOW1nEeaVpab4XxhZKJ_QqKA3I.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 131,
+    "value": 131
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A bit different (and crappier) than most of the stuff here: I'm going for a simple \"toy town\" aesthetic",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dspd5b/a_bit_different_and_crappier_than_most_of_the/"
+}

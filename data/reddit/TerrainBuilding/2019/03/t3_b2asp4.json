@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11z43j",
+    "name": "rozlewnia"
+  },
+  "date": {
+    "day": 1552780800,
+    "full": 1552861150,
+    "month": 1551398400,
+    "week": 1552780800
+  },
+  "id": "t3_b2asp4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ykrb2uzq7rm21.jpg?auto=webp&s=f154406cbde0b18bc1255152396471733bbf5070",
+    "preview": "https://preview.redd.it/ykrb2uzq7rm21.jpg?width=640&crop=smart&auto=webp&s=7620cfd617f7c3e898105d274726cf06d8c2b8cf",
+    "thumbnail": "https://b.thumbs.redditmedia.com/nn28o5bSQO0A_FXjMuQuqoPyjyRlssdtQCzlyLDtymk.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 275,
+    "value": 275
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mini weird west diorama - WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b2asp4/mini_weird_west_diorama_wip/"
+}

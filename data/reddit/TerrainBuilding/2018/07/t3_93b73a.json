@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1532995200,
+    "full": 1533009927,
+    "month": 1530403200,
+    "week": 1532822400
+  },
+  "id": "t3_93b73a",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/jb8iOVt47H4q3RIrq2lTNUZJ1nHsujNZMRjBPRlVZCQ.jpg?auto=webp&s=289c60ec1f4eedc713fd14cf73bf3b5ec7d8dcbd",
+    "preview": "https://external-preview.redd.it/jb8iOVt47H4q3RIrq2lTNUZJ1nHsujNZMRjBPRlVZCQ.jpg?width=640&crop=smart&auto=webp&s=27cb2713e61847fa5fa4d86ae4351547c9d347e0",
+    "thumbnail": "https://b.thumbs.redditmedia.com/B19dwfFZY13r-3IQUN7o8hdTHCgd_arbQpHxtAqVeNA.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 95,
+    "value": 95
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My SciFi gaming terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/93b73a/my_scifi_gaming_terrain/"
+}

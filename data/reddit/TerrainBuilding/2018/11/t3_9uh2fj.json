@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1541376000,
+    "full": 1541448436,
+    "month": 1541030400,
+    "week": 1541289600
+  },
+  "id": "t3_9uh2fj",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/wuVSWpz0q5nSyk_xXIaAkF_aTup6yiMz5Eka7JyJZNE.jpg?auto=webp&s=393c00d9f563e0f105aa92a48c813962dfe03491",
+    "preview": "https://external-preview.redd.it/wuVSWpz0q5nSyk_xXIaAkF_aTup6yiMz5Eka7JyJZNE.jpg?width=640&crop=smart&auto=webp&s=b0b7a35a047c56f1eac1dd493cc7aababcb450b6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/hOvxaEiyOA0yZiT-xmUDcgQcER3m2BKAxQqSy49fkWo.jpg"
+  },
+  "score": {
+    "comments": 24,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 345,
+    "value": 345
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Generator made from bubblegum tape dispensers!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9uh2fj/generator_made_from_bubblegum_tape_dispensers/"
+}

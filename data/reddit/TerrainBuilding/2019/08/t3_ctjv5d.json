@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_lg1gn",
+    "name": "Deadline_X"
+  },
+  "date": {
+    "day": 1566345600,
+    "full": 1566407730,
+    "month": 1564617600,
+    "week": 1566086400
+  },
+  "id": "t3_ctjv5d",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/VwPJA60eAERZYWGH0urbOSbjyIiYpYlanzle5evC4oI.jpg?auto=webp&s=3d2898597640bde1ebbfc3b12400b02a08e7897e",
+    "preview": "https://external-preview.redd.it/VwPJA60eAERZYWGH0urbOSbjyIiYpYlanzle5evC4oI.jpg?width=640&crop=smart&auto=webp&s=c9d3c6fe6ef36d8c95b8136066319a8bd323de66",
+    "thumbnail": "https://b.thumbs.redditmedia.com/MWT1ht4WXDWe73iJ-RcOi7RCe9sWCo3pLDwCGEruTuA.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Set piece",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ctjv5d/set_piece/"
+}

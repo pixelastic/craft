@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1e2zw06f",
+    "name": "rootstemmultimedia"
+  },
+  "date": {
+    "day": 1532995200,
+    "full": 1533076340,
+    "month": 1530403200,
+    "week": 1532822400
+  },
+  "id": "t3_93j64l",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/q242bupj1dd11.jpg?auto=webp&s=d4a76df4ca15f4ba92578927c10148158d7c6e85",
+    "preview": "https://preview.redd.it/q242bupj1dd11.jpg?width=640&crop=smart&auto=webp&s=9497082a7ac5685b20dff606a859bd83b6860c1b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/mSoQ6nO3stvsNPWznV-1Efaby7C7SbLjAJzQCPaQhnA.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Today’s table",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/93j64l/todays_table/"
+}

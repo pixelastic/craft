@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1xf4pssa",
+    "name": "NorthwesternGuy"
+  },
+  "date": {
+    "day": 1541116800,
+    "full": 1541189394,
+    "month": 1541030400,
+    "week": 1540684800
+  },
+  "id": "t3_9tnml4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/agvu0qpx4zv11.jpg?auto=webp&s=ff876497e7c55720ed5a052c70153c1fa139921b",
+    "preview": "https://preview.redd.it/agvu0qpx4zv11.jpg?width=640&crop=smart&auto=webp&s=2af12c1c2fd7fb98a0b24100dc070cddafc5cee2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/vLKZfNdof6JqwphfbtJWhVM2FzGlulyeQCo-V6a7ZpY.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 105,
+    "value": 105
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first Painted Billboard!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9tnml4/my_first_painted_billboard/"
+}

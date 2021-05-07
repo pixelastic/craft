@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_14me76",
+    "name": "Oatstar"
+  },
+  "date": {
+    "day": 1592697600,
+    "full": 1592716136,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hd16jk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/jm5rd4l457651.jpg?auto=webp&s=a39e35940e70b82245861505cb11a9835065a18f",
+    "preview": "https://preview.redd.it/jm5rd4l457651.jpg?width=640&crop=smart&auto=webp&s=122d78543f6147f9086e6571958bfe52c63db986",
+    "thumbnail": "https://a.thumbs.redditmedia.com/jpZyligHQyQkaPfKRo0PHVXfMd16_PprPjSlGPYdbC0.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 53,
+    "value": 53
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Weathered plaster-/brick wall. Tutorial in comments",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hd16jk/weathered_plasterbrick_wall_tutorial_in_comments/"
+}

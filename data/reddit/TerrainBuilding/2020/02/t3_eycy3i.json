@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_sakrnw4",
+    "name": "Lee_Beedo"
+  },
+  "date": {
+    "day": 1580688000,
+    "full": 1580760304,
+    "month": 1580515200,
+    "week": 1580601600
+  },
+  "id": "t3_eycy3i",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kp2a4xvfmre41.jpg?auto=webp&s=70266f6ef88d1d13ad4d2cf9b28e3d3a92c84d39",
+    "preview": "https://preview.redd.it/kp2a4xvfmre41.jpg?width=640&crop=smart&auto=webp&s=1c694a89ed6837035742b0dceefe5fabd615cf37",
+    "thumbnail": "https://b.thumbs.redditmedia.com/tKDIWSCZFgDFjHX2fB-xNAx5rhTMZ3bNFXT57cWAxag.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A few BMC-inspired modular ruin walls.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eycy3i/a_few_bmcinspired_modular_ruin_walls/"
+}

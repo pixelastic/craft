@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_54g2a",
+    "name": "deathkraiser"
+  },
+  "date": {
+    "day": 1585872000,
+    "full": 1585882988,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_fu0fnm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/exm8gz4nqiq41.jpg?auto=webp&s=d3f1823a2470e5e66c7fee071b04ebc2540bf01b",
+    "preview": "https://preview.redd.it/exm8gz4nqiq41.jpg?width=640&crop=smart&auto=webp&s=c1b479d05d59ad6d9b73278cb891302db9f110b2",
+    "thumbnail": "https://a.thumbs.redditmedia.com/bsVLADlwwg-TAoOI6-LDUkMQ0wj1X_EJCxhnCws3uL8.jpg"
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 287,
+    "value": 287
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "40k City Ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fu0fnm/40k_city_ruins/"
+}

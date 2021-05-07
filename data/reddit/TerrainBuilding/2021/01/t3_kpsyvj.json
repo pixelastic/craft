@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12wv0fk",
+    "name": "Heygul"
+  },
+  "date": {
+    "day": 1609632000,
+    "full": 1609707685,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_kpsyvj",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/gmpnxjatl6961.jpg?auto=webp&s=f05554920a9e3e2d8b813275c9ca64eb3427d67d",
+    "preview": "https://preview.redd.it/gmpnxjatl6961.jpg?width=640&crop=smart&auto=webp&s=f3759f92bc18e652a758a32f9f9e37b8982db004",
+    "thumbnail": "https://b.thumbs.redditmedia.com/IdvtG4jc03r6JDa4Fk9NOP-Ua98Y8eqpV8qWTHvVRUQ.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 11,
+    "value": 11
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I'm starting board two. The road joins to both sides of my first board.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kpsyvj/im_starting_board_two_the_road_joins_to_both/"
+}

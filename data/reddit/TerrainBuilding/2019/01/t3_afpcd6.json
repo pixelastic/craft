@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16ycovb",
+    "name": "tiny_architect"
+  },
+  "date": {
+    "day": 1547337600,
+    "full": 1547422023,
+    "month": 1546300800,
+    "week": 1547337600
+  },
+  "id": "t3_afpcd6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9cega74ly9a21.jpg?auto=webp&s=9ccbd1f95701a733dee931bbd9bcef63f97c5d56",
+    "preview": "https://preview.redd.it/9cega74ly9a21.jpg?width=640&crop=smart&auto=webp&s=17f49b164c050bcf1b15b894c179d8847294d8e6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/nSGekSulq9yQanwyKCQH7U8QyFR3RQBhhOGxP9e1nTE.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Throwing some scatter terrain together. Any suggestions for color?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/afpcd6/throwing_some_scatter_terrain_together_any/"
+}

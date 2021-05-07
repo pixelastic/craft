@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3vt24wpe",
+    "name": "CompanywideRateIncr"
+  },
+  "date": {
+    "day": 1595548800,
+    "full": 1595597451,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hx1tp1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/la1ewdrw4tc51.jpg?auto=webp&s=797540100e137e89610af5b77d27fd84baa39ffa",
+    "preview": "https://preview.redd.it/la1ewdrw4tc51.jpg?width=640&crop=smart&auto=webp&s=a72cc94b76f91fb527ae09409bc02eff8d1e91f8",
+    "thumbnail": "https://b.thumbs.redditmedia.com/B04bYLyqDqu2FdAHxFg2OW5km9KWKBR-qR1FX8n_HDo.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My attempt at a muddy corner",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hx1tp1/my_attempt_at_a_muddy_corner/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_77fghvte",
+    "name": "budgetscenery"
+  },
+  "date": {
+    "day": 1604707200,
+    "full": 1604760761,
+    "month": 1604188800,
+    "week": 1604188800
+  },
+  "id": "t3_jps3q5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0hxtukl40ux51.jpg?auto=webp&s=2c9e2cb4f7dda97c7e371eabba17c8625e3e8194",
+    "preview": "https://preview.redd.it/0hxtukl40ux51.jpg?width=640&crop=smart&auto=webp&s=8ce2821e3372905e2fd79d8d632b13c64e43532c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/D8pugsCyDJ8LFz8C7hK-0F-BQHpiV0RznZAlhVX8pIQ.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Church WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jps3q5/church_wip/"
+}

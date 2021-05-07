@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_125edbui",
+    "name": "NTT89"
+  },
+  "date": {
+    "day": 1566777600,
+    "full": 1566828666,
+    "month": 1564617600,
+    "week": 1566691200
+  },
+  "id": "t3_cvolud",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/tjnxw5iiwsi31.jpg?auto=webp&s=e27f97ecd36dc2bf43c3acf74cb6bc47af7aceae",
+    "preview": "https://preview.redd.it/tjnxw5iiwsi31.jpg?width=640&crop=smart&auto=webp&s=a52203c9cdf84f27dc17051f620fb56f00f1f67f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/PtKcjznnsNMM5KlQp_S-ViDL_Sv0byRekuqj11jxV0U.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some silos I did over the weekend.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cvolud/some_silos_i_did_over_the_weekend/"
+}

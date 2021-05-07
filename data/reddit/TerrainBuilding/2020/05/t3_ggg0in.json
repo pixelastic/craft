@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_14me76",
+    "name": "Oatstar"
+  },
+  "date": {
+    "day": 1588982400,
+    "full": 1589033280,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_ggg0in",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/r4i9g9d4yqx41.jpg?auto=webp&s=78bc711ceca2eba54825a460d1e6ad044f410d71",
+    "preview": "https://preview.redd.it/r4i9g9d4yqx41.jpg?width=640&crop=smart&auto=webp&s=8d0c31d3d6b084a0f41acfaf613fb37f23f60083",
+    "thumbnail": "https://b.thumbs.redditmedia.com/pmS1ppkpO_JU0F_eR1ek_uIVELIpeqCxjYvnh8Hroqw.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Water terrain without resin",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ggg0in/water_terrain_without_resin/"
+}

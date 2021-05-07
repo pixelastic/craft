@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_k7mscb4",
+    "name": "schoonerlabs"
+  },
+  "date": {
+    "day": 1524528000,
+    "full": 1524611762,
+    "month": 1522540800,
+    "week": 1524355200
+  },
+  "id": "t3_8eox28",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/jev0frc0wxt01.jpg?auto=webp&s=e31abb83356cb790012944cb4c28de9129ca79a8",
+    "preview": "https://preview.redd.it/jev0frc0wxt01.jpg?width=640&crop=smart&auto=webp&s=796de4ddce36825d6ed2b06592d2e7be6dd53122",
+    "thumbnail": "https://b.thumbs.redditmedia.com/JuYbLT2_r-4j2l5P6VZAFwOW-OCY1JGkYkGzDQOJqng.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some initial terrain layout ideas on the new Gamemat.eu surface for a resupply station map. A few new elements sketched out to fill in the concept. More ideas brewing...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8eox28/some_initial_terrain_layout_ideas_on_the_new/"
+}

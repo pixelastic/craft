@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_x3jrecc",
+    "name": "Plaguedskull"
+  },
+  "date": {
+    "day": 1562976000,
+    "full": 1563038170,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_ccrryb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/smzyq03gt3a31.jpg?auto=webp&s=88a8f8eb059f4bd569c376c8ee828b5b03a42a4e",
+    "preview": "https://preview.redd.it/smzyq03gt3a31.jpg?width=640&crop=smart&auto=webp&s=dfa267cbf44f682fc750eab852c9e454ef53b4af",
+    "thumbnail": "https://b.thumbs.redditmedia.com/gf0FETCIQLKjDY1tD4X2gGCZiwXSHGZeD8wuObG2Zgs.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tried building a small tent.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ccrryb/tried_building_a_small_tent/"
+}

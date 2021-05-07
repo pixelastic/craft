@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_21q72vez",
+    "name": "trashtho"
+  },
+  "date": {
+    "day": 1567468800,
+    "full": 1567509751,
+    "month": 1567296000,
+    "week": 1567296000
+  },
+  "id": "t3_cz3ixf",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0qooc93r5dk31.jpg?auto=webp&s=f5b63bda9f99c60a058ba7ffcb0537e3e268ddbc",
+    "preview": "https://preview.redd.it/0qooc93r5dk31.jpg?width=640&crop=smart&auto=webp&s=65e7e3d92e9b8abc63544d02905cc70e37cbcf57",
+    "thumbnail": "https://b.thumbs.redditmedia.com/0fI5MMiQHReSsbijIWPgfjKCgblrczYZN-2BjjVW0ZU.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scratch Built Spectator",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cz3ixf/scratch_built_spectator/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_68dqq",
+    "name": "CabbageDan"
+  },
+  "date": {
+    "day": 1563408000,
+    "full": 1563461973,
+    "month": 1561939200,
+    "week": 1563062400
+  },
+  "id": "t3_cetkjc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/i7pu2d8mt2b31.jpg?auto=webp&s=053e1b3a0e707a3da95e9aebc22ad1dfead89f3b",
+    "preview": "https://preview.redd.it/i7pu2d8mt2b31.jpg?width=640&crop=smart&auto=webp&s=1bc3ce1fb453f96802552a5cdd636ab16e2559bc",
+    "thumbnail": "https://b.thumbs.redditmedia.com/6isuEDlFPWrzApSJQUwRYGkSok7F26IzieoufK3G7_g.jpg"
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 292,
+    "value": 292
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A hedgehogs cottage for Burrows and Badgers",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cetkjc/a_hedgehogs_cottage_for_burrows_and_badgers/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_yf9qv",
+    "name": "Timago"
+  },
+  "date": {
+    "day": 1600128000,
+    "full": 1600187983,
+    "month": 1598918400,
+    "week": 1599955200
+  },
+  "id": "t3_itcfzs",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/h5s0ghpqacn51.png?auto=webp&s=41c830e3750f9ed1a103c6a12883ba1a62e8fddf",
+    "preview": "https://preview.redd.it/h5s0ghpqacn51.png?width=640&crop=smart&auto=webp&s=cf44c1fc09912a1c33b784847796773067d1758a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/CYGKGxByQ_AvgRhULMNyo-GJ0-IaJXg6IPd_YmUDDFg.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 321,
+    "value": 321
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little before and after shot of a pedestal I built",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/itcfzs/a_little_before_and_after_shot_of_a_pedestal_i/"
+}

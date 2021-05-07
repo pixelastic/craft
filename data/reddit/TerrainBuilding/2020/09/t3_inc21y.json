@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1599350400,
+    "full": 1599350989,
+    "month": 1598918400,
+    "week": 1599350400
+  },
+  "id": "t3_inc21y",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/nv7g2va16fl51.jpg?auto=webp&s=d6aacc9f8f04e903dcead2afff882729d7dc7e45",
+    "preview": "https://preview.redd.it/nv7g2va16fl51.jpg?width=640&crop=smart&auto=webp&s=28fe684d76f969c0228f6370de2f8db3f43731aa",
+    "thumbnail": "https://b.thumbs.redditmedia.com/0Dm7cpPB4oB1lIkHnwV0LhNxKuS-JCs3yvpTjwz4bRA.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some styrocutter practice more in comments",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/inc21y/some_styrocutter_practice_more_in_comments/"
+}

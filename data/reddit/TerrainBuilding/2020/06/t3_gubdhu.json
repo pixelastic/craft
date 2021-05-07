@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_f8gw4",
+    "name": "mister_doubleyou"
+  },
+  "date": {
+    "day": 1590969600,
+    "full": 1590974997,
+    "month": 1590969600,
+    "week": 1590883200
+  },
+  "id": "t3_gubdhu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vo06xb8yb7251.jpg?auto=webp&s=ed0c551169aa5396f5129d5855d768ffd3d37cbe",
+    "preview": "https://preview.redd.it/vo06xb8yb7251.jpg?width=640&crop=smart&auto=webp&s=59a68cc0d91248736c399a1f3c25b6112042c07f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/CZiVBCh_E-2yW391J3hlr95rOnPXbr5G_LisQbnoa5o.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I’m building a table of terrain based on a filthy Favela. Lots of graffiti. Here’s one of my first pieces.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gubdhu/im_building_a_table_of_terrain_based_on_a_filthy/"
+}

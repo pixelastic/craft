@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_54dcctfy",
+    "name": "Arch_Shadow"
+  },
+  "date": {
+    "day": 1603238400,
+    "full": 1603246681,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jf47pm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/foiv3gyzxcu51.jpg?auto=webp&s=39f7da35dbaf5558422a4ff78d5dedc398e5566e",
+    "preview": "https://preview.redd.it/foiv3gyzxcu51.jpg?width=640&crop=smart&auto=webp&s=f805663a58d4ff5296308bb601eae9bb377aef0d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/HQCMEIeIo5WGEpYClQjQsCPUBfv-seZFJbBk43w5VOg.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Yes the shop is a mess",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jf47pm/yes_the_shop_is_a_mess/"
+}

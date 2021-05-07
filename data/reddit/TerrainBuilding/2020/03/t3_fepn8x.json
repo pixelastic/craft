@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4fupo7am",
+    "name": "tjhayes42"
+  },
+  "date": {
+    "day": 1583539200,
+    "full": 1583553008,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fepn8x",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/g8fxt98la6l41.jpg?auto=webp&s=1b45b7908cdd9a22f88323260eeb209c89a40cb3",
+    "preview": "https://preview.redd.it/g8fxt98la6l41.jpg?width=640&crop=smart&auto=webp&s=cf779e07efa548fe9005052a7343ef31a645598b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/DJnKeUKiR9ziZ6Ab4ybQe7scEL5FLFLW5guyklEUj5k.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 73,
+    "value": 73
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first bit of terrain, keeping it simple. C&C welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fepn8x/my_first_bit_of_terrain_keeping_it_simple_cc/"
+}

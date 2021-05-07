@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1azyjkk",
+    "name": "lukaszwasilewski"
+  },
+  "date": {
+    "day": 1590537600,
+    "full": 1590617486,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_grtjtm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/k201ko0xsd151.jpg?auto=webp&s=45eb2320947dee03a7f4f920ffeb465658f796d9",
+    "preview": "https://preview.redd.it/k201ko0xsd151.jpg?width=640&crop=smart&auto=webp&s=27f45cb6bf1406f76ef5332418239ebd904d0adb",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uubwFq_GMp0JORki7CAI7y6fnhHSK6JK18HSapcV8CI.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 269,
+    "value": 269
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruins made from foam",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/grtjtm/ruins_made_from_foam/"
+}

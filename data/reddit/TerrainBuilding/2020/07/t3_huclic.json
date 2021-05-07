@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3vt24wpe",
+    "name": "CompanywideRateIncr"
+  },
+  "date": {
+    "day": 1595203200,
+    "full": 1595209477,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_huclic",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/hl9bkkk93xb51.jpg?auto=webp&s=b7a8867e75e9b465370ee1fc55af29203f0dd960",
+    "preview": "https://preview.redd.it/hl9bkkk93xb51.jpg?width=640&crop=smart&auto=webp&s=fddd07a4e09600aa122c4c7524837142a4d0ffc3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/_QlR0LMmfIn9q8sCHfbg49rWttp2hjWX7AOZC_GEWPY.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 158,
+    "value": 158
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Muddy ramp for Gaslands",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/huclic/muddy_ramp_for_gaslands/"
+}

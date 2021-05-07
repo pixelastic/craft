@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33u00",
+    "name": "roflo1"
+  },
+  "date": {
+    "day": 1528329600,
+    "full": 1528384876,
+    "month": 1527811200,
+    "week": 1527984000
+  },
+  "id": "t3_8pb5m8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9y3xhh59jl211.jpg?auto=webp&s=47a923986df6064e4442aa2cb9b0e1ae0d93d0c3",
+    "preview": "https://preview.redd.it/9y3xhh59jl211.jpg?width=640&crop=smart&auto=webp&s=bd96c828a0319fc5b6a5a7256b2bcd0aaacb4898",
+    "thumbnail": "https://b.thumbs.redditmedia.com/J98olP7iAECi6wFDhOS3xK_bqdIsd5EJVFPAN4PX5kY.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Barricade (made from tack putty)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8pb5m8/barricade_made_from_tack_putty/"
+}

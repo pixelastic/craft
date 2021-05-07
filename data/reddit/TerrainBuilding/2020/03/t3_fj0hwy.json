@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2oauzby2",
+    "name": "SedFalco"
+  },
+  "date": {
+    "day": 1584230400,
+    "full": 1584274646,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_fj0hwy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/rm65vp2ewtm41.jpg?auto=webp&s=5b821069b913f81f038bba518cede87b5c6071aa",
+    "preview": "https://preview.redd.it/rm65vp2ewtm41.jpg?width=640&crop=smart&auto=webp&s=7681a871e9cf5880e8a6f5d8e4f9564a2cd60f12",
+    "thumbnail": "https://a.thumbs.redditmedia.com/mVePzphEKucNVomEA3T6fufAEJ8KmpVSvOj4LQojgG0.jpg"
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 275,
+    "value": 275
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Bookcase try",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fj0hwy/bookcase_try/"
+}

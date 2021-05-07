@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2oauzby2",
+    "name": "SedFalco"
+  },
+  "date": {
+    "day": 1584403200,
+    "full": 1584422231,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_fjzoex",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ug9qpgl836n41.jpg?auto=webp&s=7ddc22c65817f7789653f0867ededd3e219112b0",
+    "preview": "https://preview.redd.it/ug9qpgl836n41.jpg?width=640&crop=smart&auto=webp&s=fdf8f1b3dad5c7f84da88b2972121979f3e8bf48",
+    "thumbnail": "https://b.thumbs.redditmedia.com/W9kW_-q9v90kozWtuq2Xs-kMvFb0nMRmUBiYZWT7s8c.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 309,
+    "value": 309
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Library is growing",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fjzoex/the_library_is_growing/"
+}

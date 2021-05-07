@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g7n2z",
+    "name": "OneTrueShade"
+  },
+  "date": {
+    "day": 1531180800,
+    "full": 1531265050,
+    "month": 1530403200,
+    "week": 1531008000
+  },
+  "id": "t3_8xuea9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/j23vn03hf7911.jpg?auto=webp&s=284e3c5015d946069c43cc54a9f05dcae0021325",
+    "preview": "https://preview.redd.it/j23vn03hf7911.jpg?width=640&crop=smart&auto=webp&s=31874d9400b468a8a0ef920091a6cc8212a0835d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/FTDN8ZNp8OzuQp-o7Vp_OOe5QJoi9FScsb0Aq5VHk6I.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I have discovered a flaw in my modular Borovian Church design",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8xuea9/i_have_discovered_a_flaw_in_my_modular_borovian/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2h1q5uar",
+    "name": "OriginalGarek"
+  },
+  "date": {
+    "day": 1592697600,
+    "full": 1592775316,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hdf2ag",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3ygtefb81c651.png?auto=webp&s=62adbbe3e13a1d37736646972b50d241e7352f9c",
+    "preview": "https://preview.redd.it/3ygtefb81c651.png?width=640&crop=smart&auto=webp&s=4c6ba3de13be63b1025e7cec51d92051b6d21b3c",
+    "thumbnail": "https://a.thumbs.redditmedia.com/T4cHvih54DuT-LS0JcFrsVvhPwgPHaMRJDjABLm6NB8.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "War torn building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hdf2ag/war_torn_building/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7nryx",
+    "name": "Seshia"
+  },
+  "date": {
+    "day": 1507507200,
+    "full": 1507519712,
+    "month": 1506816000,
+    "week": 1507420800
+  },
+  "id": "t3_756hck",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kb6tgmxh4qqz.jpg?auto=webp&s=893c6f205882a964010311c9cdb7155ab294df38",
+    "preview": "https://preview.redd.it/kb6tgmxh4qqz.jpg?width=640&crop=smart&auto=webp&s=ca24e24f39a170a24f754a3537c90fc9cedfbaf8",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Q6jVr9LXxGzkeIAdxwLCxZM6hoFxEfF5F-gCvTCvXvo.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at hand-sculpting base elements",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/756hck/first_attempt_at_handsculpting_base_elements/"
+}

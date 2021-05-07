@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_65uo4klc",
+    "name": "Ultralast_DM"
+  },
+  "date": {
+    "day": 1591488000,
+    "full": 1591499711,
+    "month": 1590969600,
+    "week": 1591488000
+  },
+  "id": "t3_gy4wfo",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cs0pu2l7oe351.jpg?auto=webp&s=fec317871cb61dd8df40070f87936e97a8522b8f",
+    "preview": "https://preview.redd.it/cs0pu2l7oe351.jpg?width=640&crop=smart&auto=webp&s=24f47adab52315c4b761250d334f17790ecd1fd6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uVVu5Z18N59DedgeQ8iDd7P3QlHodxZ1PvGgiA6MYcM.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP dwarven cavern entrance",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gy4wfo/wip_dwarven_cavern_entrance/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3cfxwq",
+    "name": "DMBill"
+  },
+  "date": {
+    "day": 1587600000,
+    "full": 1587601946,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g6cxm7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/etuma5x5qgu41.jpg?auto=webp&s=f291855467250d806574cc3f266f9526fca772fe",
+    "preview": "https://preview.redd.it/etuma5x5qgu41.jpg?width=640&crop=smart&auto=webp&s=74fd7dcb6473d127da65f15fe7439ac9443d67ca",
+    "thumbnail": "https://b.thumbs.redditmedia.com/7HWaStfuqPv242z3I5Ym8l5UbUVbgvpCZieSpZy9KcM.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 563,
+    "value": 563
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D printed industrial/post apocalyptic scenery",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g6cxm7/3d_printed_industrialpost_apocalyptic_scenery/"
+}

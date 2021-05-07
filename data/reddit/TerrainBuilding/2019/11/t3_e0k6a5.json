@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10jqi7",
+    "name": "Lundiadin"
+  },
+  "date": {
+    "day": 1574467200,
+    "full": 1574526887,
+    "month": 1572566400,
+    "week": 1573948800
+  },
+  "id": "t3_e0k6a5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3npfmdrarg041.jpg?auto=webp&s=40dba47b3cca4d293af3d58c59682f6b0428931b",
+    "preview": "https://preview.redd.it/3npfmdrarg041.jpg?width=640&crop=smart&auto=webp&s=20fb406d2557dd81944f74f2f84a011572de970d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/pdo6WNW1RiLoZQN4YqBrKJ-38KqtItp6U9AxhAc4N2c.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A question about smoothing cork edges.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e0k6a5/a_question_about_smoothing_cork_edges/"
+}

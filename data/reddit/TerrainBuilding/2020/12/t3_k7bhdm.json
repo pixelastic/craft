@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_x1rmw",
+    "name": "Overpin"
+  },
+  "date": {
+    "day": 1607126400,
+    "full": 1607188964,
+    "month": 1606780800,
+    "week": 1606608000
+  },
+  "id": "t3_k7bhdm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/z2or9edxbd361.jpg?auto=webp&s=dfd6ecdd9fe17a75275fc3739d0ff433364d84b3",
+    "preview": "https://preview.redd.it/z2or9edxbd361.jpg?width=640&crop=smart&auto=webp&s=bf0079952116943c2399baa0f21f776c1674dc8e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/85S14R26yU6O7lMIFO3KyX9nezLeFzubMZePcs8Xi5o.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruined city terrain set I’m working on, a good start I’d say!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k7bhdm/ruined_city_terrain_set_im_working_on_a_good/"
+}

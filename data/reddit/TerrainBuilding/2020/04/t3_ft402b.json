@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_l4e8qjw",
+    "name": "parasite3go"
+  },
+  "date": {
+    "day": 1585699200,
+    "full": 1585761550,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ft402b",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/friatk6qp8q41.jpg?auto=webp&s=24a3064fe87d979dbad1ddaea13d742227426ecf",
+    "preview": "https://preview.redd.it/friatk6qp8q41.jpg?width=640&crop=smart&auto=webp&s=36c1492d629430f232b0d97c0a7c9854b5acc4d1",
+    "thumbnail": "https://a.thumbs.redditmedia.com/zgQc8oQ8PO9SiqPvrru_uUODmGEz5VxrrcdVRqoL1K4.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Grassland tiles for roadside encounters",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ft402b/grassland_tiles_for_roadside_encounters/"
+}

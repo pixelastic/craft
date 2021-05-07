@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12kdlt",
+    "name": "Mezic_Corvus"
+  },
+  "date": {
+    "day": 1592956800,
+    "full": 1592996912,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hez4mh",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/LDXq_HaoWs4G15LC4mfrGjkShQ142P27MAVjIokXvFI.jpg?auto=webp&s=ff8f1de451888f88e410989bf1a47adda153014c",
+    "preview": "https://external-preview.redd.it/LDXq_HaoWs4G15LC4mfrGjkShQ142P27MAVjIokXvFI.jpg?width=640&crop=smart&auto=webp&s=8763b43df8ef5030f27c9c1d39687092878fc9c5",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.78,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Using printed images in terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hez4mh/using_printed_images_in_terrain/"
+}

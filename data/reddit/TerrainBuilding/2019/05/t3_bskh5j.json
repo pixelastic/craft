@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2zg19isa",
+    "name": "ecto_27"
+  },
+  "date": {
+    "day": 1558656000,
+    "full": 1558722849,
+    "month": 1556668800,
+    "week": 1558224000
+  },
+  "id": "t3_bskh5j",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/umcl6sasd7031.jpg?auto=webp&s=a4ec97b5691b7c20d57990f726216d1b0f57490d",
+    "preview": "https://preview.redd.it/umcl6sasd7031.jpg?width=640&crop=smart&auto=webp&s=95513f15e1ffd9a46b92579ef34cf945ffea3973",
+    "thumbnail": "https://b.thumbs.redditmedia.com/NWcm5iyguD6ec0n_HdyPE8rQdMIWNpmbqoW-SCglisY.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tunnel Entrance",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bskh5j/tunnel_entrance/"
+}

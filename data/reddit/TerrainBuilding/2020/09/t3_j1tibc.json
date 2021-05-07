@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1601337600,
+    "full": 1601359027,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j1tibc",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/ku4EPeNi7y5BozUAWZBF9wkJdrsOxRWYfCXNnR3ZMsI.png?format=pjpg&auto=webp&s=471dc8a82df2821a845c302064dba6f4bd509577",
+    "preview": "https://external-preview.redd.it/ku4EPeNi7y5BozUAWZBF9wkJdrsOxRWYfCXNnR3ZMsI.png?width=640&crop=smart&format=pjpg&auto=webp&s=1f6544f87a22b10d29675bb6dedbb88866c00a73",
+    "thumbnail": "https://a.thumbs.redditmedia.com/1VcvDdtHHhK5z0-ux57sUvhNCq0vE6VT6QIqaviT8Z4.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 578,
+    "value": 578
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice tower complete, will be the base for a dragon I'm painting",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j1tibc/dice_tower_complete_will_be_the_base_for_a_dragon/"
+}

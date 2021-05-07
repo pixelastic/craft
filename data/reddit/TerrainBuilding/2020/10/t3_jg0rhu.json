@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1603324800,
+    "full": 1603377299,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jg0rhu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ua0xtlsdqnu51.jpg?auto=webp&s=b55ac8e56bf1d9eeac1c91b8150567f301147c4a",
+    "preview": "https://preview.redd.it/ua0xtlsdqnu51.jpg?width=640&crop=smart&auto=webp&s=cbab1c7acf24a6c1c843c7b2563d5632b4926a48",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uNimpN6GLrh5mF_CxqoDBuq-4EFLplLNHaP-l54Gh-I.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 72,
+    "value": 72
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The barn model is another building in the village of Teufelsberg, ready to be put on the battlefield.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jg0rhu/the_barn_model_is_another_building_in_the_village/"
+}

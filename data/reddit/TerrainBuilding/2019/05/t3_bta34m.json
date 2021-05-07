@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4mkh7",
+    "name": "chenobble"
+  },
+  "date": {
+    "day": 1558828800,
+    "full": 1558889067,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_bta34m",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/hmabimfo3l031.jpg?auto=webp&s=b8795961e459c6fef659e4d8e84324af4af6669b",
+    "preview": "https://preview.redd.it/hmabimfo3l031.jpg?width=640&crop=smart&auto=webp&s=9ce529168d5c8a1901fa2794858a75a3a58cad73",
+    "thumbnail": "https://b.thumbs.redditmedia.com/yFwPCzTTDLUZj-FKjGMlg8GR_ToKwAiTljdgmzE0_Fw.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 137,
+    "value": 137
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dead-end corridor for my dungeon tileset",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bta34m/deadend_corridor_for_my_dungeon_tileset/"
+}

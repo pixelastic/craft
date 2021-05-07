@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_67hz9",
+    "name": "Mercarcher"
+  },
+  "date": {
+    "day": 1593388800,
+    "full": 1593394554,
+    "month": 1590969600,
+    "week": 1593302400
+  },
+  "id": "t3_hhqtrr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6temt98g6r751.jpg?auto=webp&s=190bb553f9770e371875fefc9193f05fc47645cb",
+    "preview": "https://preview.redd.it/6temt98g6r751.jpg?width=640&crop=smart&auto=webp&s=8808a79cd311a27eda7fd3f4361e65bf7fbd47a3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/PzeIDe-PGxbqQwD5S2-4a1VaJpKQESnGgZq_AKHAcSk.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 202,
+    "value": 202
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first piece of built terrain. Building a whole ruins set like this. How does it look?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hhqtrr/my_first_piece_of_built_terrain_building_a_whole/"
+}

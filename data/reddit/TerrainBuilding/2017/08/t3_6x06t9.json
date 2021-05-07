@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4v62h",
+    "name": "scott-42"
+  },
+  "date": {
+    "day": 1504051200,
+    "full": 1504109517,
+    "month": 1501545600,
+    "week": 1503792000
+  },
+  "id": "t3_6x06t9",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/lE3jJghhw1bqXFS1WCEiXf2gqQxAzCrqK6QTa_LSHKQ.jpg?auto=webp&s=a53a5b706f0d72e2c4f7a286b1e46a74fff3db35",
+    "preview": "https://external-preview.redd.it/lE3jJghhw1bqXFS1WCEiXf2gqQxAzCrqK6QTa_LSHKQ.jpg?width=640&crop=smart&auto=webp&s=5dbd1c304d89869d5904f6c71f1f5658cc223f21",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.67,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How to contain realistic water above the piece edge?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6x06t9/how_to_contain_realistic_water_above_the_piece/"
+}

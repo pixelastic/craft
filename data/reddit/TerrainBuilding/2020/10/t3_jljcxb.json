@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1604102400,
+    "full": 1604154793,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_jljcxb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xv2n3a1ayfw51.jpg?auto=webp&s=1792bc26727d83aba10d4b9d0ca650358670d0a1",
+    "preview": "https://preview.redd.it/xv2n3a1ayfw51.jpg?width=640&crop=smart&auto=webp&s=62bd63f5851f044dd7097fe68f64050e1bc7f34e",
+    "thumbnail": "https://a.thumbs.redditmedia.com/mWeoAek7EMU7_p0j_myWWdiJPJS12KJGl2ndp7Sz7m4.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Happy Halloween!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jljcxb/happy_halloween/"
+}

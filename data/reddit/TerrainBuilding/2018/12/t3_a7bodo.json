@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2hdbilhk",
+    "name": "ragure"
+  },
+  "date": {
+    "day": 1545091200,
+    "full": 1545144529,
+    "month": 1543622400,
+    "week": 1544918400
+  },
+  "id": "t3_a7bodo",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5aiwrapgu1521.png?auto=webp&s=c3b92fa8126ebc58605dccdcb0105e221dfb7267",
+    "preview": "https://preview.redd.it/5aiwrapgu1521.png?width=640&crop=smart&auto=webp&s=7eb603af68b66b3c193c0679ef735f3a190a6bd3",
+    "thumbnail": "https://a.thumbs.redditmedia.com/TsD-ufbubFiJx6Uf2o3o-T_bxzvBS7Rd8b7_QUfUUa0.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice tower made for a friend in 1 day",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a7bodo/dice_tower_made_for_a_friend_in_1_day/"
+}

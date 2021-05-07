@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_atol2",
+    "name": "J1bbl3"
+  },
+  "date": {
+    "day": 1594080000,
+    "full": 1594161759,
+    "month": 1593561600,
+    "week": 1593907200
+  },
+  "id": "t3_hn4w7m",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/1jw2vkruji951.jpg?auto=webp&s=87cf394debf9b0e1969ea53b8bb853fe947d6ffb",
+    "preview": "https://preview.redd.it/1jw2vkruji951.jpg?width=640&crop=smart&auto=webp&s=bd690c6fc7d73e7549cf912932b5e063b1cdb873",
+    "thumbnail": "https://b.thumbs.redditmedia.com/IKVu9JUDHaspIHejFlGsmfrWCegTJWbY01PXNuVTZUg.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I’m working on a French town for bolt action and have a few questions. Is there any way to hide the seams between patches of grass? And do you have any suggestions for how to transition from the cobblestone to grass? The way it is now looks pretty terrible IMO.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hn4w7m/im_working_on_a_french_town_for_bolt_action_and/"
+}

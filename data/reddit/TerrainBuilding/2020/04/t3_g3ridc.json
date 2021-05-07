@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_myrd8",
+    "name": "HundredTai"
+  },
+  "date": {
+    "day": 1587168000,
+    "full": 1587231520,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g3ridc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/2dh154l24mt41.png?auto=webp&s=b446b7e1b8fb46945ba236098b8134b765a8e25b",
+    "preview": "https://preview.redd.it/2dh154l24mt41.png?width=640&crop=smart&auto=webp&s=9c4d8bdf7f8384a4c1a2051e9fd2245353b64ff9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ndYzTLY9XwdQDKMOKnsgCAF7YcsY9o6dlNkIm-3ntoI.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Destroyed three-floor building, first finished large structure",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g3ridc/destroyed_threefloor_building_first_finished/"
+}

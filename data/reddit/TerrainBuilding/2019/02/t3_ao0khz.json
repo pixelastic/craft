@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_101eze",
+    "name": "Cur10"
+  },
+  "date": {
+    "day": 1549497600,
+    "full": 1549518368,
+    "month": 1548979200,
+    "week": 1549152000
+  },
+  "id": "t3_ao0khz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/n37d8z2543f21.jpg?auto=webp&s=fa874eac55fbbbf0f99553a4de5d3a171b638c72",
+    "preview": "https://preview.redd.it/n37d8z2543f21.jpg?width=640&crop=smart&auto=webp&s=b62543bd87804f50fad3ea1f1f4d93d4abe2cc2e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/asu75blnPQPJLnO_PTBP4-93uWkNg9pcAL-7z7EJktM.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Stone Building from XPS Foam",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ao0khz/stone_building_from_xps_foam/"
+}

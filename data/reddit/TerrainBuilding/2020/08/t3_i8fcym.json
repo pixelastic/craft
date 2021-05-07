@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_yf9qv",
+    "name": "Timago"
+  },
+  "date": {
+    "day": 1597190400,
+    "full": 1597244753,
+    "month": 1596240000,
+    "week": 1596931200
+  },
+  "id": "t3_i8fcym",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/jorgxc9v6lg51.png?auto=webp&s=27f8fbce1d0cabb295f765c29c2b99e111e42b6d",
+    "preview": "https://preview.redd.it/jorgxc9v6lg51.png?width=640&crop=smart&auto=webp&s=7d524a1c5a9481b08710fbac96655e7c7366351b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/QOezA6GYWk9Zs-fA8oXGq6eUjBFgUH9BBiyfQ85wU_M.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A quick little hill for my table",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i8fcym/a_quick_little_hill_for_my_table/"
+}

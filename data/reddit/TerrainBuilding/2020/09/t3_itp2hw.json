@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3l2mwvbn",
+    "name": "silence_das"
+  },
+  "date": {
+    "day": 1600214400,
+    "full": 1600231664,
+    "month": 1598918400,
+    "week": 1599955200
+  },
+  "id": "t3_itp2hw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cyobztwswfn51.jpg?auto=webp&s=9cafb47815cbe63a92bbdff27da60cdc7ec6c301",
+    "preview": "https://preview.redd.it/cyobztwswfn51.jpg?width=640&crop=smart&auto=webp&s=c7a8bbbd2a8c49cbb6bb3eb2af0fa7d52a1e60e8",
+    "thumbnail": "https://b.thumbs.redditmedia.com/K8KA0ouuu6oOyB6D4onhexgbSukOADeYjyXln4hS_2A.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first dumpster",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/itp2hw/my_first_dumpster/"
+}

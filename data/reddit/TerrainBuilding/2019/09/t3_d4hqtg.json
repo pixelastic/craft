@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3jjcuunm",
+    "name": "FollowingLittleLight"
+  },
+  "date": {
+    "day": 1568505600,
+    "full": 1568535244,
+    "month": 1567296000,
+    "week": 1568505600
+  },
+  "id": "t3_d4hqtg",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/imkYouIZffbEtLUFqMmTPHbpWjhDF9WhbSTnbUC6OsA.jpg?auto=webp&s=c3673705747cd79e7bed74983830cc7506cedf05",
+    "preview": "https://external-preview.redd.it/imkYouIZffbEtLUFqMmTPHbpWjhDF9WhbSTnbUC6OsA.jpg?width=640&crop=smart&auto=webp&s=a296c177c2bc79fe7f2685b9d47b16eb5827fc69",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 24,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 9,
+    "value": 9
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Foam is soaking up the paint",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/d4hqtg/foam_is_soaking_up_the_paint/"
+}

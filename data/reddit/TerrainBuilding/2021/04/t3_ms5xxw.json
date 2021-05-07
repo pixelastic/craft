@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3ad1wjl3",
+    "name": "SomeGuy7078"
+  },
+  "date": {
+    "day": 1618531200,
+    "full": 1618588014,
+    "month": 1617235200,
+    "week": 1618099200
+  },
+  "id": "t3_ms5xxw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/k1alarzm3kt61.jpg?auto=webp&s=51dad6c2e07e4b635b908bcb1082b88564d2e2ac",
+    "preview": "https://preview.redd.it/k1alarzm3kt61.jpg?width=640&crop=smart&auto=webp&s=f7b2b67762133ba2fc53cdeb86104b468086db19",
+    "thumbnail": "https://a.thumbs.redditmedia.com/5z2-xkDESkJdhsEQxAQVRW7QocMukra65DvamagfaN8.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 90,
+    "value": 90
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Post! Had fun working on this board and wanted to share with the community",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ms5xxw/first_post_had_fun_working_on_this_board_and/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5hxze91b",
+    "name": "crappyredux-1"
+  },
+  "date": {
+    "day": 1590105600,
+    "full": 1590150214,
+    "month": 1588291200,
+    "week": 1589673600
+  },
+  "id": "t3_goidec",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0xcc7csg7b051.jpg?auto=webp&s=a89b0cf241abe85b85ef321523ffa0e4009e9632",
+    "preview": "https://preview.redd.it/0xcc7csg7b051.jpg?width=640&crop=smart&auto=webp&s=f786df21b2aa218bc31bc56ce2a8668a2a53b829",
+    "thumbnail": "https://b.thumbs.redditmedia.com/eoVrrYMHB4tpDxuKbcYzFt-rlE3p6uGj6TObhQIlSZs.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 140,
+    "value": 140
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "An objective marker for 40k, C&C appreciated!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/goidec/an_objective_marker_for_40k_cc_appreciated/"
+}

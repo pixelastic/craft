@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2hdbilhk",
+    "name": "ragure"
+  },
+  "date": {
+    "day": 1603756800,
+    "full": 1603824437,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_jj75cp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6s07ri9ynov51.jpg?auto=webp&s=b88489c1a254c7eee36b58319845dec2b137cfc9",
+    "preview": "https://preview.redd.it/6s07ri9ynov51.jpg?width=640&crop=smart&auto=webp&s=6f55c01e3d8342769e63afd8a5ad777a5b9bf8a6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/M98LSWMpKhXJd1xnjGOIrvTFmmC9Vypoy25op13CjAU.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Snowy diorama (Confronting the snow terror)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jj75cp/wip_snowy_diorama_confronting_the_snow_terror/"
+}

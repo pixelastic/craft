@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_h0141",
+    "name": "Zulathan"
+  },
+  "date": {
+    "day": 1563408000,
+    "full": 1563466956,
+    "month": 1561939200,
+    "week": 1563062400
+  },
+  "id": "t3_ceun5h",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3xsi2q4g83b31.jpg?auto=webp&s=f8b57350201dd2e9277b7210387707603a5de588",
+    "preview": "https://preview.redd.it/3xsi2q4g83b31.jpg?width=640&crop=smart&auto=webp&s=4ec68f03ec4ecee53ec6e2c4eb7ffa411e500605",
+    "thumbnail": "https://a.thumbs.redditmedia.com/zOHadwdY3h5iGbyjxxRMBMwSpqftGCWf5Arzdi98XY8.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Fell into a few m2 of foamcore, so i guess I'm starting new projects.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ceun5h/fell_into_a_few_m2_of_foamcore_so_i_guess_im/"
+}

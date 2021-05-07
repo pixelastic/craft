@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1583193600,
+    "full": 1583245923,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fcvdkr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/afvnk5mgxgk41.jpg?auto=webp&s=ac2b4e588bfde4f19ff926f3d2053bdb126ea64c",
+    "preview": "https://preview.redd.it/afvnk5mgxgk41.jpg?width=640&crop=smart&auto=webp&s=cbfb185054dc629163ea71937de4eec0f0352cdc",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Qraiiph1kedxraABiuSnCHe84MVAK5Pn2tKoRRxJPiU.jpg"
+  },
+  "score": {
+    "comments": 31,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 734,
+    "value": 734
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Autumn Grave Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fcvdkr/autumn_grave_terrain/"
+}

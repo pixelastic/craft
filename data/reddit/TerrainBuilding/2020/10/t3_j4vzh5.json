@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4yyla21v",
+    "name": "bigwhitechewy"
+  },
+  "date": {
+    "day": 1601769600,
+    "full": 1601802489,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j4vzh5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/dz8lsn6on1r51.jpg?auto=webp&s=f2df02da00105e2bcf05144fa1f7e9611e7434ad",
+    "preview": "https://preview.redd.it/dz8lsn6on1r51.jpg?width=640&crop=smart&auto=webp&s=654fb394256858c93d219a1a0e6844949cb9f7e1",
+    "thumbnail": "https://a.thumbs.redditmedia.com/Ausn5cwdIUUBpvVJUyjmylwvkkG92TajkOkBnkZu-G4.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 397,
+    "value": 397
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some simple sandbags",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j4vzh5/some_simple_sandbags/"
+}

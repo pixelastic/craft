@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_58dabizr",
+    "name": "JammyRacoon"
+  },
+  "date": {
+    "day": 1602720000,
+    "full": 1602763069,
+    "month": 1601510400,
+    "week": 1602374400
+  },
+  "id": "t3_jbm5rh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/r74jc3nxz8t51.png?auto=webp&s=aa96a2cf3d842c472ad7d0459795876c4235f971",
+    "preview": "https://preview.redd.it/r74jc3nxz8t51.png?width=640&crop=smart&auto=webp&s=203790c607fbd4c2752ad723037d209898032a62",
+    "thumbnail": "https://b.thumbs.redditmedia.com/mgCEsZRXCMjy5mbfAmeIRnxc8lz3f2WjO2RX3YPW6YE.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Terrain build with a cottage, by 'Nat 1 videos'",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jbm5rh/a_terrain_build_with_a_cottage_by_nat_1_videos/"
+}

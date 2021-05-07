@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_zh3t6",
+    "name": "metalman42"
+  },
+  "date": {
+    "day": 1558137600,
+    "full": 1558218257,
+    "month": 1556668800,
+    "week": 1557619200
+  },
+  "id": "t3_bq9oiq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cjetif4bp1z21.jpg?auto=webp&s=af50edd7f7e965b97b354095b4fe82f1d12d493f",
+    "preview": "https://preview.redd.it/cjetif4bp1z21.jpg?width=640&crop=smart&auto=webp&s=7af1b21e8be273e841f332e23d239d19b42072ab",
+    "thumbnail": "https://b.thumbs.redditmedia.com/7wNy4ZlyTRk9TDpJ1vsp4LjOh2-v7ZaohzSUtuDakOU.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dungeon Tiles for Fallout-style Vault",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bq9oiq/dungeon_tiles_for_falloutstyle_vault/"
+}

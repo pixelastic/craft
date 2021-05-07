@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7vm3o",
+    "name": "jeddandbreakfast"
+  },
+  "date": {
+    "day": 1615420800,
+    "full": 1615483367,
+    "month": 1614556800,
+    "week": 1615075200
+  },
+  "id": "t3_m2vi1o",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cygggkhfnfm61.jpg?auto=webp&s=6f65f1e7c798d59aab2579293b4e6b5d9e1472d6",
+    "preview": "https://preview.redd.it/cygggkhfnfm61.jpg?width=640&crop=smart&auto=webp&s=23303ee184c55a5c41e4a71fdf538f94af80fd3b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/-avzHf9rjVi9DV7vzlaSZoddMyO1LQ5DZROf2czJl1Q.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is the second thing Ive ever made and first post here.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/m2vi1o/this_is_the_second_thing_ive_ever_made_and_first/"
+}

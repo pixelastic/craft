@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_wayfgo8",
+    "name": "Squixx3"
+  },
+  "date": {
+    "day": 1584662400,
+    "full": 1584673279,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_flni35",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/amqokhlqtqn41.jpg?auto=webp&s=75ce849cb95f8ecd6c1eec55c7dc22d8b1bf067e",
+    "preview": "https://preview.redd.it/amqokhlqtqn41.jpg?width=640&crop=smart&auto=webp&s=00586d7085f3034f0a29bc35ca99dba08cd5cba2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/hdKNiln5W6xIKBGUMTIDzz74sukYKtoueuThiBEPdgw.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 449,
+    "value": 449
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test Building for Necromunda!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/flni35/test_building_for_necromunda/"
+}

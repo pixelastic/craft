@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ou4bfv7",
+    "name": "Lugzor"
+  },
+  "date": {
+    "day": 1585440000,
+    "full": 1585459357,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_fr0jks",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xxccgd55rjp41.jpg?auto=webp&s=9f7e309b4e33305ec12c2d55cace3f296bb099f9",
+    "preview": "https://preview.redd.it/xxccgd55rjp41.jpg?width=640&crop=smart&auto=webp&s=de394a44b5bb23101be5471e1ef532947af21a3d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ZabSg9amrsN3NYzQ-OUV9DoxvNAQ3TjM1ZkisBVjZ1U.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Trying out a new road build. I'm liking it so far",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fr0jks/trying_out_a_new_road_build_im_liking_it_so_far/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1uj570hq",
+    "name": "gisneaky"
+  },
+  "date": {
+    "day": 1584230400,
+    "full": 1584306090,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_fj8hnz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/hbx7kl0whwm41.jpg?auto=webp&s=3b78eea7c5c397035ff4ae73d96375dadd85356f",
+    "preview": "https://preview.redd.it/hbx7kl0whwm41.jpg?width=640&crop=smart&auto=webp&s=d332bef9486646f1cf22588229aa6cfb21a248ef",
+    "thumbnail": "https://a.thumbs.redditmedia.com/d5YbD92sMK_At8R4F5-Vj3T99LQILG9iFyj9s0Zs4S8.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.88,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Proof of concept",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fj8hnz/proof_of_concept/"
+}

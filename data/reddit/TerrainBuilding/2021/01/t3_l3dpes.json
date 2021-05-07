@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2grp9yep",
+    "name": "bperson312"
+  },
+  "date": {
+    "day": 1611360000,
+    "full": 1611414553,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l3dpes",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/rlsqqes9l3d61.jpg?auto=webp&s=ddf73a9d00081c68a42334b756a7778502a0522a",
+    "preview": "https://preview.redd.it/rlsqqes9l3d61.jpg?width=640&crop=smart&auto=webp&s=06286c15ad0a718410edbb8c1ef6d54dbc0284b3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ms1CB8HadL0YzlfhK3BjfwzyFpnRYJp7ogazWH_5Zkw.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 431,
+    "value": 431
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Got started making dungeon terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l3dpes/got_started_making_dungeon_terrain/"
+}

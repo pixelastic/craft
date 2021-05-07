@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1jyqbsu",
+    "name": "Gariun-duanda"
+  },
+  "date": {
+    "day": 1588291200,
+    "full": 1588371992,
+    "month": 1588291200,
+    "week": 1587859200
+  },
+  "id": "t3_gbruzi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9dy6r9nwb8w41.jpg?auto=webp&s=7eba001d922e65aa04fbb99fab1bf65e708b2f55",
+    "preview": "https://preview.redd.it/9dy6r9nwb8w41.jpg?width=640&crop=smart&auto=webp&s=bbdce560ec6cdc3c7b5ccf5caff8ce97bcdaccd6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ueVawpI-cbCgMHJJTUclTefShdoyAcZtKY-kYQHDD3s.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 79,
+    "value": 79
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice Tower that I built for my group this past week",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gbruzi/dice_tower_that_i_built_for_my_group_this_past/"
+}

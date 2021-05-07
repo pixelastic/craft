@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_eos8g",
+    "name": "NDVermin"
+  },
+  "date": {
+    "day": 1548892800,
+    "full": 1548935932,
+    "month": 1546300800,
+    "week": 1548547200
+  },
+  "id": "t3_alor50",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/lyrxys8HMpgy1j7gCWJyKMHTEaLQw9DbLWG4zuymILo.png?format=pjpg&auto=webp&s=291b271f649061b2d3df0f0d3d0d3c7da689f8af",
+    "preview": "https://external-preview.redd.it/lyrxys8HMpgy1j7gCWJyKMHTEaLQw9DbLWG4zuymILo.png?width=640&crop=smart&format=pjpg&auto=webp&s=a96324aa26b0af46cb364d063bf50d6699ff2392",
+    "thumbnail": "https://b.thumbs.redditmedia.com/A6HsUR95Y0Ujlashwj23T_PkOchXR5QC4V7_A-SiJjM.jpg"
+  },
+  "score": {
+    "comments": 27,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 290,
+    "value": 290
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I’ve made either a forge, or more likely a medieval pizza oven. I’m not sure.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/alor50/ive_made_either_a_forge_or_more_likely_a_medieval/"
+}

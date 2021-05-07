@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6c5r0",
+    "name": "BiiVii"
+  },
+  "date": {
+    "day": 1586304000,
+    "full": 1586385756,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fxglbk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/wci45gts9or41.jpg?auto=webp&s=292898148a21cd46d26d0e3e845c5659264426a2",
+    "preview": "https://preview.redd.it/wci45gts9or41.jpg?width=640&crop=smart&auto=webp&s=fe4164e8a7143a724fdd5e6e4f082fe50109e74c",
+    "thumbnail": "https://a.thumbs.redditmedia.com/fvajplpU2KkJQ0kH-S40nnklXUFNY_5vOd9SYynk1c4.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dragon Temple Entrance",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fxglbk/dragon_temple_entrance_wip/"
+}

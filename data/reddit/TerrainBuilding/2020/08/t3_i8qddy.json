@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hycr1",
+    "name": "HomeBrewThis"
+  },
+  "date": {
+    "day": 1597276800,
+    "full": 1597280720,
+    "month": 1596240000,
+    "week": 1596931200
+  },
+  "id": "t3_i8qddy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/JWaH8eE8gKMsvGfrAyYCrflxWj5tZg4XGydJ6OL3LSU.jpg?auto=webp&s=0c7e2671144f7c7cc6016cd081b68af28bee7e6f",
+    "preview": "https://external-preview.redd.it/JWaH8eE8gKMsvGfrAyYCrflxWj5tZg4XGydJ6OL3LSU.jpg?width=640&crop=smart&auto=webp&s=1f366f6ae6202cab835f4b00a1beca68a5c65276",
+    "thumbnail": "https://b.thumbs.redditmedia.com/-Cwnx4dNnZcVR4wOhw2KbBI6k3IZf9UvvYOCbWAjJcs.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Fountain Avenue with street lamps in progress.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i8qddy/a_fountain_avenue_with_street_lamps_in_progress/"
+}

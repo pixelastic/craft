@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1r3dpwt",
+    "name": "Nelmarticus"
+  },
+  "date": {
+    "day": 1497484800,
+    "full": 1497494920,
+    "month": 1496275200,
+    "week": 1497139200
+  },
+  "id": "t3_6hccu2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6ys25inp3q3z.jpg?auto=webp&s=8e05e2cd12412d76e099b052b662acb9b7e71223",
+    "preview": "https://preview.redd.it/6ys25inp3q3z.jpg?width=640&crop=smart&auto=webp&s=e2f39fe26565836c5540387088361a1a7d62a0a8",
+    "thumbnail": "https://b.thumbs.redditmedia.com/3VNoceBfIhvVvci2DBpDph9YuHrnjvN48FzbBJ2bM6U.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WiP Ruin Tower/Dragon Roost.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6hccu2/wip_ruin_towerdragon_roost/"
+}

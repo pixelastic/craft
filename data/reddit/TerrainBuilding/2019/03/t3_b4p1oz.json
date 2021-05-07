@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7jeu0",
+    "name": "Paulrik"
+  },
+  "date": {
+    "day": 1553299200,
+    "full": 1553379926,
+    "month": 1551398400,
+    "week": 1552780800
+  },
+  "id": "t3_b4p1oz",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/HL_M2GinAKmyo7Ipo7Zj7NC2seBSTE7cgNKRthnHnjg.jpg?auto=webp&s=39a94c3fb4bdf41e3022db1c9b436c9e45b52fd7",
+    "preview": "https://external-preview.redd.it/HL_M2GinAKmyo7Ipo7Zj7NC2seBSTE7cgNKRthnHnjg.jpg?width=640&crop=smart&auto=webp&s=f90fdcfa3f540eb0581bdab7333fb8095242a204",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ZiqXnCsic3Ckma4GQvsZU05gsI8pB9lS47hkK1dR3dk.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Green Inn",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b4p1oz/green_inn/"
+}

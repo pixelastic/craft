@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5alam",
+    "name": "ED-209b"
+  },
+  "date": {
+    "day": 1407801600,
+    "full": 1407856057,
+    "month": 1406851200,
+    "week": 1407628800
+  },
+  "id": "t3_2dc9er",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/EUBe_DOZLLb_uSkOLUvrRkEXJ0fsxCjKMx5HngZfiHg.jpg?auto=webp&s=dc5077d8ff088e76a888c6a915e78d025ee13f52",
+    "preview": "https://external-preview.redd.it/EUBe_DOZLLb_uSkOLUvrRkEXJ0fsxCjKMx5HngZfiHg.jpg?width=640&crop=smart&auto=webp&s=4aa7475735545bec1a97670eb8f3f19a40be0a3f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/blXyAojdY5CaI2QlAwe7hk7SfLz_AgublZMigJPvv2I.jpg"
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 105,
+    "value": 105
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My Dropzone Commander City Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/2dc9er/my_dropzone_commander_city_terrain/"
+}

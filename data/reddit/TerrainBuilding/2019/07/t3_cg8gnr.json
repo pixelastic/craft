@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ifpje",
+    "name": "Colerton"
+  },
+  "date": {
+    "day": 1563753600,
+    "full": 1563768765,
+    "month": 1561939200,
+    "week": 1563667200
+  },
+  "id": "t3_cg8gnr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/H3Ya9INdjxLpr58CKMwUR5c0cZg6caTZ-yG9-caiQu8.jpg?auto=webp&s=796105d0d549ce828896e21e408d546f30278778",
+    "preview": "https://external-preview.redd.it/H3Ya9INdjxLpr58CKMwUR5c0cZg6caTZ-yG9-caiQu8.jpg?width=640&crop=smart&auto=webp&s=459dbefdb92f9ce9760837f01547f459f4b02e59",
+    "thumbnail": "https://b.thumbs.redditmedia.com/bXM9bl0b5IJ1LaJlrjTeSXrs79yxSnlgNVqTS5IMn5Q.jpg"
+  },
+  "score": {
+    "comments": 33,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 1115,
+    "value": 1115
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a carboard dungeon for my players this week",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cg8gnr/i_made_a_carboard_dungeon_for_my_players_this_week/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4s1rk2fb",
+    "name": "changobongo1"
+  },
+  "date": {
+    "day": 1603411200,
+    "full": 1603428583,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jggf7h",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/f6sawqlvyru51.jpg?auto=webp&s=20c888d2aa3da0fe32a45eb5b76d6308afdce8fc",
+    "preview": "https://preview.redd.it/f6sawqlvyru51.jpg?width=640&crop=smart&auto=webp&s=74549bac0bf124e1265c8f2bd39fd5a046d4b309",
+    "thumbnail": "https://b.thumbs.redditmedia.com/bc7mwc1zNac2Zkurc0V6ao6D0DZI_azaZQFxT5GgFrI.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More baby steps",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jggf7h/more_baby_steps/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1srvjw3g",
+    "name": "Hewhoisnamed"
+  },
+  "date": {
+    "day": 1568505600,
+    "full": 1568518694,
+    "month": 1567296000,
+    "week": 1568505600
+  },
+  "id": "t3_d4ff16",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/Vp6uyUOw-sHVk-UtRxS-8pkGN3UaCslAMrqEktZH2cA.jpg?auto=webp&s=99471de0b5d89f2efd6a7a00294ab2e7c4029d26",
+    "preview": "https://external-preview.redd.it/Vp6uyUOw-sHVk-UtRxS-8pkGN3UaCslAMrqEktZH2cA.jpg?width=640&crop=smart&auto=webp&s=c63f20fe3a902949f79f282050b3a126218e2cd2",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test Piece",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/d4ff16/test_piece/"
+}

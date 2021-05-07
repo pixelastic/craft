@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12z5rm",
+    "name": "gorrrak"
+  },
+  "date": {
+    "day": 1563408000,
+    "full": 1563469436,
+    "month": 1561939200,
+    "week": 1563062400
+  },
+  "id": "t3_cev6ev",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/gftu7q7tf3b31.jpg?auto=webp&s=c514f06d56ac9bb51dd374c1d1226e9a78722e9e",
+    "preview": "https://preview.redd.it/gftu7q7tf3b31.jpg?width=640&crop=smart&auto=webp&s=fea30223dda738948d8f199d904675c4665fe9e4",
+    "thumbnail": "https://b.thumbs.redditmedia.com/eFylV7nCuvJAf78gDGB3_Ty3hlmIK97GzAAy1pq3jrk.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Modular ziggurat for a DCC adventure in running tomorrow.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cev6ev/modular_ziggurat_for_a_dcc_adventure_in_running/"
+}

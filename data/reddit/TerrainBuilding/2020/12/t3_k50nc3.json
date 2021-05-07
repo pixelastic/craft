@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4p0qqcry",
+    "name": "rstodar"
+  },
+  "date": {
+    "day": 1606867200,
+    "full": 1606877700,
+    "month": 1606780800,
+    "week": 1606608000
+  },
+  "id": "t3_k50nc3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ty059oevuo261.jpg?auto=webp&s=708c41d59b29d47ea1715c3609f226ef7d143ae8",
+    "preview": "https://preview.redd.it/ty059oevuo261.jpg?width=640&crop=smart&auto=webp&s=c6f96bcf92bf257b53b39284d05acd39234f4bea",
+    "thumbnail": "https://b.thumbs.redditmedia.com/O-TQXEHc925sZEys7P-7Y7vl9WDSIa-dAVGGYh5YgJA.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 640,
+    "value": 640
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My son asked for an aqueduct for his campaign",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k50nc3/my_son_asked_for_an_aqueduct_for_his_campaign/"
+}

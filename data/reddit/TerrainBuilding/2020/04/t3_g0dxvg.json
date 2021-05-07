@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1586736000,
+    "full": 1586761561,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g0dxvg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/i3mrogv9bjs41.jpg?auto=webp&s=f3fcccd1ee73c04d20265b43ee36391a0658952c",
+    "preview": "https://preview.redd.it/i3mrogv9bjs41.jpg?width=640&crop=smart&auto=webp&s=8b1b3f712fb798bb1a2a0c659c4692bd5a478261",
+    "thumbnail": "https://b.thumbs.redditmedia.com/j7GqEFEonzmXCf-Q6RIspI4xIq08-0oV2Vr0KJqAbQQ.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 109,
+    "value": 109
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Necromancer’s Hideout WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g0dxvg/necromancers_hideout_wip/"
+}

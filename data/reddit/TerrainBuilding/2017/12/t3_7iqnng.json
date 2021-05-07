@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_69igw",
+    "name": "PBR_hipster420"
+  },
+  "date": {
+    "day": 1512864000,
+    "full": 1512866291,
+    "month": 1512086400,
+    "week": 1512864000
+  },
+  "id": "t3_7iqnng",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/poa7zqmnqz201.jpg?auto=webp&s=050abe23b748c3bb46a0cc23ddb02bab1f528498",
+    "preview": "https://preview.redd.it/poa7zqmnqz201.jpg?width=640&crop=smart&auto=webp&s=2fdf33c4d57661b449e4d6835102aa1d9a54c82b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/x0C_ZObJD_NG9UeNniOEFyCy8pfRPpBMv3NTB2pvEZg.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just started terrain building, this is a small dungeon room for an upcoming dnd campaign.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7iqnng/just_started_terrain_building_this_is_a_small/"
+}

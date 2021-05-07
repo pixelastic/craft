@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2aatg83o",
+    "name": "redditpo1"
+  },
+  "date": {
+    "day": 1599004800,
+    "full": 1599069839,
+    "month": 1598918400,
+    "week": 1598745600
+  },
+  "id": "t3_ilby0k",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/zj4hwg93yrk51.jpg?auto=webp&s=f1d21f621977ed743aadb1a6db94ab964d15d10d",
+    "preview": "https://preview.redd.it/zj4hwg93yrk51.jpg?width=640&crop=smart&auto=webp&s=e3001d7a3049ec1217b396784caf42cabaf2e5a2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/MaZwArLQ2PDijLDVqunpBceLrZZ2qwxMjjz_0U90fqo.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP on my kill team board, I am going build 6 2x2 boards for a mixed 4x4 kill team board. Any tips on my to put on the flat plasticard to make it look more interesting/textured",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ilby0k/wip_on_my_kill_team_board_i_am_going_build_6_2x2/"
+}

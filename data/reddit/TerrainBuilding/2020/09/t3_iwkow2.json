@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4s1rk2fb",
+    "name": "changobongo1"
+  },
+  "date": {
+    "day": 1600560000,
+    "full": 1600631034,
+    "month": 1598918400,
+    "week": 1600560000
+  },
+  "id": "t3_iwkow2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/lzt6my0cwco51.jpg?auto=webp&s=64d29767d459994dd2088ded502fd3a60f1d5977",
+    "preview": "https://preview.redd.it/lzt6my0cwco51.jpg?width=640&crop=smart&auto=webp&s=1d17032cea4f76818b751d36e86171cc93ed6bd1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/SeC6NXKrpQIuVb8hxyb6Dl8LI35ST3uooBh7t73tRsY.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Time for base coats",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/iwkow2/time_for_base_coats/"
+}

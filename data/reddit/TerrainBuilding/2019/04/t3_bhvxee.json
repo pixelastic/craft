@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_clfnu",
+    "name": "The_Pubenbarber"
+  },
+  "date": {
+    "day": 1556323200,
+    "full": 1556342662,
+    "month": 1554076800,
+    "week": 1555804800
+  },
+  "id": "t3_bhvxee",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/lz4bu5i9squ21.jpg?auto=webp&s=67fdd5db604c5751866edea5ef6189e94fd99b38",
+    "preview": "https://preview.redd.it/lz4bu5i9squ21.jpg?width=640&crop=smart&auto=webp&s=361239781e5c70885ad50bea645d0a66fce923a2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/31lPphyUanrbfolGZnBn2udbIOlyBbigO-MIk7UiVyU.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 119,
+    "value": 119
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first piece of urban/structure terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bhvxee/my_first_piece_of_urbanstructure_terrain/"
+}

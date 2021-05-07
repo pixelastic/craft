@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2ofjvzkv",
+    "name": "The_Lion_is_alive"
+  },
+  "date": {
+    "day": 1588896000,
+    "full": 1588955798,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_gfwh4q",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cyt0pfhrjkx41.jpg?auto=webp&s=b8b99a7d84dfb3a9f20374deecee170f643f12b3",
+    "preview": "https://preview.redd.it/cyt0pfhrjkx41.jpg?width=640&crop=smart&auto=webp&s=d5d93d2972875abaf7b01336627365d960059cbf",
+    "thumbnail": "https://b.thumbs.redditmedia.com/S4BDBNOnEPtcwc4cc14TNV240FnLjBnSDSO1uEQhUgk.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt on an Ork building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gfwh4q/first_attempt_on_an_ork_building/"
+}

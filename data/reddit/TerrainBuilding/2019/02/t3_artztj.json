@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12khq8",
+    "name": "grumblebob1"
+  },
+  "date": {
+    "day": 1550448000,
+    "full": 1550469539,
+    "month": 1548979200,
+    "week": 1550361600
+  },
+  "id": "t3_artztj",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/82bfma8eo9h21.jpg?auto=webp&s=81da42ccd4e2df736bce2158f2afb8bc02c4ee13",
+    "preview": "https://preview.redd.it/82bfma8eo9h21.jpg?width=640&crop=smart&auto=webp&s=8df88af133c6d1f8501f38825e57ebabbf664baf",
+    "thumbnail": "https://b.thumbs.redditmedia.com/vJbUqtGW8FpoTvLwklXsbOeTSt1rxjLCbsyRA3y5-DE.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Still working on diorama. The models have finally arrived,just need painting and water effects.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/artztj/still_working_on_diorama_the_models_have_finally/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_xd9f8rk",
+    "name": "smoresman"
+  },
+  "date": {
+    "day": 1542585600,
+    "full": 1542629126,
+    "month": 1541030400,
+    "week": 1542499200
+  },
+  "id": "t3_9yg6ci",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6bs912jt2az11.jpg?auto=webp&s=dffc447b565e41d768d274e443749d30913f01c4",
+    "preview": "https://preview.redd.it/6bs912jt2az11.jpg?width=640&crop=smart&auto=webp&s=d644d5ae850f80a89c20648cd7043b1d274f3bc4",
+    "thumbnail": "https://b.thumbs.redditmedia.com/XRcDrEZHBUlewerFIMLY9Dr4pEwO-rd3upyxImHW1Ks.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain I’m working on, C+C welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9yg6ci/terrain_im_working_on_cc_welcome/"
+}

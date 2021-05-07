@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_jswq567",
+    "name": "mortuus-auris"
+  },
+  "date": {
+    "day": 1580428800,
+    "full": 1580471758,
+    "month": 1577836800,
+    "week": 1579996800
+  },
+  "id": "t3_ewnee9",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/j-GM661hBjYPd980kYI1drTIl6dKsH__BPQcfMWjvQI.png?format=pjpg&auto=webp&s=c9d43bb21ff475d4844083af484589b1e823a001",
+    "preview": "https://external-preview.redd.it/j-GM661hBjYPd980kYI1drTIl6dKsH__BPQcfMWjvQI.png?width=640&crop=smart&format=pjpg&auto=webp&s=c731af92efbd47d23840331ee4d955e5225efd84",
+    "thumbnail": "https://b.thumbs.redditmedia.com/kU81UzugRsO2nu2lshj-FYgO8qwGksR3iHyhDnnJGAM.jpg"
+  },
+  "score": {
+    "comments": 32,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 938,
+    "value": 938
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Custom build of an old ruined castle/library. Inspired partly by Name of The Rose. Think it's ready to go!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ewnee9/custom_build_of_an_old_ruined_castlelibrary/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_fzlnt5",
+    "name": "imwhere"
+  },
+  "date": {
+    "day": 1579046400,
+    "full": 1579084278,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_ep0nma",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/shaizfzq6xa41.jpg?auto=webp&s=7e083af1bae22f569447a407bb70995fc042579b",
+    "preview": "https://preview.redd.it/shaizfzq6xa41.jpg?width=640&crop=smart&auto=webp&s=f03bbeedd797c7880c2f14718f0054ac56990d71",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ZwcK_GnvD3-razfm4p4aNEWZEmP6NJICGvYx4SqwkXc.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 77,
+    "value": 77
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A set of walls I made for a part in my game, but seem modular enough to be used everywhere.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ep0nma/a_set_of_walls_i_made_for_a_part_in_my_game_but/"
+}

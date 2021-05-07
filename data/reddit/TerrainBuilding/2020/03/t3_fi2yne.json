@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6odfb",
+    "name": "Boomza"
+  },
+  "date": {
+    "day": 1584057600,
+    "full": 1584119183,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fi2yne",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ljry5sb42hm41.jpg?auto=webp&s=b6159aa53219c0067e834f91b7e7b9e03d49fb7f",
+    "preview": "https://preview.redd.it/ljry5sb42hm41.jpg?width=640&crop=smart&auto=webp&s=4437f0a529839bd47617fec6b31c400034d1a4be",
+    "thumbnail": "https://b.thumbs.redditmedia.com/UrazDKIQ3N4q0Deui0qN-KyLMqB8MtugHOzx2AvEVkc.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 117,
+    "value": 117
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Prepping for the final arena challenge!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fi2yne/prepping_for_the_final_arena_challenge/"
+}

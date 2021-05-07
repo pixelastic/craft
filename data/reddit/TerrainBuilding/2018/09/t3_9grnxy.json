@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1spn0t0a",
+    "name": "krichardson2022"
+  },
+  "date": {
+    "day": 1537228800,
+    "full": 1537244919,
+    "month": 1535760000,
+    "week": 1537056000
+  },
+  "id": "t3_9grnxy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/iv8x3idvcxm11.jpg?auto=webp&s=59650d5821bb7fb6924bb182a3ff2927bd0c6319",
+    "preview": "https://preview.redd.it/iv8x3idvcxm11.jpg?width=640&crop=smart&auto=webp&s=b5f0048a6def6699d8642df5d7d263430e80592c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/TidtJ3DNDP8ioeT-hdpF_8U7GXm0y-SpdYMPj3UWXqc.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 91,
+    "value": 91
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Spell Effect: Flaming Sphere",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9grnxy/spell_effect_flaming_sphere/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6qf6lgu4",
+    "name": "Tumbleweed_Waste"
+  },
+  "date": {
+    "day": 1599609600,
+    "full": 1599643459,
+    "month": 1598918400,
+    "week": 1599350400
+  },
+  "id": "t3_ipcoq1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/2jitegvqb3m51.jpg?auto=webp&s=dfbeb2b7dbc48216e683f54f1b5631b38706d57a",
+    "preview": "https://preview.redd.it/2jitegvqb3m51.jpg?width=640&crop=smart&auto=webp&s=cf92ba5b8db3510f1fa00f8899cb09620579d90b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/rmHkyi62DPUGfUaOeNGqLORX7LQm4q47doPFwkHkg7k.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 55,
+    "value": 55
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first Terrain building (made 3 years ago, approx 450 hand made tiles)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ipcoq1/my_first_terrain_building_made_3_years_ago_approx/"
+}

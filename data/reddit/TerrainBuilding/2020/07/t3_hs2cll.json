@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_193re91i",
+    "name": "Almarca"
+  },
+  "date": {
+    "day": 1594857600,
+    "full": 1594870162,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hs2cll",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/x52cadua25b51.jpg?auto=webp&s=576886bee54708c726e42cbe1d83dfec21a30683",
+    "preview": "https://preview.redd.it/x52cadua25b51.jpg?width=640&crop=smart&auto=webp&s=1297b2d7764d11392974e41bb222bc66c644a6d4",
+    "thumbnail": "https://b.thumbs.redditmedia.com/FW4camzY_REDwyzT5HsaugW9v4KZOq4R4BwrFpbfz3U.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Post apocalyptic deserted warehouse!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hs2cll/post_apocalyptic_deserted_warehouse/"
+}

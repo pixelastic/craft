@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3di40",
+    "name": "captain_plan_it"
+  },
+  "date": {
+    "day": 1557964800,
+    "full": 1558022227,
+    "month": 1556668800,
+    "week": 1557619200
+  },
+  "id": "t3_bpeaqu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/43h9gdueily21.jpg?auto=webp&s=9279518363ee873c9af41d33a74dc029237b7e3b",
+    "preview": "https://preview.redd.it/43h9gdueily21.jpg?width=640&crop=smart&auto=webp&s=d48f958c686f8b5e3c9b05b850a7b90635fcef1d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/B5tAbfzYNaFonYXDPMBnWpOulC81o3h7QRWxcsY2xuQ.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Working on a new system for the next modular WarLayer kickstarter. Here is a 3D Printed assembly with no clips and a quick base coat of primer.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bpeaqu/working_on_a_new_system_for_the_next_modular/"
+}

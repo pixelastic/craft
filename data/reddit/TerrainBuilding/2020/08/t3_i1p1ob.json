@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1596240000,
+    "full": 1596271421,
+    "month": 1596240000,
+    "week": 1595721600
+  },
+  "id": "t3_i1p1ob",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/np3x7x9ysce51.jpg?auto=webp&s=df4906a3dd0e372ff02d6a373d07d0791d138dbe",
+    "preview": "https://preview.redd.it/np3x7x9ysce51.jpg?width=640&crop=smart&auto=webp&s=e5d623301f2cebc3b1b3f1bc591230d9e4301b18",
+    "thumbnail": "https://a.thumbs.redditmedia.com/2pBhteA_OiiMQymrD0x3Ju599PKCjA3R8-yL07i-nT4.jpg"
+  },
+  "score": {
+    "comments": 28,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 770,
+    "value": 770
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some photos from the construction of the Teufelsberg village...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i1p1ob/some_photos_from_the_construction_of_the/"
+}

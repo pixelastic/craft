@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1579824000,
+    "full": 1579835927,
+    "month": 1577836800,
+    "week": 1579392000
+  },
+  "id": "t3_et4gng",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ht5szhvs9nc41.jpg?auto=webp&s=4482dc68069879bbc526e4511c7ce2f68a85af69",
+    "preview": "https://preview.redd.it/ht5szhvs9nc41.jpg?width=640&crop=smart&auto=webp&s=096479f852802e88eb574f220edc260d7908f141",
+    "thumbnail": "https://b.thumbs.redditmedia.com/9sfFcTGxSQ9cfKKfpOsYZ2FiMIHddBjoThxx_9QAdRc.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 288,
+    "value": 288
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Frostgrave Terrain WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/et4gng/frostgrave_terrain_wip/"
+}

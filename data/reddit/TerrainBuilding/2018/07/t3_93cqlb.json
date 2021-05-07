@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6rt8q",
+    "name": "Republiken"
+  },
+  "date": {
+    "day": 1532995200,
+    "full": 1533026548,
+    "month": 1530403200,
+    "week": 1532822400
+  },
+  "id": "t3_93cqlb",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/2ndu4zNmIKK50JlTXFblP_PAUqhdYbnGpEEYUtlNd58.jpg?auto=webp&s=31fa4b50b470a05a3c35ca2bd2941e78d2157b39",
+    "preview": "https://external-preview.redd.it/2ndu4zNmIKK50JlTXFblP_PAUqhdYbnGpEEYUtlNd58.jpg?width=640&crop=smart&auto=webp&s=e035d88f85caebdccb29fd262553ea9013ab68d2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/2MUhdmid7YjpXPkC7fdZeekrJFg6HJH7FsYuybcERvE.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 68,
+    "value": 68
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP base of an Imperial Sector building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/93cqlb/wip_base_of_an_imperial_sector_building/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9x3mj",
+    "name": "Zorkolak"
+  },
+  "date": {
+    "day": 1531267200,
+    "full": 1531301056,
+    "month": 1530403200,
+    "week": 1531008000
+  },
+  "id": "t3_8xy3ia",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/V7gcvteYmfYOfc56p148-XgQvDTmgUP14SNeJfKD3TA.jpg?auto=webp&s=00a12544ef22aeb62008b5f0dd8f3ff7a3c7ddcf",
+    "preview": "https://external-preview.redd.it/V7gcvteYmfYOfc56p148-XgQvDTmgUP14SNeJfKD3TA.jpg?width=640&crop=smart&auto=webp&s=73b6e176a0197846bfbe2a2e834c7a9246362394",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ixqCXD0mxgo5S1ZNeoc6V9Pviq1P4GV8trZFDegsd-o.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP 40k Factorum scenery, first attempt at adding lights.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8xy3ia/wip_40k_factorum_scenery_first_attempt_at_adding/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7ppu3",
+    "name": "Rank2"
+  },
+  "date": {
+    "day": 1583798400,
+    "full": 1583806517,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fg6jd8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/uaxan5he8rl41.jpg?auto=webp&s=bb13424c6cfdf458befcf5d503625705581782fc",
+    "preview": "https://preview.redd.it/uaxan5he8rl41.jpg?width=640&crop=smart&auto=webp&s=4d93a0de1795096105d536f154176c37feb52a34",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ATEMMDU4DipLc7vco8PZJBIPYDjuGRolbYkU14g2idc.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ice-themed bases for an upcoming project",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fg6jd8/icethemed_bases_for_an_upcoming_project/"
+}

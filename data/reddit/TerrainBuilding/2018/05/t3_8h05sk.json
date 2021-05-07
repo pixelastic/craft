@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_b2r32bo",
+    "name": "hawtgawbage"
+  },
+  "date": {
+    "day": 1525392000,
+    "full": 1525448243,
+    "month": 1525132800,
+    "week": 1524960000
+  },
+  "id": "t3_8h05sk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/66v2nhfazuv01.jpg?auto=webp&s=2eb270f33efc64b25c5de787e6184ea3e9edbdd7",
+    "preview": "https://preview.redd.it/66v2nhfazuv01.jpg?width=640&crop=smart&auto=webp&s=a4242606a025f78afd4c80a581d020d9cc2d9748",
+    "thumbnail": "https://b.thumbs.redditmedia.com/lhROGrvY_XFJty6pQ0HQcSmxfnvdpdOSoXQuY8wS43M.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ashes and pumice, unfinished. Proof of concept.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8h05sk/ashes_and_pumice_unfinished_proof_of_concept/"
+}

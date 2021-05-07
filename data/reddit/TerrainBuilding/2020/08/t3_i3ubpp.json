@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1rd066i8",
+    "name": "Segef"
+  },
+  "date": {
+    "day": 1596499200,
+    "full": 1596583730,
+    "month": 1596240000,
+    "week": 1596326400
+  },
+  "id": "t3_i3ubpp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6640i1rll2f51.jpg?auto=webp&s=dc169c6da237f301ce2d3e617d0a000b3d70099f",
+    "preview": "https://preview.redd.it/6640i1rll2f51.jpg?width=640&crop=smart&auto=webp&s=e7992a4bd59af67c6649286c250470f185f74c35",
+    "thumbnail": "https://b.thumbs.redditmedia.com/yPi3532rjqOIlOqvVHEUt3UQvgxRUsxCATuzgwK89vQ.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Sentry turrents painted",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i3ubpp/sentry_turrents_painted/"
+}

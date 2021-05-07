@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ajsxz",
+    "name": "Naeramarth"
+  },
+  "date": {
+    "day": 1601683200,
+    "full": 1601701345,
+    "month": 1601510400,
+    "week": 1601164800
+  },
+  "id": "t3_j4a1s1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/159w4k9xatq51.jpg?auto=webp&s=de51617087b02b59d741789aa2ca14618389e92b",
+    "preview": "https://preview.redd.it/159w4k9xatq51.jpg?width=640&crop=smart&auto=webp&s=6ed993662fc20673f9affaeffef05efcf8213563",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qHzI1h2W6WrA0mMNXLGTJWItDRsyxOyl6nDcQz4f0dM.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Too lazy to paint test schemes so instead I created these options for my custom plasma generator design, C&C welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j4a1s1/too_lazy_to_paint_test_schemes_so_instead_i/"
+}

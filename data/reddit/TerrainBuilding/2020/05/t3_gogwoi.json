@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_45dcpp41",
+    "name": "Redfaint"
+  },
+  "date": {
+    "day": 1590105600,
+    "full": 1590143543,
+    "month": 1588291200,
+    "week": 1589673600
+  },
+  "id": "t3_gogwoi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6bmdi2ymna051.jpg?auto=webp&s=0f1a3491ef9e549b750e52762f0351f564bf07ec",
+    "preview": "https://preview.redd.it/6bmdi2ymna051.jpg?width=640&crop=smart&auto=webp&s=737587936819f3fe65719547ec91cd66874b4f09",
+    "thumbnail": "https://b.thumbs.redditmedia.com/s8ZqIGQIUGS4rWkyORtS2Jm9BSPYm78akoDxtCfSa_I.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 346,
+    "value": 346
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Upgraded ttcombat Buildings (wip)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gogwoi/upgraded_ttcombat_buildings_wip/"
+}

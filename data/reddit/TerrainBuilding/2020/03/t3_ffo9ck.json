@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7d4ms",
+    "name": "InVerum"
+  },
+  "date": {
+    "day": 1583712000,
+    "full": 1583723399,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_ffo9ck",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/nrsgnl49dkl41.jpg?auto=webp&s=ee2091be968d55ad6340cc84a38b1b350140e19b",
+    "preview": "https://preview.redd.it/nrsgnl49dkl41.jpg?width=640&crop=smart&auto=webp&s=124dad0f40aebe68e98fa917f74579e9a56b740a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/3Jhn9L1K3bbvn7S6q58bQRXfo1BLAAGcYmjRIvepijQ.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 93,
+    "value": 93
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test piece for my 3D printed WH40K terrain. Wanted to go as gritty and grimdark as possible.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ffo9ck/test_piece_for_my_3d_printed_wh40k_terrain_wanted/"
+}

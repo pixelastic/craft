@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_o0khg",
+    "name": "omalike"
+  },
+  "date": {
+    "day": 1602720000,
+    "full": 1602737161,
+    "month": 1601510400,
+    "week": 1602374400
+  },
+  "id": "t3_jbh2qy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/x9pcgyjxu6t51.jpg?auto=webp&s=c99a43d8188f45a9301a768940248c814098db10",
+    "preview": "https://preview.redd.it/x9pcgyjxu6t51.jpg?width=640&crop=smart&auto=webp&s=6de6a4198942d5176eaf0361cef04df0427b4594",
+    "thumbnail": "https://b.thumbs.redditmedia.com/5idXjwoesu6yEqCrdeDQsx7qxbz4i59qsWRuoSQk8Kw.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 74,
+    "value": 74
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally finished this! Definitely missing some polish and maybe proper brick/wood placement. But for my first building, I'm happy",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jbh2qy/finally_finished_this_definitely_missing_some/"
+}

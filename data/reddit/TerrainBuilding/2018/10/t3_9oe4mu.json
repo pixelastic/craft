@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_317pi",
+    "name": "wlievens"
+  },
+  "date": {
+    "day": 1539561600,
+    "full": 1539620343,
+    "month": 1538352000,
+    "week": 1539475200
+  },
+  "id": "t3_9oe4mu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/l8m647m6kds11.jpg?auto=webp&s=8163ad0f33b6a62435bace0a2bb31c607b60292d",
+    "preview": "https://preview.redd.it/l8m647m6kds11.jpg?width=640&crop=smart&auto=webp&s=e7ff04d1f370fc4aaa48d8733d56bf4d82e51bf1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/pHrmByAJZHuaStaoXuzZ9CukIWS_cl5hVD47e7tr5RI.jpg"
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 302,
+    "value": 302
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "3D printed brickwork template",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9oe4mu/3d_printed_brickwork_template/"
+}

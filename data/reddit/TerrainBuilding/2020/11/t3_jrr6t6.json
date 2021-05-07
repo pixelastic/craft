@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1g8lth6r",
+    "name": "Nebdraw03"
+  },
+  "date": {
+    "day": 1604966400,
+    "full": 1605035113,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jrr6t6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/x4unqt9itdy51.png?auto=webp&s=5f75782c0ff8c0a062460025f229e3c6048b58e2",
+    "preview": "https://preview.redd.it/x4unqt9itdy51.png?width=640&crop=smart&auto=webp&s=cb2130afc4b3cbade508c04cb421b6708a49a6a6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uhKBrtLORDGAd5_echeV9m-J7EtJl22KSk3VhhqQuZE.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 48,
+    "value": 48
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Not mine, but look at this!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jrr6t6/not_mine_but_look_at_this/"
+}

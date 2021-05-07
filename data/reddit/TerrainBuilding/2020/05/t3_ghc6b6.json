@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1ulkhh5w",
+    "name": "K1ll3rfr0st"
+  },
+  "date": {
+    "day": 1589068800,
+    "full": 1589153522,
+    "month": 1588291200,
+    "week": 1589068800
+  },
+  "id": "t3_ghc6b6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/tjvcsrrsv0y41.jpg?auto=webp&s=180476b3e1f3b9cf5f0336725c7ed4c12d3a01d3",
+    "preview": "https://preview.redd.it/tjvcsrrsv0y41.jpg?width=640&crop=smart&auto=webp&s=665017512082f74af90920fcd4f34912ca1e8afa",
+    "thumbnail": "https://b.thumbs.redditmedia.com/OOEcThD7ULvGwJ-7qodw1-9Ge-lk9ASMzaCoDU7yPWM.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 46,
+    "value": 46
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Painted up a interactive game piece to make an evil tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ghc6b6/painted_up_a_interactive_game_piece_to_make_an/"
+}

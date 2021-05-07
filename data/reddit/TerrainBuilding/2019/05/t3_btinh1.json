@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2zg19isa",
+    "name": "ecto_27"
+  },
+  "date": {
+    "day": 1558915200,
+    "full": 1558938777,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_btinh1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/mzu47vmu7p031.jpg?auto=webp&s=efebd4e7574e19fc62046f655291d479b62f84fb",
+    "preview": "https://preview.redd.it/mzu47vmu7p031.jpg?width=640&crop=smart&auto=webp&s=0e4627b2b92d00964a4e3f941c2dddc4eb2d1743",
+    "thumbnail": "https://a.thumbs.redditmedia.com/8CA5fPlVN6c6L1Pu-YrcEw7_8DdCOYS4w5d55AuVra4.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Catacomb Entrance",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/btinh1/catacomb_entrance_scratch_built/"
+}

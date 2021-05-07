@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_50sx",
+    "name": "jbohlinger"
+  },
+  "date": {
+    "day": 1593302400,
+    "full": 1593376742,
+    "month": 1590969600,
+    "week": 1593302400
+  },
+  "id": "t3_hhlywe",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/r28w1l6lpp751.jpg?auto=webp&s=99ecbd0b17053f1658d0943a5b16d4cb88385926",
+    "preview": "https://preview.redd.it/r28w1l6lpp751.jpg?width=640&crop=smart&auto=webp&s=c96b923ef981253ebcb8a0f703365d4e55ff7a98",
+    "thumbnail": "https://a.thumbs.redditmedia.com/Q0UZi522XGCtuiXftTHHrr1xDtjB0I4RWdsxgRRscI0.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 78,
+    "value": 78
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Added water effects and calling this board done!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hhlywe/added_water_effects_and_calling_this_board_done/"
+}

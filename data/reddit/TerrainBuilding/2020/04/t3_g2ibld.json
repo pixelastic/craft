@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_gluet",
+    "name": "timeportalgames"
+  },
+  "date": {
+    "day": 1586995200,
+    "full": 1587054873,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g2ibld",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/BRv1B1RU5nqKGlhA3UydZ1jS7mnb3o0o9dIX3RPmsFA.png?format=pjpg&auto=webp&s=0e59aad5436ff4c27d3e5c8c9e8c3c343576f8bd",
+    "preview": "https://external-preview.redd.it/BRv1B1RU5nqKGlhA3UydZ1jS7mnb3o0o9dIX3RPmsFA.png?width=640&crop=smart&format=pjpg&auto=webp&s=5a9a9e1c752fc7d4bc74cf4f229ae38ebfd6640b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/2rtS1l7_iJjwD5bQrL9KOtRYhV-DWkydHyq7De5q-xQ.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "4 Roads",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g2ibld/4_roads/"
+}

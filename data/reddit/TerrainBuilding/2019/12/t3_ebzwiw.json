@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4fbuvt26",
+    "name": "Tami-7"
+  },
+  "date": {
+    "day": 1576540800,
+    "full": 1576608154,
+    "month": 1575158400,
+    "week": 1576368000
+  },
+  "id": "t3_ebzwiw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5tzi4naxn8541.jpg?auto=webp&s=e5c3647d1995d9417ad9ec192929fbdbf36f182e",
+    "preview": "https://preview.redd.it/5tzi4naxn8541.jpg?width=640&crop=smart&auto=webp&s=1b3a26aed93573dcc5016ce25e4c96e453ee60b3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/CEIBuz_NyGHcDDRoJgMCpeBZlU2OPNHXKd47h2Iax7U.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Other side",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ebzwiw/other_side/"
+}

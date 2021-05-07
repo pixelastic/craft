@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_b25ip4o",
+    "name": "Nephlem"
+  },
+  "date": {
+    "day": 1574640000,
+    "full": 1574694065,
+    "month": 1572566400,
+    "week": 1574553600
+  },
+  "id": "t3_e1h6gx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/f18p5tneku041.jpg?auto=webp&s=f0d6249c5d782edef0e3d96be32a4abb5c17ca30",
+    "preview": "https://preview.redd.it/f18p5tneku041.jpg?width=640&crop=smart&auto=webp&s=bd3c0f2c9a8b6aaf39b5a767428b3141dceb4d8e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/sHxvj7GWFjJD3upcDcVkg152H7fj3-Rr8_C8liFUQ1Y.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 213,
+    "value": 213
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building a NYC brownstone block, back of buildings not even close to finishing",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e1h6gx/building_a_nyc_brownstone_block_back_of_buildings/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3llq3hok",
+    "name": "johnpjones1775"
+  },
+  "date": {
+    "day": 1598140800,
+    "full": 1598222129,
+    "month": 1596240000,
+    "week": 1598140800
+  },
+  "id": "t3_ifcwg5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/4tu2rh0fxti51.jpg?auto=webp&s=f685fd0b2d9c13854851ac7d6f5cc60d026dd819",
+    "preview": "https://preview.redd.it/4tu2rh0fxti51.jpg?width=640&crop=smart&auto=webp&s=8b12cc6ed6e81208943be9732530f12fe53e56c1",
+    "thumbnail": "https://a.thumbs.redditmedia.com/94DN5frTzIOBC_FAfqhgHS7KRWT1TJIuEKW7KGsbKn4.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My current project, planning to paint and then flock later this evening",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ifcwg5/my_current_project_planning_to_paint_and_then/"
+}

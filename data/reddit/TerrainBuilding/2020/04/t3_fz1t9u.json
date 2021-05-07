@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5gce5v05",
+    "name": "Arzouma"
+  },
+  "date": {
+    "day": 1586563200,
+    "full": 1586599808,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fz1t9u",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/FGR6CXH6d4auPJ03vvE9buZAE6KMeytHHxFDYmHbWcI.jpg?auto=webp&s=bdb65606a77f10ba9318151e8dc1ed30908d3915",
+    "preview": "https://external-preview.redd.it/FGR6CXH6d4auPJ03vvE9buZAE6KMeytHHxFDYmHbWcI.jpg?width=640&crop=smart&auto=webp&s=f3a61d06131c02d7554dbe1aa6c8e0f898d755be",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.7,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Advice on the Zdzislaw Beksinski style",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fz1t9u/advice_on_the_zdzislaw_beksinski_style/"
+}

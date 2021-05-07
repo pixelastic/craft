@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_nb39r",
+    "name": "InsidiousToilet"
+  },
+  "date": {
+    "day": 1478908800,
+    "full": 1478933006,
+    "month": 1477958400,
+    "week": 1478390400
+  },
+  "id": "t3_5cjbak",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/7f6Kz0WibeWidJMg2JsOPOwH4KA_AVU1uMIvRaTpDFE.jpg?auto=webp&s=585e09e463c8f495cf1df34e95614cdefbc70de5",
+    "preview": "https://external-preview.redd.it/7f6Kz0WibeWidJMg2JsOPOwH4KA_AVU1uMIvRaTpDFE.jpg?width=640&crop=smart&auto=webp&s=2b7655b0c57faeb4bf1d1ecde9a0c0085976c94f",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Looking for advice on building a dynamic labyrinth.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/5cjbak/looking_for_advice_on_building_a_dynamic_labyrinth/"
+}

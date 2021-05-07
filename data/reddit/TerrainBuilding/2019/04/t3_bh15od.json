@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1erx8im4",
+    "name": "devilmanotis"
+  },
+  "date": {
+    "day": 1556064000,
+    "full": 1556146142,
+    "month": 1554076800,
+    "week": 1555804800
+  },
+  "id": "t3_bh15od",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/28m3oupwjau21.jpg?auto=webp&s=a4bf5e1bca05d2fd1ab379e226315bbd1991bf58",
+    "preview": "https://preview.redd.it/28m3oupwjau21.jpg?width=640&crop=smart&auto=webp&s=15e3757bcabbad358dc0ed2feca26f5a1ca0d525",
+    "thumbnail": "https://a.thumbs.redditmedia.com/xnirCXJTRTySoBWbDelp71GR-4uYkK0doALDRUEHCU4.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 23,
+    "value": 23
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First large building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bh15od/first_large_building/"
+}

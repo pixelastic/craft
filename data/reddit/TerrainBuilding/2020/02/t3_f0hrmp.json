@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_h0141",
+    "name": "Zulathan"
+  },
+  "date": {
+    "day": 1581033600,
+    "full": 1581113083,
+    "month": 1580515200,
+    "week": 1580601600
+  },
+  "id": "t3_f0hrmp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/781mw32grkf41.jpg?auto=webp&s=df8fdb059af746097571ba5f8ca1410a3fffb6da",
+    "preview": "https://preview.redd.it/781mw32grkf41.jpg?width=640&crop=smart&auto=webp&s=d6be1f65e686acb1d2a9a83357891b1d6ba0583f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/gckzBJGMrO4FspRWb-Canfaxtts1MKDsUaNYvefEoPw.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 77,
+    "value": 77
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hope to get this done in time for a session on monday.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f0hrmp/hope_to_get_this_done_in_time_for_a_session_on/"
+}

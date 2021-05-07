@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7ki51",
+    "name": "Hippie_Gumbo"
+  },
+  "date": {
+    "day": 1569283200,
+    "full": 1569346519,
+    "month": 1567296000,
+    "week": 1569110400
+  },
+  "id": "t3_d8qiut",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/oa_i7ssYFq54eKt4bgkl9YFOFGW-_PIWkT7KPFQnOZo.jpg?auto=webp&s=c8e2331012fbfca04d66dd6feac2e159410a19de",
+    "preview": "https://external-preview.redd.it/oa_i7ssYFq54eKt4bgkl9YFOFGW-_PIWkT7KPFQnOZo.jpg?width=640&crop=smart&auto=webp&s=e7a93da9548cb3b3aa455015136a1c254a6c2162",
+    "thumbnail": "https://b.thumbs.redditmedia.com/wBVaJH-1-vIlf2rdy7Zf3Z7PRfvUBnccte_cbl9IPZQ.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dwarven ruins scatter terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/d8qiut/dwarven_ruins_scatter_terrain/"
+}

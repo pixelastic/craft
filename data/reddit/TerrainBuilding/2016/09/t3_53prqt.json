@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9swko",
+    "name": "littleblueengine"
+  },
+  "date": {
+    "day": 1474329600,
+    "full": 1474407187,
+    "month": 1472688000,
+    "week": 1474156800
+  },
+  "id": "t3_53prqt",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/fnBI81nBIl1TUoHO3k2fkS662EXSFmETq2ww-CLJcwM.jpg?auto=webp&s=0a47f278d53a2e42d024c216aa5fdc218dbe8e7c",
+    "preview": "https://external-preview.redd.it/fnBI81nBIl1TUoHO3k2fkS662EXSFmETq2ww-CLJcwM.jpg?width=640&crop=smart&auto=webp&s=b1866ca2d9b73b50d6ff626a074a579ed1211f69",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qRBgoD_0OGLxNlJ6Yb_7xTkYWT4kqpO5ODExR73YOmk.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 66,
+    "value": 66
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Found this article on creating textured surfaces",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/53prqt/found_this_article_on_creating_textured_surfaces/"
+}

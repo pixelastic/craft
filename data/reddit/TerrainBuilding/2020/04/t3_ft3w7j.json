@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7gn4c8d",
+    "name": "alecfritzart"
+  },
+  "date": {
+    "day": 1585699200,
+    "full": 1585761235,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_ft3w7j",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/g9wvptjzm8q41.jpg?auto=webp&s=49e9f58720e1aeeb444eab03c1f0a0b076f43295",
+    "preview": "https://preview.redd.it/g9wvptjzm8q41.jpg?width=640&crop=smart&auto=webp&s=3420e625754525c50a242538ef7d710df272b702",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ZKO4ArBVZTJ-7ICdu6PyqPyf0I6NgU2xxc1SVxIi83Q.jpg"
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 456,
+    "value": 456
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made my first set of dungeon tiles!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ft3w7j/made_my_first_set_of_dungeon_tiles/"
+}

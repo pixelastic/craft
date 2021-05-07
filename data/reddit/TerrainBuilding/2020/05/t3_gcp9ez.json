@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5adb1swe",
+    "name": "Loose-Ingenuity"
+  },
+  "date": {
+    "day": 1588464000,
+    "full": 1588506327,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_gcp9ez",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/VGffpffS1Xn1RJjKWijKiOiwLQ8YbFhBEU2ENnOXYkc.jpg?auto=webp&s=ac62261be17e3c625321098c48b9b59341292a93",
+    "preview": "https://external-preview.redd.it/VGffpffS1Xn1RJjKWijKiOiwLQ8YbFhBEU2ENnOXYkc.jpg?width=640&crop=smart&auto=webp&s=e923520f37a8a1109e86ab2e30a4628ce8b0515f",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.76,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My take on a Druid Hut.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gcp9ez/my_take_on_a_druid_hut/"
+}

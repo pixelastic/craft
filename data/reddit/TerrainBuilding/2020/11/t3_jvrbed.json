@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2hdbilhk",
+    "name": "ragure"
+  },
+  "date": {
+    "day": 1605571200,
+    "full": 1605611871,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jvrbed",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/R5q6uxpT-nNd8ScOGqK9CgbFaR1X0rT1UFgW0eUSkzc.png?format=pjpg&auto=webp&s=45f5595833caebdcc2aa5e87027b38b253277778",
+    "preview": "https://external-preview.redd.it/R5q6uxpT-nNd8ScOGqK9CgbFaR1X0rT1UFgW0eUSkzc.png?width=640&crop=smart&format=pjpg&auto=webp&s=e70396bfcba01feffc1253bdbfca06597f40727c",
+    "thumbnail": "nsfw"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A ''bloody'' mess (1 day build)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jvrbed/a_bloody_mess_1_day_build/"
+}

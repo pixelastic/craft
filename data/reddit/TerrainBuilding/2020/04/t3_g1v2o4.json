@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_55jhmg23",
+    "name": "Miniocalypse"
+  },
+  "date": {
+    "day": 1586908800,
+    "full": 1586967392,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g1v2o4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/b7ginkcbb0t41.jpg?auto=webp&s=91c870ffe6d99e9f5b48d404d7ec84061674874f",
+    "preview": "https://preview.redd.it/b7ginkcbb0t41.jpg?width=640&crop=smart&auto=webp&s=ccedf666c980e7cae2e2be30d5ebd0d14b5ddf7c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/zAysXwAfXk4_TX2p5cmd45kvVJgXVjqkU7goFvBB1qc.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Update on “nuclear powered Radio Tower”",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g1v2o4/update_on_nuclear_powered_radio_tower/"
+}

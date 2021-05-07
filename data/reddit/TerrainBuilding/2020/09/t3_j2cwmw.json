@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_o2rruxg",
+    "name": "Big5SouthAfrica"
+  },
+  "date": {
+    "day": 1601424000,
+    "full": 1601430282,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j2cwmw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5fvri3huw6q51.jpg?auto=webp&s=a3921064b8d9f9520bb491cb83992b8f97bf6037",
+    "preview": "https://preview.redd.it/5fvri3huw6q51.jpg?width=640&crop=smart&auto=webp&s=f9ba47e61d79c2cc84a99a3dd01871f8b92aff4b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/IhuezZQtXDj7vJrZVdJtwiaigUq2Qnp17WEf_T7m69Y.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 210,
+    "value": 210
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Amazing Waterfall I built",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j2cwmw/amazing_waterfall_i_built/"
+}

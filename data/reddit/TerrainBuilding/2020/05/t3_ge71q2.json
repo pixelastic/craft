@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_il99z2m",
+    "name": "tmcsoccer"
+  },
+  "date": {
+    "day": 1588636800,
+    "full": 1588715631,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_ge71q2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cqp3dukpp0x41.jpg?auto=webp&s=c625b323a34276bdf58e37ef2a9774172364f60e",
+    "preview": "https://preview.redd.it/cqp3dukpp0x41.jpg?width=640&crop=smart&auto=webp&s=1338dd41f4e416367276ec46ab405bf7f19ba19e",
+    "thumbnail": "https://a.thumbs.redditmedia.com/4XFASLsCEspa4BzmldVT2f4k0iUvKs82YCRrnbEBeq8.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building a bridge!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ge71q2/building_a_bridge/"
+}

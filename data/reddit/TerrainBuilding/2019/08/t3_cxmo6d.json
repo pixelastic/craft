@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33u00",
+    "name": "roflo1"
+  },
+  "date": {
+    "day": 1567123200,
+    "full": 1567197981,
+    "month": 1564617600,
+    "week": 1566691200
+  },
+  "id": "t3_cxmo6d",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3lfv6sapenj31.jpg?auto=webp&s=7c6eb631c091a22eec2ec398773f1c953008ab9c",
+    "preview": "https://preview.redd.it/3lfv6sapenj31.jpg?width=640&crop=smart&auto=webp&s=796fea67604e460f84f5a2fba367aae5393086a1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Ou8SGFbhjtotgDzXTMkPYyKwk1uWwkTuUdJvxOyHIas.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Everybody’s doing a dice tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cxmo6d/everybodys_doing_a_dice_tower/"
+}

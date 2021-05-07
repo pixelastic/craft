@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7i3la",
+    "name": "Catgutt"
+  },
+  "date": {
+    "day": 1574121600,
+    "full": 1574172299,
+    "month": 1572566400,
+    "week": 1573948800
+  },
+  "id": "t3_dyktt2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/56rs6fnxgnz31.jpg?auto=webp&s=80f4763cc384b40f878b0cf639eff55943a3e619",
+    "preview": "https://preview.redd.it/56rs6fnxgnz31.jpg?width=640&crop=smart&auto=webp&s=b97a7ff95989485cfe69cb05b1d498d2c28a91a9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/-iLAeuEmU7BIg__WWUO3sm9a3y3EiQA_mTMPh7DiX4g.jpg"
+  },
+  "score": {
+    "comments": 29,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 366,
+    "value": 366
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Gaming-Friendly Jungle Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dyktt2/gamingfriendly_jungle_terrain/"
+}

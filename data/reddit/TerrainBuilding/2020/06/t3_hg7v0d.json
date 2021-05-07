@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_67v8a19e",
+    "name": "OmnifiCentric"
+  },
+  "date": {
+    "day": 1593129600,
+    "full": 1593179139,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hg7v0d",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/v61s93xzd9751.jpg?auto=webp&s=0d33b53580c320966f99752c8f023aefc0053bc4",
+    "preview": "https://preview.redd.it/v61s93xzd9751.jpg?width=640&crop=smart&auto=webp&s=23809f6078e425d80174ecacbbf966c3ee845787",
+    "thumbnail": "https://b.thumbs.redditmedia.com/jgzk8gfEDnR_HunZyXx3vjGfZ6AgOpp82RA1QYZJYFg.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 94,
+    "value": 94
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mini Nether Portal model I made",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hg7v0d/mini_nether_portal_model_i_made/"
+}

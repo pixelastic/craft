@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16ycovb",
+    "name": "tiny_architect"
+  },
+  "date": {
+    "day": 1560902400,
+    "full": 1560971418,
+    "month": 1559347200,
+    "week": 1560643200
+  },
+  "id": "t3_c2l8nl",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/p9vk9qtw3d531.jpg?auto=webp&s=df1ca0f6420106225d9be6d68e5f8b10007c2bbe",
+    "preview": "https://preview.redd.it/p9vk9qtw3d531.jpg?width=640&crop=smart&auto=webp&s=cf71bacfc11858a7dd8b04c5d7f073ccd7b7ecf5",
+    "thumbnail": "https://a.thumbs.redditmedia.com/GSIv3sZJbUmPJzk154YN6z-Mnv-ZigqZP64akJNUIF8.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 318,
+    "value": 318
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small terrain, first of three.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/c2l8nl/small_terrain_first_of_three/"
+}

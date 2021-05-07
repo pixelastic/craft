@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1dizpcv8",
+    "name": "Jagelsdorf"
+  },
+  "date": {
+    "day": 1576540800,
+    "full": 1576613941,
+    "month": 1575158400,
+    "week": 1576368000
+  },
+  "id": "t3_ec1a90",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/qe6mstb659541.jpg?auto=webp&s=368a6796815d0ea804cafc4b5e93a7003ab4e1a8",
+    "preview": "https://preview.redd.it/qe6mstb659541.jpg?width=640&crop=smart&auto=webp&s=849956bc9b61c702fe1023314c817cfc64015e89",
+    "thumbnail": "https://b.thumbs.redditmedia.com/mnQHX6h7on4weqGn_B5jeZZigsLLPwdtrYe-peD-E3o.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little cliff I made, with no XPS foam!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ec1a90/a_little_cliff_i_made_with_no_xps_foam/"
+}

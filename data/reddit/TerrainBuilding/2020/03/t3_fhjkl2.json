@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1np6qfjm",
+    "name": "Meme-stealer69"
+  },
+  "date": {
+    "day": 1583971200,
+    "full": 1584032466,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fhjkl2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/eov8nho9w9m41.jpg?auto=webp&s=94a7a144d538f77a70ccbce9b2adba99f07b68dc",
+    "preview": "https://preview.redd.it/eov8nho9w9m41.jpg?width=640&crop=smart&auto=webp&s=d3d246dfb3c8d6e5352641f6894c3b9c8e935105",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Z6GPSEO23Kq1Wo2pFDoekK8s6a3Gw0EeDFmQuYD0RUM.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a wall segment",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fhjkl2/i_made_a_wall_segment/"
+}

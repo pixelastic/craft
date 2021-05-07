@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_14qkyn",
+    "name": "aschwerinmoses"
+  },
+  "date": {
+    "day": 1550016000,
+    "full": 1550061242,
+    "month": 1548979200,
+    "week": 1549756800
+  },
+  "id": "t3_aq64j7",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/LouUTR_YUq6_lRe1WSufhM4dXTCP47bd3SNzmMa7HdY.jpg?auto=webp&s=2cfbf7799d62c76565c7687b81cfb5d25809316a",
+    "preview": "https://external-preview.redd.it/LouUTR_YUq6_lRe1WSufhM4dXTCP47bd3SNzmMa7HdY.jpg?width=640&crop=smart&auto=webp&s=8fdcb67851606616f560c553b1d706157a159b2a",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": ".. Ludo game board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aq64j7/wip_ludo_game_board/"
+}

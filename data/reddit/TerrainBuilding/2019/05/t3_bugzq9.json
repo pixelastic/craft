@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1sjgq7b9",
+    "name": "PiVartum"
+  },
+  "date": {
+    "day": 1559088000,
+    "full": 1559148218,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_bugzq9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/b7yqkmhmi6131.png?auto=webp&s=2c23b4bb011890f52a3bfcc5a025111570307253",
+    "preview": "https://preview.redd.it/b7yqkmhmi6131.png?width=640&crop=smart&auto=webp&s=bd9d9d993e32de776dbb591d81db35dc0934ca20",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uqsdVunpnednGGznzCakuBZbUyvYG5MyGieM9WsiFLE.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Yellowfin Crossing, first time terrain building.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bugzq9/yellowfin_crossing_first_time_terrain_building/"
+}

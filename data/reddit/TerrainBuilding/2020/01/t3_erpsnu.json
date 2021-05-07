@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2pvdcb1t",
+    "name": "yazzieADAM"
+  },
+  "date": {
+    "day": 1579564800,
+    "full": 1579582813,
+    "month": 1577836800,
+    "week": 1579392000
+  },
+  "id": "t3_erpsnu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/7acj4fk5d2c41.jpg?auto=webp&s=52897be99ab164faff7cfc9d605f746f8e999c1a",
+    "preview": "https://preview.redd.it/7acj4fk5d2c41.jpg?width=640&crop=smart&auto=webp&s=f9d0102b9b9092ed3a6aebf27301924a79509eed",
+    "thumbnail": "https://b.thumbs.redditmedia.com/eiyOUCsuHJPYuQs5zdzcvXa_d9_sCL6NzKs8GwlDZRA.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Getting creative with some modular terrain!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/erpsnu/getting_creative_with_some_modular_terrain/"
+}

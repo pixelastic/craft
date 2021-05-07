@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1595030400,
+    "full": 1595066928,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hteabr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/bunm7tycblb51.jpg?auto=webp&s=c348c0b20b9f04e0b12094b2e9e7f3d517523d14",
+    "preview": "https://preview.redd.it/bunm7tycblb51.jpg?width=640&crop=smart&auto=webp&s=e1c3db9dd90f3fdaf5f07126f2d479c9bcbe0c6b",
+    "thumbnail": "https://a.thumbs.redditmedia.com/eRMYGUHBBQATwqk20w8hU5_aYSjpav4cMrBFQNYzRP0.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "City board building 2 WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hteabr/city_board_building_2_wip/"
+}

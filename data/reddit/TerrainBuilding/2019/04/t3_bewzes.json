@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2qduwxzd",
+    "name": "OperationMadDog"
+  },
+  "date": {
+    "day": 1555632000,
+    "full": 1555664245,
+    "month": 1554076800,
+    "week": 1555200000
+  },
+  "id": "t3_bewzes",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/l3ugfqhzq6t21.jpg?auto=webp&s=3f7e5fe50843c6946ddafe466303b38ea4e90ec0",
+    "preview": "https://preview.redd.it/l3ugfqhzq6t21.jpg?width=640&crop=smart&auto=webp&s=3aa665c16f73b1a99c563342620149df4f94dea2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/n-qjKfYjOhYOaRVxtoDI_vKkOYex62DW7_IT3cnYdMQ.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little dwarven mine i built a few weeks ago",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bewzes/a_little_dwarven_mine_i_built_a_few_weeks_ago/"
+}

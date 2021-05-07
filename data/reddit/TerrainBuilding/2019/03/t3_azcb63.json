@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_101vtv",
+    "name": "savepeeves"
+  },
+  "date": {
+    "day": 1552176000,
+    "full": 1552193526,
+    "month": 1551398400,
+    "week": 1552176000
+  },
+  "id": "t3_azcb63",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0r5lc6zq28l21.jpg?auto=webp&s=377795748a21b7c2bcf420ec8d6fb191366b17f3",
+    "preview": "https://preview.redd.it/0r5lc6zq28l21.jpg?width=640&crop=smart&auto=webp&s=f8973bd48ab6e4349ecb12fbc868f84c996e3890",
+    "thumbnail": "https://b.thumbs.redditmedia.com/OywgZLEiVEa89RGFPjMBaxfEInuG4cFkLGaReV3IDaA.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 4,
+    "value": 4
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first building! The Ursa Minor (Pub & Inn)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/azcb63/my_first_building_the_ursa_minor_pub_inn/"
+}

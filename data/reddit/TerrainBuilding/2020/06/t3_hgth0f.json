@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7ytc5",
+    "name": "Dessimation"
+  },
+  "date": {
+    "day": 1593216000,
+    "full": 1593264415,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hgth0f",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/sydo67xefg751.jpg?auto=webp&s=0dc8d0a4f13fb78609484a0c1c3773a2565e2814",
+    "preview": "https://preview.redd.it/sydo67xefg751.jpg?width=640&crop=smart&auto=webp&s=9d5aa75177c6a6352e093442fc2d5e8c9f597a1a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/f9hWL1zmbOKMKAewYI2s8jaRh2dW3jd1jomjk_MRSkM.jpg"
+  },
+  "score": {
+    "comments": 40,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 1409,
+    "value": 1409
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I'll never be able to look at trash the same way again.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hgth0f/ill_never_be_able_to_look_at_trash_the_same_way/"
+}

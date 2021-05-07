@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_mewtk",
+    "name": "oldercloud"
+  },
+  "date": {
+    "day": 1558483200,
+    "full": 1558495262,
+    "month": 1556668800,
+    "week": 1558224000
+  },
+  "id": "t3_brjrai",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/cn98bhj1loz21.jpg?auto=webp&s=95498e5a1015ef32d9fd9a42d3dc6e31171ce2b0",
+    "preview": "https://preview.redd.it/cn98bhj1loz21.jpg?width=640&crop=smart&auto=webp&s=35b80a4c5d61c5ea34834a43935eedb146ee2257",
+    "thumbnail": "https://b.thumbs.redditmedia.com/fvIr3rxzAG1rBNFtK5JrxEmNi9KETn4Py1pqnyLessk.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Dungeon Tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/brjrai/first_dungeon_tiles/"
+}

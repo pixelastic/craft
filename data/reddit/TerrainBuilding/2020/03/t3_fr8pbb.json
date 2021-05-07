@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5adb1swe",
+    "name": "Loose-Ingenuity"
+  },
+  "date": {
+    "day": 1585440000,
+    "full": 1585499854,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_fr8pbb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/axliqlti3np41.jpg?auto=webp&s=6b3137fea4ad453e50f444468f555b20da78889f",
+    "preview": "https://preview.redd.it/axliqlti3np41.jpg?width=640&crop=smart&auto=webp&s=ac20e0d2c33d4e942c1d89f0ac4e6383d922be47",
+    "thumbnail": "https://b.thumbs.redditmedia.com/V1lEgvVrtu5C6Dis2ZJbHpUIf8MnuvjHlEWF4DXo-BY.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Telecommunication antenna added",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fr8pbb/telecommunication_antenna_added/"
+}

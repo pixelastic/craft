@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2vbnz3oq",
+    "name": "genomeCor"
+  },
+  "date": {
+    "day": 1551657600,
+    "full": 1551712503,
+    "month": 1551398400,
+    "week": 1551571200
+  },
+  "id": "t3_ax86l1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/w1rzjlkfc4k21.jpg?auto=webp&s=346400ab7f7675fc23084d71dd0b8dc3e7fdc041",
+    "preview": "https://preview.redd.it/w1rzjlkfc4k21.jpg?width=640&crop=smart&auto=webp&s=e96bef07fbbbe88539c5526e72d0cf0f5f12eb04",
+    "thumbnail": "https://b.thumbs.redditmedia.com/W2PstKmRGFguTzLGABP_tAolYxzO1oF-s0LYaGdsplw.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Shrine of the Aquila WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ax86l1/shrine_of_the_aquila_wip/"
+}

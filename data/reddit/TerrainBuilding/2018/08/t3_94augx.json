@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6rt8q",
+    "name": "Republiken"
+  },
+  "date": {
+    "day": 1533254400,
+    "full": 1533312256,
+    "month": 1533081600,
+    "week": 1532822400
+  },
+  "id": "t3_94augx",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/XwKyfqHsx0cG7Rq0P9apxvqg3Q-C8nZ7CS1b8H7RjbA.jpg?auto=webp&s=2b915276b968ea16323cb60a24cfba242c815e9e",
+    "preview": "https://external-preview.redd.it/XwKyfqHsx0cG7Rq0P9apxvqg3Q-C8nZ7CS1b8H7RjbA.jpg?width=640&crop=smart&auto=webp&s=4b360475cb04bc2a71c04685d80f5ed092f3dd05",
+    "thumbnail": "https://b.thumbs.redditmedia.com/-3tGaf4kbod9rCWQTgUKBRsT_QIdXnYLjSngvFjR0kk.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 18,
+    "value": 18
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Adding details to hide the bare foamboard",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/94augx/adding_details_to_hide_the_bare_foamboard/"
+}

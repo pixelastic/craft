@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_iflxf",
+    "name": "RaspberryPoppySeed"
+  },
+  "date": {
+    "day": 1593561600,
+    "full": 1593629552,
+    "month": 1593561600,
+    "week": 1593302400
+  },
+  "id": "t3_hjggrk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3o973s7oka851.jpg?auto=webp&s=323679445cc834622613ddd8aff57e003dd1d65c",
+    "preview": "https://preview.redd.it/3o973s7oka851.jpg?width=640&crop=smart&auto=webp&s=3855080684b8aeaf23affe20a255c89ad45e4c13",
+    "thumbnail": "https://b.thumbs.redditmedia.com/IMS-mQlhF7QOWv7P29hEot5PujgeUgwzx5I5okkNOKI.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 25,
+    "value": 25
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Attempted my first build, would really appreciate any C&C!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hjggrk/attempted_my_first_build_would_really_appreciate/"
+}

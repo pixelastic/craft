@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_17j9l0",
+    "name": "mproteau"
+  },
+  "date": {
+    "day": 1605225600,
+    "full": 1605308996,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jtqsgv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vqgqaujaa3z51.jpg?auto=webp&s=0923bb381f43b7836fceaf317db3e5c8801fd8b8",
+    "preview": "https://preview.redd.it/vqgqaujaa3z51.jpg?width=640&crop=smart&auto=webp&s=8bdac047433a27c57cfc63f674cbaad3584689b5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/gmNhmg0n8x4QARvUO6I6T0UaGfwuZcW7mplylJPK44U.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 81,
+    "value": 81
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "More progress on my hellscape tile set!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jtqsgv/more_progress_on_my_hellscape_tile_set/"
+}

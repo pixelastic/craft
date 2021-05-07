@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1605830400,
+    "full": 1605915304,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jy04vs",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ak2bqsrych061.jpg?auto=webp&s=a5a2c2132bb987340384b676ee8cd6cac38734e7",
+    "preview": "https://preview.redd.it/ak2bqsrych061.jpg?width=640&crop=smart&auto=webp&s=b187cba47750fa627c93508f8941f1beb155c88a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/SqZPKKQt6ZEvZYOgHLmgifW-MPl_7IeacemnjD3L1FA.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This week's crafting project should get me ready to livestream the battlemap for my players",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jy04vs/this_weeks_crafting_project_should_get_me_ready/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8mma2",
+    "name": "Bronhitis"
+  },
+  "date": {
+    "day": 1405123200,
+    "full": 1405182763,
+    "month": 1404172800,
+    "week": 1404604800
+  },
+  "id": "t3_2aioi2",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/01zYU6asdpXQ2_YnZCMeseXaElCCB2l_yeMrGvkTNno.jpg?auto=webp&s=6ee823c94470a0e43297b735608f190079c59cdc",
+    "preview": "https://external-preview.redd.it/01zYU6asdpXQ2_YnZCMeseXaElCCB2l_yeMrGvkTNno.jpg?width=640&crop=smart&auto=webp&s=ebe367b900481480ea07a42ead5d9588561c3244",
+    "thumbnail": "https://b.thumbs.redditmedia.com/9q39LcDH42GR2X44OL9Niq4R_jpnHoWu7AQtT6Hs9qY.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Krieg Kraft - Palisade Fortress",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/2aioi2/krieg_kraft_palisade_fortress/"
+}

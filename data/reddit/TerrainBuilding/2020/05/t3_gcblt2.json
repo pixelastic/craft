@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4bjwr8yu",
+    "name": "pucko2000"
+  },
+  "date": {
+    "day": 1588377600,
+    "full": 1588445262,
+    "month": 1588291200,
+    "week": 1587859200
+  },
+  "id": "t3_gcblt2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ea3mohsrdew41.jpg?auto=webp&s=17c9439eb162c60d30d96aac8d9384d134d5f329",
+    "preview": "https://preview.redd.it/ea3mohsrdew41.jpg?width=640&crop=smart&auto=webp&s=ef2fb12811fa1374ebb39ec496d264d21e990299",
+    "thumbnail": "https://a.thumbs.redditmedia.com/K0Hbw2S0mo7LAiMZ5xJhizYAXtohsSI_MGD_1oOqmn0.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress on latest build, got the Aquila idea from wylochs YouTube-channel.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gcblt2/progress_on_latest_build_got_the_aquila_idea_from/"
+}

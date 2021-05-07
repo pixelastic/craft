@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1591228800,
+    "full": 1591272463,
+    "month": 1590969600,
+    "week": 1590883200
+  },
+  "id": "t3_gwg7cd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/p0lxl8fawv251.jpg?auto=webp&s=c8a038e8b0acdc1561bf6d69d9dee5ab00f1678c",
+    "preview": "https://preview.redd.it/p0lxl8fawv251.jpg?width=640&crop=smart&auto=webp&s=ac93685f7ddaf4f9bb2a402a61c7b90f1579aff1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/18FZYOJzvAzoPcsScf48EOFbZR_Np41w28q8CuvJiqw.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 58,
+    "value": 58
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tutorial: Shooting target. I made a guide about the construction of shooting targets. The link to the guide can be found in the comments.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gwg7cd/tutorial_shooting_target_i_made_a_guide_about_the/"
+}

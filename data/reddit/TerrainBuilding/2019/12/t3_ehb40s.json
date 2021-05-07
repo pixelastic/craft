@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_arc2a",
+    "name": "Ninjaws"
+  },
+  "date": {
+    "day": 1577577600,
+    "full": 1577651774,
+    "month": 1575158400,
+    "week": 1577577600
+  },
+  "id": "t3_ehb40s",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/uzxfytv6vm741.jpg?auto=webp&s=cab4cb291fd50bdefff736c96c64f1a2a2311e02",
+    "preview": "https://preview.redd.it/uzxfytv6vm741.jpg?width=640&crop=smart&auto=webp&s=d8239cec29c833fa4e6b5b389635caa2bdf8853c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/RMCgdMu1aEd5rbMR30ADpmlUAfW6_c8OKZFjbgNs63g.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Was given some wooden squares that I turned into blockades.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ehb40s/was_given_some_wooden_squares_that_i_turned_into/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5qhpues2",
+    "name": "klattertek"
+  },
+  "date": {
+    "day": 1585526400,
+    "full": 1585606841,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_fs0myt",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/09c3yyooxvp41.png?auto=webp&s=05cd8236e98614839ca0f5af6257d94f9bb35fbf",
+    "preview": "https://preview.redd.it/09c3yyooxvp41.png?width=640&crop=smart&auto=webp&s=0822bc31069dc3ffd1bde522091584982dbfa93f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Lolu_6sdgxxV3BJ3Qn1f2O5-4qT_xercYRbhto51xuA.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 360,
+    "value": 360
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first terrain!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fs0myt/my_first_terrain/"
+}

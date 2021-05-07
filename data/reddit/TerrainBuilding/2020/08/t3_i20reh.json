@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5befoevs",
+    "name": "acharnis"
+  },
+  "date": {
+    "day": 1596240000,
+    "full": 1596319356,
+    "month": 1596240000,
+    "week": 1595721600
+  },
+  "id": "t3_i20reh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9ria2vrgrge51.jpg?auto=webp&s=b085e373776c8a27ddf4a4c8100a5f24456207e3",
+    "preview": "https://preview.redd.it/9ria2vrgrge51.jpg?width=640&crop=smart&auto=webp&s=0d75bcb76469efd20033004623022e1cf78c7ced",
+    "thumbnail": "https://b.thumbs.redditmedia.com/VArTFerW_mw03lsC2Opio5pCe_QEWJgmCjUIlwujNGk.jpg"
+  },
+  "score": {
+    "comments": 22,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 161,
+    "value": 161
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First ever attempt at \"terrain\" didn't go as expected. But I did learn a couple of things: gorilla glue really sticks to skin; I really need to measure and plan.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i20reh/first_ever_attempt_at_terrain_didnt_go_as/"
+}

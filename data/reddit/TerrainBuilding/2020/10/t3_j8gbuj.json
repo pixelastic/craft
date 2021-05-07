@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_48nkn3kp",
+    "name": "patchworkTTV"
+  },
+  "date": {
+    "day": 1602288000,
+    "full": 1602314966,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j8gbuj",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/zdhyra7hz7s51.jpg?auto=webp&s=7c40aac1d6082c363047436cc5b2a840050323f1",
+    "preview": "https://preview.redd.it/zdhyra7hz7s51.jpg?width=640&crop=smart&auto=webp&s=1379577ce90f010204e3fc82aa564735f33b2f5b",
+    "thumbnail": "https://a.thumbs.redditmedia.com/5xlZqGJslEgbFaUWL87R-odeWe-tXFYLbbMzvL2zbE8.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 122,
+    "value": 122
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I love how my Fire Snail + Mossy Bridge turned out",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j8gbuj/i_love_how_my_fire_snail_mossy_bridge_turned_out/"
+}

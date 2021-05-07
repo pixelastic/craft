@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4xtsne5s",
+    "name": "DON-ATLAS"
+  },
+  "date": {
+    "day": 1587081600,
+    "full": 1587144704,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g36i3s",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/jmgv7objyet41.jpg?auto=webp&s=eee131d57e0ef018e47db46bb30e01a2b41e014d",
+    "preview": "https://preview.redd.it/jmgv7objyet41.jpg?width=640&crop=smart&auto=webp&s=823909fe38ed6dc201749cfe6e13d20fa995d046",
+    "thumbnail": "https://b.thumbs.redditmedia.com/dl5xqhd_WSMmuxJikLkPY1IQmGf2o-aBcFZq9QAgfVE.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first project, made with cement bricks made by me. Phase 0.68+1 done.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g36i3s/my_first_project_made_with_cement_bricks_made_by/"
+}

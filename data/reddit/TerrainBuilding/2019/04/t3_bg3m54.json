@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4mkh7",
+    "name": "chenobble"
+  },
+  "date": {
+    "day": 1555891200,
+    "full": 1555947971,
+    "month": 1554076800,
+    "week": 1555804800
+  },
+  "id": "t3_bg3m54",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/dk9oqj776ut21.png?auto=webp&s=317110712beda01cdc98bab4ba943eeab7a2a705",
+    "preview": "https://preview.redd.it/dk9oqj776ut21.png?width=640&crop=smart&auto=webp&s=e58e7c39de8d0f12c9049d09d827b0d63311b491",
+    "thumbnail": "https://a.thumbs.redditmedia.com/kPX6gerQvindDluf5UjAzCF-lx3DQSvMwh80nUsMFE0.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building my own RPG dungeon tile set - any suggestions on whether I've done enough or if I need more corridors etc?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bg3m54/building_my_own_rpg_dungeon_tile_set_any/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1587427200,
+    "full": 1587500972,
+    "month": 1585699200,
+    "week": 1587254400
+  },
+  "id": "t3_g5n0f7",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/l9e6pxs9t7u41.jpg?auto=webp&s=e32be197ca5c1f2b8e962c975c5d1f39c21395bc",
+    "preview": "https://preview.redd.it/l9e6pxs9t7u41.jpg?width=640&crop=smart&auto=webp&s=c172c10144527d7522e41e0181c9a992333f94ac",
+    "thumbnail": "https://a.thumbs.redditmedia.com/XG9-CaMZblcICDNIBMjVTkaXbnjkxXW_xLU0QZJx3l0.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 93,
+    "value": 93
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tensegrity base proof of concept",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g5n0f7/tensegrity_base_proof_of_concept/"
+}

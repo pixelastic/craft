@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_tpf9b",
+    "name": "Okaaran"
+  },
+  "date": {
+    "day": 1547337600,
+    "full": 1547421628,
+    "month": 1546300800,
+    "week": 1547337600
+  },
+  "id": "t3_afpa3z",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/1jq7zvcgx9a21.jpg?auto=webp&s=09b3317d5c680f41462bad9f1796853d974e4ff3",
+    "preview": "https://preview.redd.it/1jq7zvcgx9a21.jpg?width=640&crop=smart&auto=webp&s=71605facddc34169bfbb0b5b0460316682996c32",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ibENolXV65C9J-zvtyqkNIlJC0lQGb3RHdKbYVIZwKs.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 84,
+    "value": 84
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A little Aztec-esque arena I built for my player’s upcoming sacrificial tournament!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/afpa3z/a_little_aztecesque_arena_i_built_for_my_players/"
+}

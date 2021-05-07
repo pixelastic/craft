@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8sana",
+    "name": "liinked"
+  },
+  "date": {
+    "day": 1576713600,
+    "full": 1576767900,
+    "month": 1575158400,
+    "week": 1576368000
+  },
+  "id": "t3_ecudng",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/upt08idzul541.jpg?auto=webp&s=b7162453aa82cf0a689b39d19c51b731c049c9a6",
+    "preview": "https://preview.redd.it/upt08idzul541.jpg?width=640&crop=smart&auto=webp&s=5f4ed9d66c7a18db3f5e6ad98e840c0b19242036",
+    "thumbnail": "https://b.thumbs.redditmedia.com/jGQejeNJeD_u8hWtRuWoqqJCH57DCvbCX43Ru7kxirI.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 73,
+    "value": 73
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Rough prototyping done but I need a bit of help, how do I make miniature giant trees, each trunk needs to be about 7 inches diameter and j have no idea how to texture them!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ecudng/rough_prototyping_done_but_i_need_a_bit_of_help/"
+}

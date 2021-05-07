@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2w9iiuid",
+    "name": "Dellivia"
+  },
+  "date": {
+    "day": 1555891200,
+    "full": 1555901112,
+    "month": 1554076800,
+    "week": 1555804800
+  },
+  "id": "t3_bfx047",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/byie5l9bbqt21.jpg?auto=webp&s=7c90c947945662efd62b5063bdd47dc987555912",
+    "preview": "https://preview.redd.it/byie5l9bbqt21.jpg?width=640&crop=smart&auto=webp&s=a8f088924fb27b971ea94d532c71d277b3ead957",
+    "thumbnail": "https://a.thumbs.redditmedia.com/h64e8sOmjaN_pSytoXMVlAIAZG9iB47X8jVGU15pll4.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 36,
+    "value": 36
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tree test. New to dioramas, wanted to see if I can make a tree before building a full diorama",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bfx047/tree_test_new_to_dioramas_wanted_to_see_if_i_can/"
+}

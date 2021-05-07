@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4pse81m4",
+    "name": "borasrb"
+  },
+  "date": {
+    "day": 1585526400,
+    "full": 1585579924,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_frs6sb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kq4nbsemptp41.jpg?auto=webp&s=2a18510a06395ffe1492f7a7c81b8f5a6c03812e",
+    "preview": "https://preview.redd.it/kq4nbsemptp41.jpg?width=640&crop=smart&auto=webp&s=85a532c067dfaa7c520eebeb0e41a4fbc2bf7c44",
+    "thumbnail": "https://b.thumbs.redditmedia.com/CK9jWteHz_0RBh0ObaaUyX9gmUgoURXrdt9uWZF5F1A.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 580,
+    "value": 580
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Little garden in the hobbit house.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/frs6sb/little_garden_in_the_hobbit_house/"
+}

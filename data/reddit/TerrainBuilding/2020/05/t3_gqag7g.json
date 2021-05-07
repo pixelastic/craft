@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4ewqr",
+    "name": "hudsonfilm"
+  },
+  "date": {
+    "day": 1590364800,
+    "full": 1590411142,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gqag7g",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0n5645xbrw051.png?auto=webp&s=b3ebc7fe11650f8a18b041eb022734a91507f1e9",
+    "preview": "https://preview.redd.it/0n5645xbrw051.png?width=640&crop=smart&auto=webp&s=6ef1a62d74e4120cda180500431ffb373cc09315",
+    "thumbnail": "https://b.thumbs.redditmedia.com/TrpvjupJ3GXr1-EWoXwKakfjAZs8l7bVw1SP4O5D0gc.jpg"
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 241,
+    "value": 241
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made an observatory from foam core and things saved from the recycle bin",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gqag7g/i_made_an_observatory_from_foam_core_and_things/"
+}

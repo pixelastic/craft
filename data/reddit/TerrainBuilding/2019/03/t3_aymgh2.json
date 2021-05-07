@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_clfnu",
+    "name": "The_Pubenbarber"
+  },
+  "date": {
+    "day": 1552003200,
+    "full": 1552021789,
+    "month": 1551398400,
+    "week": 1551571200
+  },
+  "id": "t3_aymgh2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/dn7sz6b3wtk21.jpg?auto=webp&s=f35b19943e7ccea163942286b6978cded85b3100",
+    "preview": "https://preview.redd.it/dn7sz6b3wtk21.jpg?width=640&crop=smart&auto=webp&s=8f97cb6b5bc75afae2faebcb13e6aa18c96aca22",
+    "thumbnail": "https://b.thumbs.redditmedia.com/f00DZNDMxXZkEJoz3CDNhDKTRcmrTP4huShVdG5KTck.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 43,
+    "value": 43
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A small plateau I've been working on. Imgur album with details in the comments",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aymgh2/a_small_plateau_ive_been_working_on_imgur_album/"
+}

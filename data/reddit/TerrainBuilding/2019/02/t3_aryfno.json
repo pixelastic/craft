@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ix9rk",
+    "name": "RedS5"
+  },
+  "date": {
+    "day": 1550448000,
+    "full": 1550504453,
+    "month": 1548979200,
+    "week": 1550361600
+  },
+  "id": "t3_aryfno",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/jhpytCCvHgikZpQLss7aEeC74o4Q4bk0OZBhl3V7FZU.jpg?auto=webp&s=24827e0b0252796157d97dbaa3ab23af37e434ce",
+    "preview": "https://external-preview.redd.it/jhpytCCvHgikZpQLss7aEeC74o4Q4bk0OZBhl3V7FZU.jpg?width=640&crop=smart&auto=webp&s=98a45ce6fcb9cfbc35d3a7b7179750bb0c60aee2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/eHShINdNmrdtZMWZjLQC6YghuMFGgonm0OIcNqaVYgI.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tiamat's Lair.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aryfno/tiamats_lair/"
+}

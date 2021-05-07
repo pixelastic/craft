@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1sfylt20",
+    "name": "send_me_40k_bits"
+  },
+  "date": {
+    "day": 1549238400,
+    "full": 1549255137,
+    "month": 1548979200,
+    "week": 1549152000
+  },
+  "id": "t3_amy393",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/e68jzu3cdhe21.jpg?auto=webp&s=7c2c066ff7c64ee09dc2c0b5b834804236d5c8e9",
+    "preview": "https://preview.redd.it/e68jzu3cdhe21.jpg?width=640&crop=smart&auto=webp&s=7f6d133d1b71eaebc93d5f4480fe352dce17ffcf",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ZNtL7lwiTjdOJuxWUkYZiqoid9pl22TLjhakPAO-CQc.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 88,
+    "value": 88
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Made a sprue barricade. It’s not perfect but I learned a lot",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/amy393/made_a_sprue_barricade_its_not_perfect_but_i/"
+}

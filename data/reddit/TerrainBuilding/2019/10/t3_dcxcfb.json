@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3ekzvr69",
+    "name": "SunkenPayload"
+  },
+  "date": {
+    "day": 1570060800,
+    "full": 1570137335,
+    "month": 1569888000,
+    "week": 1569715200
+  },
+  "id": "t3_dcxcfb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/wul06obu6eq31.jpg?auto=webp&s=612d3503f7e307669dd747bba6ef20721e02c9ad",
+    "preview": "https://preview.redd.it/wul06obu6eq31.jpg?width=640&crop=smart&auto=webp&s=e769530f6a722abd03921bb6e806666edaee67a0",
+    "thumbnail": "https://b.thumbs.redditmedia.com/8Ao2xhHf1mU1JW8m60dsD3DX7kZpAG6RSSgU3bxMmzI.jpg"
+  },
+  "score": {
+    "comments": 42,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 419,
+    "value": 419
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The complete set! I ran out of foam and acetone....",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dcxcfb/the_complete_set_i_ran_out_of_foam_and_acetone/"
+}

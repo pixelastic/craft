@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33cyp5xf",
+    "name": "Whitaking"
+  },
+  "date": {
+    "day": 1585008000,
+    "full": 1585021258,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fny8kg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/2gcnukufkjo41.jpg?auto=webp&s=10aa8f6a08df60827c830fcbeba64c4dfb8945a9",
+    "preview": "https://preview.redd.it/2gcnukufkjo41.jpg?width=640&crop=smart&auto=webp&s=2fb69fe9da58045b11cdc79b477fef5cfd22d9aa",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qJrojnEjeiY6OFOVZllUoAMuK3lwua0xAPKTUC57UgE.jpg"
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 526,
+    "value": 526
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just a lazy 1.6m tower, little saruman on top for scale",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fny8kg/just_a_lazy_16m_tower_little_saruman_on_top_for/"
+}

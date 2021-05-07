@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ceud74i",
+    "name": "RowenMorland"
+  },
+  "date": {
+    "day": 1599350400,
+    "full": 1599384627,
+    "month": 1598918400,
+    "week": 1599350400
+  },
+  "id": "t3_inj735",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/idN9adQfv_RPgAWQIaAwtBOn4sAd335Ya0C28_WCzR8.jpg?auto=webp&s=ebac4bf949a2a8590be9cbafa6883951cd031f5a",
+    "preview": "https://external-preview.redd.it/idN9adQfv_RPgAWQIaAwtBOn4sAd335Ya0C28_WCzR8.jpg?width=640&crop=smart&auto=webp&s=7ee5cc9c7e7807fc154f54cdcac72d3df2d7bfe5",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making a river with water effect for the first time.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/inj735/making_a_river_with_water_effect_for_the_first/"
+}

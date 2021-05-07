@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ib9ia",
+    "name": "Legionforce"
+  },
+  "date": {
+    "day": 1513296000,
+    "full": 1513378543,
+    "month": 1512086400,
+    "week": 1512864000
+  },
+  "id": "t3_7k3ax8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ui5hwtxo16401.jpg?auto=webp&s=c86091cd4f6662bf3908176b26ffcc25421e9c10",
+    "preview": "https://preview.redd.it/ui5hwtxo16401.jpg?width=640&crop=smart&auto=webp&s=1948eec87829617729c89e3d3c79c6dc6b92157a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/9CJ_YA6LacvLq-fLWlMrZmVD8dwxAf-oHQEDBrftfnw.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Quick and Dirty Foamcore Stalagmites",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7k3ax8/quick_and_dirty_foamcore_stalagmites/"
+}

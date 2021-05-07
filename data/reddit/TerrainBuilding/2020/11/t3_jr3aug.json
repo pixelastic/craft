@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_zpur1",
+    "name": "Ya-Dikobraz"
+  },
+  "date": {
+    "day": 1604880000,
+    "full": 1604946901,
+    "month": 1604188800,
+    "week": 1604793600
+  },
+  "id": "t3_jr3aug",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/mdnb4sjfd9y51.jpg?auto=webp&s=3a03d2f781ddda901de2ba1e561f548726aaa698",
+    "preview": "https://preview.redd.it/mdnb4sjfd9y51.jpg?width=640&crop=smart&auto=webp&s=80d02d261a2b60a056143c8927539bb70da8e9c0",
+    "thumbnail": "https://b.thumbs.redditmedia.com/pR2sgtLDsp2tNT0kV7TFRPp58ct6Uq3kPvPR7oJ7eYY.jpg"
+  },
+  "score": {
+    "comments": 22,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 74,
+    "value": 74
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first terrain. I am not happy with it because I made so many mistakes. So critique, please.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jr3aug/my_first_terrain_i_am_not_happy_with_it_because_i/"
+}

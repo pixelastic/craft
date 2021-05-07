@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_32m7bse5",
+    "name": "Urplex"
+  },
+  "date": {
+    "day": 1601596800,
+    "full": 1601644259,
+    "month": 1601510400,
+    "week": 1601164800
+  },
+  "id": "t3_j3u65c",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/at0uloa6loq51.jpg?auto=webp&s=5a37ce67966680bfb887a72aeac3bca619baa43c",
+    "preview": "https://preview.redd.it/at0uloa6loq51.jpg?width=640&crop=smart&auto=webp&s=d47180cbe7e2cd6b6a1a60b4642219043a2a720f",
+    "thumbnail": "https://a.thumbs.redditmedia.com/WhjXkuNdb7y8069_UWZmLq-1xUvmslfuO0VSiQ7yDS0.jpg"
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 378,
+    "value": 378
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Behold! Firefinger!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j3u65c/behold_firefinger/"
+}

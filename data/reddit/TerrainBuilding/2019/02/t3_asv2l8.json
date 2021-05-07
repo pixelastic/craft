@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hr6aw",
+    "name": "Bose_Motile"
+  },
+  "date": {
+    "day": 1550620800,
+    "full": 1550703209,
+    "month": 1548979200,
+    "week": 1550361600
+  },
+  "id": "t3_asv2l8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/mjxuk3l8zsh21.jpg?auto=webp&s=2e0de140523647fadbd43f02e579d19fb777f656",
+    "preview": "https://preview.redd.it/mjxuk3l8zsh21.jpg?width=640&crop=smart&auto=webp&s=9cdf3e0d5c27fdc80c5ed8ee0b5ffa7d6175758a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/SrlBKUG9fBD0hKrI80ehAHGFrZl7f7yAanCiWabs_vM.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 69,
+    "value": 69
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Kriel-Still",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/asv2l8/the_krielstill_wip/"
+}

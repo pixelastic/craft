@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_aqvck",
+    "name": "FerretBerries"
+  },
+  "date": {
+    "day": 1432080000,
+    "full": 1432121368,
+    "month": 1430438400,
+    "week": 1431820800
+  },
+  "id": "t3_36m22q",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/-eGzIT6oesiBb93OHN5QVD0NNyCyUzTDqgh3J4ARm7A.jpg?auto=webp&s=3907c761a1868516be77b2231089bd44f0d7a2c9",
+    "preview": "https://external-preview.redd.it/-eGzIT6oesiBb93OHN5QVD0NNyCyUzTDqgh3J4ARm7A.jpg?width=640&crop=smart&auto=webp&s=a873de83d211c356ad1c88a351fc2c39cd80df6d",
+    "thumbnail": "https://a.thumbs.redditmedia.com/WZuDpR6FA-LCXNj0z7e12JvxhpCQ7H3r_U78jDVO8D4.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Using terrain building techniques on other projects!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/36m22q/using_terrain_building_techniques_on_other/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1xf4pssa",
+    "name": "NorthwesternGuy"
+  },
+  "date": {
+    "day": 1564531200,
+    "full": 1564617115,
+    "month": 1561939200,
+    "week": 1564272000
+  },
+  "id": "t3_ckghuq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/f1k4x5ne8qd31.jpg?auto=webp&s=bd93420629c300336f70986b9c2d215a20aef0c4",
+    "preview": "https://preview.redd.it/f1k4x5ne8qd31.jpg?width=640&crop=smart&auto=webp&s=33599b830ac4a886d684ef128312d02c9d05d386",
+    "thumbnail": "https://a.thumbs.redditmedia.com/V0BNeJHHxUbSO_4vEilb-ClF2QrrdViS4m5LTEqX7W8.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 66,
+    "value": 66
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Skyrim-Inspired stone spires",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ckghuq/skyriminspired_stone_spires/"
+}

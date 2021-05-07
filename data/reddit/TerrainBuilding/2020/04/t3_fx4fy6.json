@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10u9c0",
+    "name": "dreamspeakr"
+  },
+  "date": {
+    "day": 1586304000,
+    "full": 1586343350,
+    "month": 1585699200,
+    "week": 1586044800
+  },
+  "id": "t3_fx4fy6",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/7rxjfmcprkr41.jpg?auto=webp&s=7f3e1c195b5ac3c3a93516ce91b1a5c2c4ca1957",
+    "preview": "https://preview.redd.it/7rxjfmcprkr41.jpg?width=640&crop=smart&auto=webp&s=62fb080f29431f0bea499104d3bd7759b58792d3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/iLC6jzNv2wKKN8DrE4Sp6P-hYSKubWPxx27DW9rlXOY.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I need help fixing this",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fx4fy6/i_need_help_fixing_this/"
+}

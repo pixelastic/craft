@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2zg19isa",
+    "name": "ecto_27"
+  },
+  "date": {
+    "day": 1557878400,
+    "full": 1557931357,
+    "month": 1556668800,
+    "week": 1557619200
+  },
+  "id": "t3_boyrrx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ajsp5to90ey21.jpg?auto=webp&s=ed8a5b5a811f766655c470d02ecea4bc90c647ce",
+    "preview": "https://preview.redd.it/ajsp5to90ey21.jpg?width=640&crop=smart&auto=webp&s=e5300f673873e578fa89c858733a9d17c0d7d7c7",
+    "thumbnail": "https://a.thumbs.redditmedia.com/OmmEOoQEtMy9HVyu5aRDAaLjRHVqqoaaAIuJh6MBLZ4.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Toppling a Twin",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/boyrrx/toppling_a_twin/"
+}

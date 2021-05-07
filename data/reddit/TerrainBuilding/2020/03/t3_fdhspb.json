@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3ekzvr69",
+    "name": "SunkenPayload"
+  },
+  "date": {
+    "day": 1583280000,
+    "full": 1583348304,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fdhspb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kblsiedudpk41.jpg?auto=webp&s=19f8af9f6e6957625a48d37345127814b12fa993",
+    "preview": "https://preview.redd.it/kblsiedudpk41.jpg?width=640&crop=smart&auto=webp&s=43514c03e19c8a27e31d5e99283fb09d59979697",
+    "thumbnail": "https://a.thumbs.redditmedia.com/FHtLoFZoekGjHrGvrn_b9Da5Ld4xJc3MafhFIAVibL0.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Two more pieces for the Crystal Patch!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fdhspb/two_more_pieces_for_the_crystal_patch/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_rymf3",
+    "name": "nebulonb"
+  },
+  "date": {
+    "day": 1528675200,
+    "full": 1528753409,
+    "month": 1527811200,
+    "week": 1528588800
+  },
+  "id": "t3_8qdcoc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/8jlx99r8zf311.jpg?auto=webp&s=a08d91b4647494b656db6d044149c5247d2eef1b",
+    "preview": "https://preview.redd.it/8jlx99r8zf311.jpg?width=640&crop=smart&auto=webp&s=5d10a026ce7cdc2e9aff627137f3e1e3ef443155",
+    "thumbnail": "https://b.thumbs.redditmedia.com/V7ZxmIXuIssZXrFng7TGqKfpxPmUXAxftEreWMP_2Gg.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.87,
+    "ups": 10,
+    "value": 10
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "\"Exhibit's Auto Upgrades\" shop",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8qdcoc/exhibits_auto_upgrades_shop/"
+}

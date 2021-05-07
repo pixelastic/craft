@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_yulv8",
+    "name": "nitermania"
+  },
+  "date": {
+    "day": 1535760000,
+    "full": 1535833979,
+    "month": 1535760000,
+    "week": 1535241600
+  },
+  "id": "t3_9c6bgc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/brvmr58ftoj11.jpg?auto=webp&s=a6d50926c3a8271aaac67b4277cefeb00143c938",
+    "preview": "https://preview.redd.it/brvmr58ftoj11.jpg?width=640&crop=smart&auto=webp&s=a621243978386fb2160281c65a9f331303494ebd",
+    "thumbnail": "https://b.thumbs.redditmedia.com/E1xGucXTRy9-hXG0deRcclSA8DwKe4dsMUq42Btw_sY.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.76,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How do I get my brushes to stop splitting like this?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9c6bgc/how_do_i_get_my_brushes_to_stop_splitting_like/"
+}

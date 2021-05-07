@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6rt8q",
+    "name": "Republiken"
+  },
+  "date": {
+    "day": 1532995200,
+    "full": 1533053170,
+    "month": 1530403200,
+    "week": 1532822400
+  },
+  "id": "t3_93frrm",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/3GtEV-S7pghj_5uOmlfAQlTqRrsyDSVNwD9MrSeRCk8.jpg?auto=webp&s=15aeeaa59ca1795e5b4752cab2fcab4c4a476e34",
+    "preview": "https://external-preview.redd.it/3GtEV-S7pghj_5uOmlfAQlTqRrsyDSVNwD9MrSeRCk8.jpg?width=640&crop=smart&auto=webp&s=e259268823e68f847e46ed8bbab7a92637481af2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/cEM7F1p6abI20u4i4EMuvJ288o43g8aps_aYJimbyWA.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP ruined Imperial Sector base update",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/93frrm/wip_ruined_imperial_sector_base_update/"
+}

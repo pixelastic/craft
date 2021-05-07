@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3o0uyuhz",
+    "name": "TabletopGeneral"
+  },
+  "date": {
+    "day": 1574380800,
+    "full": 1574439412,
+    "month": 1572566400,
+    "week": 1573948800
+  },
+  "id": "t3_e035e5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6csnxm34j9041.jpg?auto=webp&s=3da686d2937559d2eb7e1316b1a82c39fe6969d1",
+    "preview": "https://preview.redd.it/6csnxm34j9041.jpg?width=640&crop=smart&auto=webp&s=15c14c784d16f2ff0a5bc2ccddb4dfa00d27dd72",
+    "thumbnail": "https://b.thumbs.redditmedia.com/RDY5nwhfFsqLxDCYyNNEgU257LP0GpALWY_vkV-y_xQ.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test for snowbases C+C welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e035e5/test_for_snowbases_cc_welcome/"
+}

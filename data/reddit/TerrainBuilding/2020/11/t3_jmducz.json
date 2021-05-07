@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_w4ars",
+    "name": "shadowcorp"
+  },
+  "date": {
+    "day": 1604275200,
+    "full": 1604278338,
+    "month": 1604188800,
+    "week": 1604188800
+  },
+  "id": "t3_jmducz",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/gfhSg7K0tW-eLruRZcohSxb2iDAJPtUZu2UOGUYZwoo.jpg?auto=webp&s=902e5ff8883735dbfaaa02d70ef09160fbd6f1d4",
+    "preview": "https://external-preview.redd.it/gfhSg7K0tW-eLruRZcohSxb2iDAJPtUZu2UOGUYZwoo.jpg?width=640&crop=smart&auto=webp&s=d769b0f799777749219f4b9195b059b1f2c7796e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/OFlFszKNN-hXEdWSS2BqLkKz_YhIe1hPIS-CFvkXQxA.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 63,
+    "value": 63
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What a great idea! I’m sure there are lots of ways to build on this.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jmducz/what_a_great_idea_im_sure_there_are_lots_of_ways/"
+}

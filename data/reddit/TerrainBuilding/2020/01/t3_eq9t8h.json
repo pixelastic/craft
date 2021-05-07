@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3ljd04zk",
+    "name": "Riddlemark"
+  },
+  "date": {
+    "day": 1579305600,
+    "full": 1579310675,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_eq9t8h",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3it02gvavfb41.jpg?auto=webp&s=313054c98398406560956a04f051b1f8dd1894ff",
+    "preview": "https://preview.redd.it/3it02gvavfb41.jpg?width=640&crop=smart&auto=webp&s=610f1fba913dcad094ab6cef260e490ef054402c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/mgtY3QkbNKDf5-z77LfNGEFUAjCzVRPr9vYXP4N6qFE.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 198,
+    "value": 198
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP - Mini Village",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eq9t8h/wip_mini_village/"
+}

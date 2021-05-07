@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5jjn79t6",
+    "name": "Illteachem"
+  },
+  "date": {
+    "day": 1588204800,
+    "full": 1588246569,
+    "month": 1585699200,
+    "week": 1587859200
+  },
+  "id": "t3_gau07w",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/rg65zjpyyxv41.jpg?auto=webp&s=1b539516f8cdc98c1ea9d1e475fddfc1bda48d8e",
+    "preview": "https://preview.redd.it/rg65zjpyyxv41.jpg?width=640&crop=smart&auto=webp&s=0bd0067564ddca36f2b5a0a959b052714907e02d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/KhCPiTafDxLisQovwuVO2klFEd9i6CaXS3vCYtzdnyw.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 271,
+    "value": 271
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Welcome to Nightstone",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gau07w/welcome_to_nightstone/"
+}

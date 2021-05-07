@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_26c71pmf",
+    "name": "Aingree"
+  },
+  "date": {
+    "day": 1541635200,
+    "full": 1541649184,
+    "month": 1541030400,
+    "week": 1541289600
+  },
+  "id": "t3_9v6omg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3c7w0vm051x11.jpg?auto=webp&s=15120a1e84c7aec86987c9793598f52e4e3b0c0e",
+    "preview": "https://preview.redd.it/3c7w0vm051x11.jpg?width=640&crop=smart&auto=webp&s=9840541d6d405394ca39def3c1090b67e6a5d444",
+    "thumbnail": "https://a.thumbs.redditmedia.com/rbYRqSRgN_DM0vgw0NeCCtk-50GU7kYLvlh0M5VNcB8.jpg"
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 71,
+    "value": 71
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What can I do to improve the paint job on this terrain?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9v6omg/what_can_i_do_to_improve_the_paint_job_on_this/"
+}

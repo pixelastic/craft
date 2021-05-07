@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4qa8amv",
+    "name": "madfrog_tm"
+  },
+  "date": {
+    "day": 1598313600,
+    "full": 1598351366,
+    "month": 1596240000,
+    "week": 1598140800
+  },
+  "id": "t3_ig9jh2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ul2y7s8pl4j51.jpg?auto=webp&s=be77901180313c7f729a9de2635f98b5a1c2a143",
+    "preview": "https://preview.redd.it/ul2y7s8pl4j51.jpg?width=640&crop=smart&auto=webp&s=ee527caaef1e1eb1ec43697b981359a423a7a8bf",
+    "thumbnail": "https://b.thumbs.redditmedia.com/gymNQ3reBylbMIst6KavyTu3AbBUyti4BH9QMp74VFA.jpg"
+  },
+  "score": {
+    "comments": 42,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 1391,
+    "value": 1391
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is my first 40k terrain piece btw",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ig9jh2/this_is_my_first_40k_terrain_piece_btw/"
+}

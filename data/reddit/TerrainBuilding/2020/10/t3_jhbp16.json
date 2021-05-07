@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3dhi1",
+    "name": "kagius"
+  },
+  "date": {
+    "day": 1603497600,
+    "full": 1603556387,
+    "month": 1601510400,
+    "week": 1602979200
+  },
+  "id": "t3_jhbp16",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ajjef70ui2v51.jpg?auto=webp&s=96f2d1e5fed888fb947c76e48d9e52aa12afbe1d",
+    "preview": "https://preview.redd.it/ajjef70ui2v51.jpg?width=640&crop=smart&auto=webp&s=a3898c5e6ce8eb9fa92af57d37ac3241c387b695",
+    "thumbnail": "https://b.thumbs.redditmedia.com/_MYNVKnbSmQV5iBu9sNxVliT_AzVyx_AUNgrovniKkg.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built a piece of dwarven scatter terrain out of XPS",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jhbp16/built_a_piece_of_dwarven_scatter_terrain_out_of/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4xb3u",
+    "name": "BloodSquirtle"
+  },
+  "date": {
+    "day": 1562025600,
+    "full": 1562082310,
+    "month": 1561939200,
+    "week": 1561852800
+  },
+  "id": "t3_c8ashy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/t0vho3ivuw731.jpg?auto=webp&s=c317abcf44658c4efe178ac9defe4c0733479c0c",
+    "preview": "https://preview.redd.it/t0vho3ivuw731.jpg?width=640&crop=smart&auto=webp&s=e615fcac0837e0f4cac90a12fa18e4dfce0e2bba",
+    "thumbnail": "https://b.thumbs.redditmedia.com/_5MtisV0-0Rwo3xARJnK9CnGOeDQfAQkMvQ0w5yTBkg.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 64,
+    "value": 64
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Illusionist's Dungeon Lair",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/c8ashy/illusionists_dungeon_lair/"
+}

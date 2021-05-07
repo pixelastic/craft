@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_vy2i4h7",
+    "name": "Wanderlad"
+  },
+  "date": {
+    "day": 1611100800,
+    "full": 1611174138,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l1hmab",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/qZiROCqD209dcfeVoYGr71XFA06RBichS27eUtvVICE.jpg?auto=webp&s=a449c96da56b62a81ca68cc4d8198969d025207d",
+    "preview": "https://external-preview.redd.it/qZiROCqD209dcfeVoYGr71XFA06RBichS27eUtvVICE.jpg?width=640&crop=smart&auto=webp&s=68c4b56347fdfd194e04c759aefaab359f9d898c",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Improving MDF Terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l1hmab/improving_mdf_terrain/"
+}

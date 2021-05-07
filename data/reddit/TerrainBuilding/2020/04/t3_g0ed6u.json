@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3g3ukz3i",
+    "name": "Dildorsfriend"
+  },
+  "date": {
+    "day": 1586736000,
+    "full": 1586763655,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_g0ed6u",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/skehf9yhhjs41.jpg?auto=webp&s=5e4f98a2750ca5f2708d4bf593ba67feb31d8738",
+    "preview": "https://preview.redd.it/skehf9yhhjs41.jpg?width=640&crop=smart&auto=webp&s=bb839e544bbf7d2ed512fb51fd8f61d3ff50b936",
+    "thumbnail": "https://b.thumbs.redditmedia.com/wXjTEPaXd3mbqwFn-RIvGfo5SUbBcj1gmAoMaCIy1Hw.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.89,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The house that apple built",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g0ed6u/the_house_that_apple_built/"
+}

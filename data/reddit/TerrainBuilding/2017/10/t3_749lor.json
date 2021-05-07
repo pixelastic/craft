@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_cxsjg",
+    "name": "ChicagoCowboy"
+  },
+  "date": {
+    "day": 1507075200,
+    "full": 1507137250,
+    "month": 1506816000,
+    "week": 1506816000
+  },
+  "id": "t3_749lor",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/44IJS-EUY-2DO3adNfnh_dugUQpDTVDqQi-OBVnT_dY.jpg?auto=webp&s=b1b347d88c3f12b36aa68ea9f8dc1d6cbae604db",
+    "preview": "https://external-preview.redd.it/44IJS-EUY-2DO3adNfnh_dugUQpDTVDqQi-OBVnT_dY.jpg?width=640&crop=smart&auto=webp&s=527ec2561ff52743407279cfcb66d221ce2efe4e",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.6,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "How to weight terrain bases?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/749lor/how_to_weight_terrain_bases/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3yt5de75",
+    "name": "The_Goblin_Tinker"
+  },
+  "date": {
+    "day": 1613433600,
+    "full": 1613447277,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_lkv20r",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/o9rpy1ilhrh61.jpg?auto=webp&s=ae685f0510d8f57720b2805afbca7bee1f932d27",
+    "preview": "https://preview.redd.it/o9rpy1ilhrh61.jpg?width=640&crop=smart&auto=webp&s=61cc223ee1ba973c867516b476c7e2e28f4d09ec",
+    "thumbnail": "https://b.thumbs.redditmedia.com/gsHKehNJxYH9An0AWXMTwuWNZjuKFtIQWdkrLnrs96w.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 40,
+    "value": 40
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Goblin Tinker’s latest paint bench.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lkv20r/the_goblin_tinkers_latest_paint_bench/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3j9ys6xz",
+    "name": "Dragoany"
+  },
+  "date": {
+    "day": 1583452800,
+    "full": 1583525041,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fej9g3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/8aqw6xm7z3l41.jpg?auto=webp&s=c5d49374987f5bccb221138d7f7d1799e4a8f779",
+    "preview": "https://preview.redd.it/8aqw6xm7z3l41.jpg?width=640&crop=smart&auto=webp&s=3faac3c56fc34cd7be4e5f7826658f02b8c5a741",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uJN1neSzdPEAiP1j7fURcjlCx0sdnaCsoJqfAVrF5hw.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The tiles I print keep geting like this. Anyone know why?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fej9g3/the_tiles_i_print_keep_geting_like_this_anyone/"
+}

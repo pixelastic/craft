@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4ovj4yt",
+    "name": "ERI3XE"
+  },
+  "date": {
+    "day": 1596326400,
+    "full": 1596349533,
+    "month": 1596240000,
+    "week": 1596326400
+  },
+  "id": "t3_i27k9a",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ytqr9k989je51.jpg?auto=webp&s=e9c7bc2f7eaf3045493ad5e420075681989367ac",
+    "preview": "https://preview.redd.it/ytqr9k989je51.jpg?width=640&crop=smart&auto=webp&s=cacc6b2907cd73604cb85966dc06d364357eb590",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ynYCAeSwhJ8LkVZAjfOCLgSkguvlsph4Gfl2OP-1iGA.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Small huts for Hail Caesar",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i27k9a/small_huts_for_hail_caesar/"
+}

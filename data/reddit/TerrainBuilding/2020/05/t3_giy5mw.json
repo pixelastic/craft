@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_curmk",
+    "name": "Crovaxian"
+  },
+  "date": {
+    "day": 1589328000,
+    "full": 1589373248,
+    "month": 1588291200,
+    "week": 1589068800
+  },
+  "id": "t3_giy5mw",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/m6vzzfk41jy41.jpg?auto=webp&s=54a1d1c02b531822e7d3596cbdebb8e01c501dee",
+    "preview": "https://preview.redd.it/m6vzzfk41jy41.jpg?width=640&crop=smart&auto=webp&s=fb27fef6c29d605cbb9eedba698465a84c5de82d",
+    "thumbnail": "https://a.thumbs.redditmedia.com/avVJJCRPcGoniJT5cEkAQ9rVImLImARC49oc-ztn8m4.jpg"
+  },
+  "score": {
+    "comments": 27,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 407,
+    "value": 407
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First piece of terrain, c&c appreciated",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/giy5mw/first_piece_of_terrain_cc_appreciated/"
+}

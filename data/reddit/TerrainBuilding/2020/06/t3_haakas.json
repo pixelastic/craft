@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1dizpcv8",
+    "name": "Jagelsdorf"
+  },
+  "date": {
+    "day": 1592265600,
+    "full": 1592334830,
+    "month": 1590969600,
+    "week": 1592092800
+  },
+  "id": "t3_haakas",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/QHlazGdDb4c9p1Pf7WSLVZhUKmt5ef1Td36s21VeO34.png?format=pjpg&auto=webp&s=380e439ab48846790b3f99e97fbe4beb2ea62024",
+    "preview": "https://external-preview.redd.it/QHlazGdDb4c9p1Pf7WSLVZhUKmt5ef1Td36s21VeO34.png?width=640&crop=smart&format=pjpg&auto=webp&s=cb15edb7f9a2c64a154732febc0c287d49bd6aa6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/JlQV8lc0PRW2dKNv7E_Ryf4-seODGezHQVpNlLXxdMA.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 614,
+    "value": 614
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Roadrunner and Wile E. Coyote, Mordheim edition",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/haakas/roadrunner_and_wile_e_coyote_mordheim_edition/"
+}

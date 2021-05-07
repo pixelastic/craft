@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4r1pax",
+    "name": "Bindinga"
+  },
+  "date": {
+    "day": 1567641600,
+    "full": 1567659726,
+    "month": 1567296000,
+    "week": 1567296000
+  },
+  "id": "t3_czwb5k",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/dodypzmpjpk31.jpg?auto=webp&s=3fec3c33d3e9f1b772979c208a4fd55afcb176fe",
+    "preview": "https://preview.redd.it/dodypzmpjpk31.jpg?width=640&crop=smart&auto=webp&s=10756d399aeb1de475a8e8deab5cf9aa95144b90",
+    "thumbnail": "https://a.thumbs.redditmedia.com/PpbbE5_danEVH83sG7swf_WXWkrpiHKcl_WtDK6mUh8.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain turned diorama",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/czwb5k/terrain_turned_diorama/"
+}

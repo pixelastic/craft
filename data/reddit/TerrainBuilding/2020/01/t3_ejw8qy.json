@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_et87s",
+    "name": "8-BitApe"
+  },
+  "date": {
+    "day": 1578096000,
+    "full": 1578141961,
+    "month": 1577836800,
+    "week": 1577577600
+  },
+  "id": "t3_ejw8qy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/yzd2sez76r841.jpg?auto=webp&s=4326e991ee911064773571700bd8e0597ea4a09f",
+    "preview": "https://preview.redd.it/yzd2sez76r841.jpg?width=640&crop=smart&auto=webp&s=3f309092c9b89c5233af786e8a567ae982e57169",
+    "thumbnail": "https://b.thumbs.redditmedia.com/wfrxIOe8J723uSIhWobEPLoGw9CzjL10NK9nZI1Rw_E.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 295,
+    "value": 295
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This is my first build and I'm super happy with how it turned out!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ejw8qy/this_is_my_first_build_and_im_super_happy_with/"
+}

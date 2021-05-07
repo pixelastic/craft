@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdsei",
+    "name": "kittbash"
+  },
+  "date": {
+    "day": 1584835200,
+    "full": 1584869618,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fmxaly",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/gha5ooixu6o41.jpg?auto=webp&s=84b3d5cee5f023a7e32e4b7d14cd8703e0082fae",
+    "preview": "https://preview.redd.it/gha5ooixu6o41.jpg?width=640&crop=smart&auto=webp&s=8347aaf7822f479d520f4c76813f123b56bc0b93",
+    "thumbnail": "https://b.thumbs.redditmedia.com/OvCMrDhobo7VpjRAPkPi20a5N3TtZKsrENNdFdbCqkA.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Jungle board I’m working on!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fmxaly/jungle_board_im_working_on/"
+}

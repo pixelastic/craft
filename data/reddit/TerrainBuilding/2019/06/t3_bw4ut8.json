@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_17959p",
+    "name": "capt_yellowbeard"
+  },
+  "date": {
+    "day": 1559520000,
+    "full": 1559524769,
+    "month": 1559347200,
+    "week": 1559433600
+  },
+  "id": "t3_bw4ut8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kjhj9dyam1231.jpg?auto=webp&s=638316eed8c248580097e7524b0090d15086ba4b",
+    "preview": "https://preview.redd.it/kjhj9dyam1231.jpg?width=640&crop=smart&auto=webp&s=43bd5e8e3419a7c5efb041d8e44faba153b137a0",
+    "thumbnail": "https://b.thumbs.redditmedia.com/IbIW5BGlRZ-7pNpf2BgagsZ10oDY4jRm4xq769zn2Yw.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Here’s one of several pieces we made today.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bw4ut8/heres_one_of_several_pieces_we_made_today/"
+}

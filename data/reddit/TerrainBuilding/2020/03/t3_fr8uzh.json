@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4d7by83w",
+    "name": "megasignit"
+  },
+  "date": {
+    "day": 1585440000,
+    "full": 1585500416,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_fr8uzh",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/du6ifpk85np41.jpg?auto=webp&s=3eda5e5500ee76c704478e2da9a6f3d9fdb377aa",
+    "preview": "https://preview.redd.it/du6ifpk85np41.jpg?width=640&crop=smart&auto=webp&s=b32e1e44b5496837f7be1d56315bd05d1847b031",
+    "thumbnail": "https://a.thumbs.redditmedia.com/_hZm2NKyvJrvNOqTFmDcWIArqrwOnklFFCH3FCKeWQ8.jpg"
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 429,
+    "value": 429
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Making a state of my kitchen table. A modular state nonetheless",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fr8uzh/making_a_state_of_my_kitchen_table_a_modular/"
+}

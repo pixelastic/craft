@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_s7bcs8v",
+    "name": "BabarianParade"
+  },
+  "date": {
+    "day": 1517270400,
+    "full": 1517351876,
+    "month": 1514764800,
+    "week": 1517097600
+  },
+  "id": "t3_7u4zr5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/wehl582n8ad01.jpg?auto=webp&s=c3d3823b3daff792600da9924cef307e120e29c1",
+    "preview": "https://preview.redd.it/wehl582n8ad01.jpg?width=640&crop=smart&auto=webp&s=e35528d4fb14c66fd968ed1674d61010b61fe696",
+    "thumbnail": "https://b.thumbs.redditmedia.com/7DjbcVharGsgS-Q23E30b_zzrih_Yzywv68JuDgKw1k.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 15,
+    "value": 15
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "*Update* Reaching the final stages, lessons learned, more to come in the week.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7u4zr5/update_reaching_the_final_stages_lessons_learned/"
+}

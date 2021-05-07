@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2qgko76z",
+    "name": "Ketkuli"
+  },
+  "date": {
+    "day": 1587945600,
+    "full": 1587988543,
+    "month": 1585699200,
+    "week": 1587859200
+  },
+  "id": "t3_g8zbri",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/fq37bgipncv41.jpg?auto=webp&s=865cb62c90a0132bbecee8d950cfcdedff468f03",
+    "preview": "https://preview.redd.it/fq37bgipncv41.jpg?width=640&crop=smart&auto=webp&s=0f4ba86099887ec83db608e3c690075d0a7752a8",
+    "thumbnail": "https://b.thumbs.redditmedia.com/QlMioHwZb1S5v7anmRQ9r8i5X6B7ZlqVtKLoE7OfxJM.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 152,
+    "value": 152
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First try at weathering",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g8zbri/first_try_at_weathering/"
+}

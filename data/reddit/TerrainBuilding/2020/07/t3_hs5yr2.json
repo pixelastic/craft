@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_13tqlu",
+    "name": "Maketus"
+  },
+  "date": {
+    "day": 1594857600,
+    "full": 1594888297,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hs5yr2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/if6561k7k6b51.jpg?auto=webp&s=84890b3eac35632be8040482e1d21d89ee121f53",
+    "preview": "https://preview.redd.it/if6561k7k6b51.jpg?width=640&crop=smart&auto=webp&s=701e32a6e443174c7d4f6fad93062ad32a85934c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/oILSGebW2rn-w_eudnML6hTh-OjI6czH_T2uao-Fi9s.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A Shack to Eastern Front",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hs5yr2/a_shack_to_eastern_front/"
+}

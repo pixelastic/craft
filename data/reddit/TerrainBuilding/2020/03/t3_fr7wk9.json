@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5adb1swe",
+    "name": "Loose-Ingenuity"
+  },
+  "date": {
+    "day": 1585440000,
+    "full": 1585496926,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_fr7wk9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/k1kiqcstump41.jpg?auto=webp&s=715c111f911873587c86c058003cf74ec2805a8f",
+    "preview": "https://preview.redd.it/k1kiqcstump41.jpg?width=640&crop=smart&auto=webp&s=42c4631e3c985f750ee2450aedceec64ed3d0fea",
+    "thumbnail": "https://b.thumbs.redditmedia.com/f_6vGeygQNX31Vjk5U3zSAgb2WA2BKwb7hLUzsDG-qQ.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 97,
+    "value": 97
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Primitive tent on a distant planet",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fr7wk9/primitive_tent_on_a_distant_planet/"
+}

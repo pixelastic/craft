@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_118hpu",
+    "name": "Vullgaren"
+  },
+  "date": {
+    "day": 1507507200,
+    "full": 1507542047,
+    "month": 1506816000,
+    "week": 1507420800
+  },
+  "id": "t3_7580bb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/tlr5pefzyrqz.jpg?auto=webp&s=f3337f04d6ed89b4f523af2ee72bbd16e12ce6c0",
+    "preview": "https://preview.redd.it/tlr5pefzyrqz.jpg?width=640&crop=smart&auto=webp&s=d4b854fff779ebfadb1b7a725af0dd6103a3af5f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/nYZgtdKSOynumFApLM169vsJtiRgq5bhsxIdMPJQmpw.jpg"
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I know this could be something!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7580bb/i_know_this_could_be_something/"
+}

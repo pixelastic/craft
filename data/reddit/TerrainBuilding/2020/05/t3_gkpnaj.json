@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_obm1zl",
+    "name": "Skylord_Zantharan"
+  },
+  "date": {
+    "day": 1589587200,
+    "full": 1589608686,
+    "month": 1588291200,
+    "week": 1589068800
+  },
+  "id": "t3_gkpnaj",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/eutymu28h2z41.jpg?auto=webp&s=7443a3c2c1db4bf19e9b94d9e515ed34efa2e701",
+    "preview": "https://preview.redd.it/eutymu28h2z41.jpg?width=640&crop=smart&auto=webp&s=02fb4322136cfdfc244d471354fda3b98a8ce94a",
+    "thumbnail": "https://a.thumbs.redditmedia.com/lVbI7vtzPmyuBLmLSxFxnBEb_1U_zKO-Q0ivLiba1G4.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Goo-Refinery Output Nozzle",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gkpnaj/the_goorefinery_output_nozzle/"
+}

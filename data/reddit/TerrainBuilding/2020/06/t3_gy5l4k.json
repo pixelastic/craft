@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1591488000,
+    "full": 1591502796,
+    "month": 1590969600,
+    "week": 1591488000
+  },
+  "id": "t3_gy5l4k",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/OU46lYIwcUXkOWuhqvIloeOST7mAxawhCwe339siZLo.jpg?auto=webp&s=0275754f583c50ed13e5c7f63f7784a09eba792a",
+    "preview": "https://external-preview.redd.it/OU46lYIwcUXkOWuhqvIloeOST7mAxawhCwe339siZLo.jpg?width=640&crop=smart&auto=webp&s=bd64aad31c176abf5d9d027b83c2c87ccd350470",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 23,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Competition is over!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gy5l4k/the_competition_is_over/"
+}

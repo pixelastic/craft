@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2s29wfsk",
+    "name": "Borabador"
+  },
+  "date": {
+    "day": 1590710400,
+    "full": 1590789540,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gt28gx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/q5o22zhi0s151.jpg?auto=webp&s=42f2e4cf6a150755f18fd2768c202875996e8adb",
+    "preview": "https://preview.redd.it/q5o22zhi0s151.jpg?width=640&crop=smart&auto=webp&s=ab69266aed77c5f3952e11011346fd2e6d72ee21",
+    "thumbnail": "https://b.thumbs.redditmedia.com/29thYkTX5np1YlhuN0evZOLpxXQYMUaLtuigDVaGt_s.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "An art installation WIP, heavily inspired by terrain building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gt28gx/an_art_installation_wip_heavily_inspired_by/"
+}

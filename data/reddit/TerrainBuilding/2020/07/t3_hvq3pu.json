@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_12etaq",
+    "name": "Yaggernautic"
+  },
+  "date": {
+    "day": 1595376000,
+    "full": 1595406801,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hvq3pu",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/pvappnytddc51.png?auto=webp&s=66a254ad49a3ce8ce1a9532e261e7a2aff51d7e7",
+    "preview": "https://preview.redd.it/pvappnytddc51.png?width=640&crop=smart&auto=webp&s=f183c247ea2393d761525547dc701d6e340161d5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qQpaoWxDKA-DJ5QDs2mkmYByY3m4mr-DpmMG6hme06Q.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 91,
+    "value": 91
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Workshop Building for Terrain Building.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hvq3pu/workshop_building_for_terrain_building/"
+}

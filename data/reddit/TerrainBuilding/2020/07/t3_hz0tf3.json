@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3nsyvtmn",
+    "name": "bain2236"
+  },
+  "date": {
+    "day": 1595808000,
+    "full": 1595883774,
+    "month": 1593561600,
+    "week": 1595721600
+  },
+  "id": "t3_hz0tf3",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/SbhvVph-eB3Clb5aOOHNBFUoWhohgtTlTizefU3KBLI.png?format=pjpg&auto=webp&s=a812748e3c118d1bd303f46b750a623fcab2c99b",
+    "preview": "https://external-preview.redd.it/SbhvVph-eB3Clb5aOOHNBFUoWhohgtTlTizefU3KBLI.png?width=640&crop=smart&format=pjpg&auto=webp&s=1b45e7bfa2f1363690da5b7e46007dd9380bbc45",
+    "thumbnail": "https://a.thumbs.redditmedia.com/z3yrk5wnmoL0CFjvJOfbGozYZ6oA4qDMLSrc1TTS0Q8.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 106,
+    "value": 106
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First piece of terrain painted up, printed on anycubic photon. Time to do some proper terrain builds now",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hz0tf3/first_piece_of_terrain_painted_up_printed_on/"
+}

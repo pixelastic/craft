@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_xpfbc",
+    "name": "tombeardo"
+  },
+  "date": {
+    "day": 1574294400,
+    "full": 1574345861,
+    "month": 1572566400,
+    "week": 1573948800
+  },
+  "id": "t3_dzjx7r",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/f5tphip0t1041.jpg?auto=webp&s=82ed92d50b699b8a64eeed0eb2dc26a944491071",
+    "preview": "https://preview.redd.it/f5tphip0t1041.jpg?width=640&crop=smart&auto=webp&s=1d3c7c27eaec18b1bb4fc1b67568309350e49ffb",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Cvjmvyc3UUdMhJEZPDktlsdg-ODywlNokrTHlocOA2M.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP Dwarven Ruins terrain for Dungeon Pegs",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dzjx7r/wip_dwarven_ruins_terrain_for_dungeon_pegs/"
+}

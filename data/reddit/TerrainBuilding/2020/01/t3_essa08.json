@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4mwi2m2o",
+    "name": "CountKofod"
+  },
+  "date": {
+    "day": 1579737600,
+    "full": 1579781793,
+    "month": 1577836800,
+    "week": 1579392000
+  },
+  "id": "t3_essa08",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/twgiqf3usic41.jpg?auto=webp&s=e5ff5b507ba5a50ac5b980259ddbdf284637a1cb",
+    "preview": "https://preview.redd.it/twgiqf3usic41.jpg?width=640&crop=smart&auto=webp&s=e6c6a60c70c2968daf7d36d4636055a4e1b83e74",
+    "thumbnail": "https://b.thumbs.redditmedia.com/_4lEjs25hzFcxcdlxTTwpfltmAmic5Hd-00ulphnYLQ.jpg"
+  },
+  "score": {
+    "comments": 14,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 429,
+    "value": 429
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some quick scatter terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/essa08/some_quick_scatter_terrain/"
+}

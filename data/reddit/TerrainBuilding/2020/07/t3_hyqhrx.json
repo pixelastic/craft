@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16ghk9",
+    "name": "BlackPeeper"
+  },
+  "date": {
+    "day": 1595808000,
+    "full": 1595849072,
+    "month": 1593561600,
+    "week": 1595721600
+  },
+  "id": "t3_hyqhrx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/fyzcaouxwdd51.jpg?auto=webp&s=1727fc0e5ff78bfa5b8bddec276c77dbffc96b58",
+    "preview": "https://preview.redd.it/fyzcaouxwdd51.jpg?width=640&crop=smart&auto=webp&s=9bb9963b375097bdaa6040695c2b2346ca02ac46",
+    "thumbnail": "https://b.thumbs.redditmedia.com/r5WGufGBtnxtf2HcTrC0bzYcWFDbpGkCBObe6K7SFFo.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 485,
+    "value": 485
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first \"serious\" building, for dnd tho it looks like 40k",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hyqhrx/my_first_serious_building_for_dnd_tho_it_looks/"
+}

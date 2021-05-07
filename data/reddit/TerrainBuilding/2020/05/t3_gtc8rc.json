@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ybb9g",
+    "name": "gedarian"
+  },
+  "date": {
+    "day": 1590796800,
+    "full": 1590835009,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gtc8rc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/p5uojw5qrv151.jpg?auto=webp&s=a918bfd3f7fa8009ddb8d3c57b09eec6a42288cb",
+    "preview": "https://preview.redd.it/p5uojw5qrv151.jpg?width=640&crop=smart&auto=webp&s=7aa6a3b1b0796b53015bc1d92a68572dcd5b4537",
+    "thumbnail": "https://b.thumbs.redditmedia.com/rqlphD_X9xxur4b4mKDN0QY-b6VxPgQM_7DoTyyrP4U.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 92,
+    "value": 92
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Guard barracks",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gtc8rc/guard_barracks/"
+}

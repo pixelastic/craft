@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1594512000,
+    "full": 1594588296,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hq25t0",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3djq7133sha51.jpg?auto=webp&s=0ae8db2cc8cbb5f72e5f5c2ef0d7d68b7aa7bad2",
+    "preview": "https://preview.redd.it/3djq7133sha51.jpg?width=640&crop=smart&auto=webp&s=b500427abb95493290906eb1021a307a82e9e83d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/GDPG8hRMKqHpEicOy9Ym8TGEyfkii6H1jz9laCQ5QTI.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Printing some interior details",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hq25t0/printing_some_interior_details/"
+}

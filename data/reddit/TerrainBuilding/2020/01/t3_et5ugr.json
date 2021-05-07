@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ou4bfv7",
+    "name": "Lugzor"
+  },
+  "date": {
+    "day": 1579824000,
+    "full": 1579843326,
+    "month": 1577836800,
+    "week": 1579392000
+  },
+  "id": "t3_et5ugr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ac9c04osvnc41.jpg?auto=webp&s=265a630dfb35016359656471bac9679426a8589a",
+    "preview": "https://preview.redd.it/ac9c04osvnc41.jpg?width=640&crop=smart&auto=webp&s=eae93a303ec4426932659d6eabc0b96c7e8d5b21",
+    "thumbnail": "https://a.thumbs.redditmedia.com/t1YVmlVsLZg6ADgOepJfN-brBqPZiurOCJF5Vl-cwm4.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Forward base WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/et5ugr/forward_base_wip/"
+}

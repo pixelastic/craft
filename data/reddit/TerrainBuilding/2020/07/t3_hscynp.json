@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5e1ct",
+    "name": "Ralltir"
+  },
+  "date": {
+    "day": 1594857600,
+    "full": 1594917578,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hscynp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3k89mpm5z8b51.jpg?auto=webp&s=e3030f244c140e52579f88eb0d64a63d9a3fb57b",
+    "preview": "https://preview.redd.it/3k89mpm5z8b51.jpg?width=640&crop=smart&auto=webp&s=4ca59c4929ad8f871e6534fc9b0d0d6b6c5a1fb2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/g_yN7PFM9gZuO7DsWxhKJtSv63CziaHr4Y9clcUpzCI.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My fully playable, 2 level ship",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hscynp/my_fully_playable_2_level_ship/"
+}

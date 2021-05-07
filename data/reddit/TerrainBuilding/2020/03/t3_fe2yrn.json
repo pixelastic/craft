@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11492zep",
+    "name": "OneArchitekt"
+  },
+  "date": {
+    "day": 1583366400,
+    "full": 1583445709,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fe2yrn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/duppfzkjfxk41.jpg?auto=webp&s=063811d4cbfa8872d41e384c89877dd9bbefe487",
+    "preview": "https://preview.redd.it/duppfzkjfxk41.jpg?width=640&crop=smart&auto=webp&s=9f076799766d977ea2d12381a745e3c2625ae629",
+    "thumbnail": "https://b.thumbs.redditmedia.com/boLVg2yeiUTW8dfwBexzsh8gK2T5gMeTfbJNYMXAPBc.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 155,
+    "value": 155
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Hey I’ve been working on my own game for a while and as part of the development of that I had to come up with a way to make a lot of really cheap terrain. Then realised a simple upscale would make it suitable for other games, couple of weeks of experimentation and prototypes finished.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fe2yrn/hey_ive_been_working_on_my_own_game_for_a_while/"
+}

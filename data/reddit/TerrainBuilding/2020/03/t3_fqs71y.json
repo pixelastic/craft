@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_y6gja",
+    "name": "Tenurion"
+  },
+  "date": {
+    "day": 1585353600,
+    "full": 1585428403,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fqs71y",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/fpdlxqj37hp41.jpg?auto=webp&s=ffd1d13e700455fcf18f26d3710c1efa88acc952",
+    "preview": "https://preview.redd.it/fpdlxqj37hp41.jpg?width=640&crop=smart&auto=webp&s=faa36b032e59b76e5160383e5eef71889184abc5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/cdvV0TqjImirLCUCqc6ArVfePWXsWFUmp5HTaCw5OiM.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My latest blitz project some scatter ruins.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fqs71y/my_latest_blitz_project_some_scatter_ruins/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_33u00",
+    "name": "roflo1"
+  },
+  "date": {
+    "day": 1523491200,
+    "full": 1523551417,
+    "month": 1522540800,
+    "week": 1523145600
+  },
+  "id": "t3_8brm3k",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/h0o4v902bir01.jpg?auto=webp&s=5a43511d22aff0f9b70ce729f7eb5ee02fa4bd54",
+    "preview": "https://preview.redd.it/h0o4v902bir01.jpg?width=640&crop=smart&auto=webp&s=b40a312f47042db64f35882007e09924f7f72482",
+    "thumbnail": "https://a.thumbs.redditmedia.com/yQA6ERRryJc1IwwKEahvGAdyGjgTg5-njU7Fjuo7UF8.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A ruined house",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8brm3k/a_ruined_house/"
+}

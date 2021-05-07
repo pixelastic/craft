@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4s1rk2fb",
+    "name": "changobongo1"
+  },
+  "date": {
+    "day": 1601337600,
+    "full": 1601408163,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j26hl4",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/jnpfrpy435q51.jpg?auto=webp&s=d985b94987ab36a79027eaf1405593ffb80abc9c",
+    "preview": "https://preview.redd.it/jnpfrpy435q51.jpg?width=640&crop=smart&auto=webp&s=1a7fc2e00e867399ceb65f45d47bb1fe37d6cbcc",
+    "thumbnail": "https://b.thumbs.redditmedia.com/CaKI4bcapqbrQMrG9yipSzS0yRDePvx6GnU7NiT7X5U.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A bit of dry brushing to make it pop",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j26hl4/a_bit_of_dry_brushing_to_make_it_pop/"
+}

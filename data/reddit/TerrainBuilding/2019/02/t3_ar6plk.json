@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ggmkq",
+    "name": "Apachiie"
+  },
+  "date": {
+    "day": 1550275200,
+    "full": 1550303472,
+    "month": 1548979200,
+    "week": 1549756800
+  },
+  "id": "t3_ar6plk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/p0qlj0ijyvg21.jpg?auto=webp&s=e6f9f8044aeb0df04007cb46525101719afbf6c4",
+    "preview": "https://preview.redd.it/p0qlj0ijyvg21.jpg?width=640&crop=smart&auto=webp&s=f347c3c62b88681056a69141791e27d5ba0cfc97",
+    "thumbnail": "https://b.thumbs.redditmedia.com/gc_hfSIG8o4tWrEaHbo0xcJzxz2J5G42jsr1myYMiIQ.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally got my dedicated workspace for terrain crafting!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ar6plk/finally_got_my_dedicated_workspace_for_terrain/"
+}

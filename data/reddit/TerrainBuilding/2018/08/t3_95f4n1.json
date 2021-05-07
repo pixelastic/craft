@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4miib",
+    "name": "WhosTheBossk"
+  },
+  "date": {
+    "day": 1533600000,
+    "full": 1533672606,
+    "month": 1533081600,
+    "week": 1533427200
+  },
+  "id": "t3_95f4n1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/gvkehqsjaqe11.jpg?auto=webp&s=7d00f770a7bbae2651f3278e7fbf1142856f172d",
+    "preview": "https://preview.redd.it/gvkehqsjaqe11.jpg?width=640&crop=smart&auto=webp&s=d28fabe7b11f1ec798639038867078347ff129c0",
+    "thumbnail": "https://b.thumbs.redditmedia.com/RUujk5TzLMBMY1wFp8gJrqVEhB6eb1BejgiXJqVsr3c.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 123,
+    "value": 123
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "In progress building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/95f4n1/in_progress_building/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_nv371cd",
+    "name": "scrimhog"
+  },
+  "date": {
+    "day": 1564272000,
+    "full": 1564276039,
+    "month": 1561939200,
+    "week": 1564272000
+  },
+  "id": "t3_cipmh9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vb2rv3p52yc31.png?auto=webp&s=5afeac824d14df23abc75b69d5df0a9cf2bae206",
+    "preview": "https://preview.redd.it/vb2rv3p52yc31.png?width=640&crop=smart&auto=webp&s=8d4c3e919c0ced8240222d98bfbdaacda256c598",
+    "thumbnail": "https://b.thumbs.redditmedia.com/GltZeRYZ8YCgjDHwDY4mwrUVVbXuC5qNOHpqlIV4ILs.jpg"
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 322,
+    "value": 322
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at some foamboard and insulation foam terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cipmh9/first_attempt_at_some_foamboard_and_insulation/"
+}

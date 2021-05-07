@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_g7n2z",
+    "name": "OneTrueShade"
+  },
+  "date": {
+    "day": 1549152000,
+    "full": 1549152669,
+    "month": 1548979200,
+    "week": 1549152000
+  },
+  "id": "t3_amk643",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vqn8lecnw8e21.jpg?auto=webp&s=5b362becef70020955d95dd88608bcf393a6ecbe",
+    "preview": "https://preview.redd.it/vqn8lecnw8e21.jpg?width=640&crop=smart&auto=webp&s=38e5cf9312b6228e590516779d8edf04a2cb10ec",
+    "thumbnail": "https://a.thumbs.redditmedia.com/yOHYxvBl90x3yTviqlmT2HVEGAQ3h1Po0Pfq8VIEUg8.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My modular tiles for D&D",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/amk643/my_modular_tiles_for_dd/"
+}

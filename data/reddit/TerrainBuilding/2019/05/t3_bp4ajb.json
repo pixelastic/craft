@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11ib6j",
+    "name": "MansionsOfRest"
+  },
+  "date": {
+    "day": 1557878400,
+    "full": 1557957853,
+    "month": 1556668800,
+    "week": 1557619200
+  },
+  "id": "t3_bp4ajb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/poowf5927gy21.jpg?auto=webp&s=fb122dff68eb2700dc755c781e8b30325696d8de",
+    "preview": "https://preview.redd.it/poowf5927gy21.jpg?width=640&crop=smart&auto=webp&s=ce619bd65fc05ed7ffeb24f222d28ecf8c6b70fa",
+    "thumbnail": "https://b.thumbs.redditmedia.com/bhuiS2MPZPQPhORVA-1h3UkXvdUwp4ELZG58cc1VkTA.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 542,
+    "value": 542
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Waffle scatter terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bp4ajb/waffle_scatter_terrain/"
+}

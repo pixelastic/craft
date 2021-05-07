@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_il99z2m",
+    "name": "tmcsoccer"
+  },
+  "date": {
+    "day": 1584403200,
+    "full": 1584480051,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_fkdcjf",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/oykj72s5van41.jpg?auto=webp&s=e780ed601408b90bccde4b0f93afb51225b8be21",
+    "preview": "https://preview.redd.it/oykj72s5van41.jpg?width=640&crop=smart&auto=webp&s=b9fc32717eb538983c8398048ded95fd7104e110",
+    "thumbnail": "https://b.thumbs.redditmedia.com/dh_hCRZi84_fEmbIKjJQYYL2-yCMPa1Y29MhNm3gqyQ.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 114,
+    "value": 114
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Experimenting with shingles!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fkdcjf/experimenting_with_shingles/"
+}

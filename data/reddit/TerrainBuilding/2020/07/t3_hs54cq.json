@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1594857600,
+    "full": 1594883553,
+    "month": 1593561600,
+    "week": 1594512000
+  },
+  "id": "t3_hs54cq",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6dhgg5h466b51.jpg?auto=webp&s=b98bdf3b65371fa593ae408e46e152e96d48c80e",
+    "preview": "https://preview.redd.it/6dhgg5h466b51.jpg?width=640&crop=smart&auto=webp&s=ce5c6ad3a993011fc966b45a07fbd94be774bfd3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Fm_HD8cUDK8-GWnXM-IXLMYNSaXjoqcGTlow-iH98MU.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 98,
+    "value": 98
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Monument of the Grimnir the Fearless.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hs54cq/monument_of_the_grimnir_the_fearless/"
+}

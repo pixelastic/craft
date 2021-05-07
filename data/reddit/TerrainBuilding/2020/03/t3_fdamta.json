@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_13tqlu",
+    "name": "Maketus"
+  },
+  "date": {
+    "day": 1583280000,
+    "full": 1583314402,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fdamta",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/o5JmEGXT6u_5oqyyk-3yYEsHq_VHrSWfXNJfRtR63Og.png?format=pjpg&auto=webp&s=a15c48024414d07c6d6304c8703d3821d094756a",
+    "preview": "https://external-preview.redd.it/o5JmEGXT6u_5oqyyk-3yYEsHq_VHrSWfXNJfRtR63Og.png?width=640&crop=smart&format=pjpg&auto=webp&s=3f51d4a949fc3897beab3d824a148cad58e4c281",
+    "thumbnail": "https://b.thumbs.redditmedia.com/znO6jmelZEi18KBl1-_gmX0gkCBMDHDSxmnTrd0kJGg.jpg"
+  },
+  "score": {
+    "comments": 61,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 1235,
+    "value": 1235
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My Gaming table",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fdamta/my_gaming_table/"
+}

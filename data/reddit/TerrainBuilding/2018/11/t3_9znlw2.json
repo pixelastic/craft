@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_b9bm3",
+    "name": "CabbagesAndSprouts"
+  },
+  "date": {
+    "day": 1542931200,
+    "full": 1542973271,
+    "month": 1541030400,
+    "week": 1542499200
+  },
+  "id": "t3_9znlw2",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/nmmAONv7-YrX4OaFeMDymQIZbX5ok8vs67V-ZQlNR3o.jpg?auto=webp&s=f40a237b279f34bc0ba11ce6543bc6aed556a195",
+    "preview": "https://external-preview.redd.it/nmmAONv7-YrX4OaFeMDymQIZbX5ok8vs67V-ZQlNR3o.jpg?width=640&crop=smart&auto=webp&s=519f5661763b29e61eadd6432ac48dfdaffdf05c",
+    "thumbnail": "https://a.thumbs.redditmedia.com/KiB-dd1FEjASEy-9mwO7TcNCeefq67laobyv8RAU0h4.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First exploration with constructing a Chapel for 3D Printing",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9znlw2/first_exploration_with_constructing_a_chapel_for/"
+}

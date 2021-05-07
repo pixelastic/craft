@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2oslz8gn",
+    "name": "Coloneloscoppy"
+  },
+  "date": {
+    "day": 1603756800,
+    "full": 1603832445,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_jj9ts3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/haey0ptrbpv51.jpg?auto=webp&s=287dc07f3b85877a9c7fff6786f1182ab5ade6e1",
+    "preview": "https://preview.redd.it/haey0ptrbpv51.jpg?width=640&crop=smart&auto=webp&s=8e23ff296eb7df7b33a948acaddbd45b3fbe1e1a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ViWb85Pt1yM7VayVyE2C0tiyX2VBAq5aVeqlH7zJy9M.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Simple modular Dungeon Tile system. 3 different pieces can make so many different layouts.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jj9ts3/simple_modular_dungeon_tile_system_3_different/"
+}

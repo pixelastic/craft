@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_h0141",
+    "name": "Zulathan"
+  },
+  "date": {
+    "day": 1571356800,
+    "full": 1571418508,
+    "month": 1569888000,
+    "week": 1570924800
+  },
+  "id": "t3_djqi03",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/s5isxqxh0ct31.jpg?auto=webp&s=b8f84b59412b5692ecf60e758c9cf29580e217fb",
+    "preview": "https://preview.redd.it/s5isxqxh0ct31.jpg?width=640&crop=smart&auto=webp&s=0071ed06de4273473357520ae219fad9a27d7b78",
+    "thumbnail": "https://b.thumbs.redditmedia.com/FnomDLjdhvO-FdCSslzi_mbwvsOBxH7EdrM7DX2wr4s.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 83,
+    "value": 83
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building this from the ground up with no plans. Should've maybe though of windows at an earlier stage...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/djqi03/building_this_from_the_ground_up_with_no_plans/"
+}

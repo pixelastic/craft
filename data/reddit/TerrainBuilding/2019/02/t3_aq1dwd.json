@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_gnepj",
+    "name": "xzzane"
+  },
+  "date": {
+    "day": 1550016000,
+    "full": 1550023902,
+    "month": 1548979200,
+    "week": 1549756800
+  },
+  "id": "t3_aq1dwd",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3yhg8wicv8g21.jpg?auto=webp&s=a2e5468e1ed1da566c335f85f3bf78d0ff293c87",
+    "preview": "https://preview.redd.it/3yhg8wicv8g21.jpg?width=640&crop=smart&auto=webp&s=03156caa156a5a4199e3b76e6674fedf89e96be3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/KSI7SFTvm5A7zFIjiKhgOL8_Yb2uRvEauh19mc6KvEo.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aq1dwd/wip/"
+}

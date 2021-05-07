@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_j8g80",
+    "name": "maydae503"
+  },
+  "date": {
+    "day": 1599264000,
+    "full": 1599322719,
+    "month": 1598918400,
+    "week": 1598745600
+  },
+  "id": "t3_in3vv3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0uke7sd1ucl51.jpg?auto=webp&s=b2948b334900cffb77ea82448afc2aa8e423cf9c",
+    "preview": "https://preview.redd.it/0uke7sd1ucl51.jpg?width=640&crop=smart&auto=webp&s=e41816abd43f1f12b26c50a0f3a0454f99e2a4e5",
+    "thumbnail": "https://a.thumbs.redditmedia.com/TWnVW70LSDB8le926gyO2srQJhRxQ8zPFnGnYOYXRW0.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at making terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/in3vv3/my_first_attempt_at_making_terrain/"
+}

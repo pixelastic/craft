@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_tx1io",
+    "name": "juhitsome"
+  },
+  "date": {
+    "day": 1611187200,
+    "full": 1611239315,
+    "month": 1609459200,
+    "week": 1610841600
+  },
+  "id": "t3_l1zgxt",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/a64ti2e44pc61.jpg?auto=webp&s=60a0e7d8a9d13a1c8b557bf2520ff650dda474c3",
+    "preview": "https://preview.redd.it/a64ti2e44pc61.jpg?width=640&crop=smart&auto=webp&s=0a153ce938a2f50b8696cec5e4e095ab21175d97",
+    "thumbnail": "https://b.thumbs.redditmedia.com/kPihK_-e30BMoRHyFij-fmHpKi_PD_yEvYWehXk2azg.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dice Tower",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/l1zgxt/dice_tower/"
+}

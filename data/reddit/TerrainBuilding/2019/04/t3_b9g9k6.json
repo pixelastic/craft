@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5tdo2",
+    "name": "weinermd"
+  },
+  "date": {
+    "day": 1554336000,
+    "full": 1554401703,
+    "month": 1554076800,
+    "week": 1553990400
+  },
+  "id": "t3_b9g9k6",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/xW-6XTrI_g44DnMdZUPUfBSjWITJ4UIdKG4Z9Arm7vk.jpg?auto=webp&s=4e62c86b822fe6ae5acd4d9c29b31fc83aee4b93",
+    "preview": "https://external-preview.redd.it/xW-6XTrI_g44DnMdZUPUfBSjWITJ4UIdKG4Z9Arm7vk.jpg?width=640&crop=smart&auto=webp&s=090daeab18ac6cde6affb2521d003b0cc555001b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/IvGiWv2oQQIt_pRgav9ZZ-aq7TfZ4g48pTr6txL0isE.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 54,
+    "value": 54
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scatter terrain for Frostgrave.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/b9g9k6/scatter_terrain_for_frostgrave/"
+}

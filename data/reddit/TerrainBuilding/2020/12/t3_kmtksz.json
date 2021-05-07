@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dask2",
+    "name": "taboozombie"
+  },
+  "date": {
+    "day": 1609286400,
+    "full": 1609297482,
+    "month": 1606780800,
+    "week": 1609027200
+  },
+  "id": "t3_kmtksz",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/g9ox1xq4q8861.jpg?auto=webp&s=0459f59b92d64b3d0fef4c5a4c3d0998385997a0",
+    "preview": "https://preview.redd.it/g9ox1xq4q8861.jpg?width=640&crop=smart&auto=webp&s=f50df1e475f065f54628db6acddc1c899c020cea",
+    "thumbnail": "https://a.thumbs.redditmedia.com/L7fWJjmDwdNB6LaEXT157MIwDbvnyJeTk50r8Co3kh8.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 14,
+    "value": 14
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tips for this piece?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kmtksz/tips_for_this_piece/"
+}

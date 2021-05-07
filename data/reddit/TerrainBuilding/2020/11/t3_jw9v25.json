@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_o0khg",
+    "name": "omalike"
+  },
+  "date": {
+    "day": 1605657600,
+    "full": 1605676625,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jw9v25",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/56clz1ognxz51.jpg?auto=webp&s=67cdd2f9c3c8c87972eddbf3030309e6d8e0074b",
+    "preview": "https://preview.redd.it/56clz1ognxz51.jpg?width=640&crop=smart&auto=webp&s=350600e90d62674479402100a80c5b176bfdfa9d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/28NOn8pwl39JUz-GHYE7ODo103kONAmuoYzc8uGUk7o.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 59,
+    "value": 59
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at an autumn tree!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jw9v25/my_first_attempt_at_an_autumn_tree/"
+}

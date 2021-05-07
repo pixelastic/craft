@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_30pi1aiy",
+    "name": "greedo102515"
+  },
+  "date": {
+    "day": 1608336000,
+    "full": 1608405700,
+    "month": 1606780800,
+    "week": 1607817600
+  },
+  "id": "t3_kgeb1b",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/b6jpnxje27661.jpg?auto=webp&s=f0aec3dd5dfbc112a2c5086c9455598d1d558fb3",
+    "preview": "https://preview.redd.it/b6jpnxje27661.jpg?width=640&crop=smart&auto=webp&s=a13c2461f2c0e71a4c818c7e2472172dbf22f794",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Y1BV3VmsmwayivrxlcensF8KewzGhUgBVTqRYBhxTmk.jpg"
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 86,
+    "value": 86
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "What do you do with this?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kgeb1b/what_do_you_do_with_this/"
+}

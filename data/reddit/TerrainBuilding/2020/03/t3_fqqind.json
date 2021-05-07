@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11kjnh",
+    "name": "c0y0t3_sly"
+  },
+  "date": {
+    "day": 1585353600,
+    "full": 1585423083,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_fqqind",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/w057i46argp41.jpg?auto=webp&s=7d8b0e4789e0855000b9173b53f85b701e6a4921",
+    "preview": "https://preview.redd.it/w057i46argp41.jpg?width=640&crop=smart&auto=webp&s=0f8c09c035628894f01b962617a1f39e06734c87",
+    "thumbnail": "https://b.thumbs.redditmedia.com/FARBoX1XX_55TA--ZEQTC6z-CTNQEdYyDLQoQ4G-PhE.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test piece - goblin tent made from hides",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fqqind/test_piece_goblin_tent_made_from_hides/"
+}

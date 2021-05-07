@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16ycovb",
+    "name": "tiny_architect"
+  },
+  "date": {
+    "day": 1546905600,
+    "full": 1546918287,
+    "month": 1546300800,
+    "week": 1546732800
+  },
+  "id": "t3_adq1ve",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/2tb4xqlrc4921.jpg?auto=webp&s=a82a2d6444ba33dcfb59d6e22769d541384e3dea",
+    "preview": "https://preview.redd.it/2tb4xqlrc4921.jpg?width=640&crop=smart&auto=webp&s=ba38571ee750f1911d922fe77efc7675cd87e654",
+    "thumbnail": "https://a.thumbs.redditmedia.com/TgQRhgHlPleo5ns_lNSzU5vxxzA-JuYQJ2hRmKhOO04.jpg"
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 39,
+    "value": 39
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first wargaming table",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/adq1ve/my_first_wargaming_table/"
+}

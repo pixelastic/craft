@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3ekzvr69",
+    "name": "SunkenPayload"
+  },
+  "date": {
+    "day": 1583280000,
+    "full": 1583360298,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fdkvdg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xb0d9g3idqk41.jpg?auto=webp&s=b70e5efbfba67355c8ce4b166495367fea0134c8",
+    "preview": "https://preview.redd.it/xb0d9g3idqk41.jpg?width=640&crop=smart&auto=webp&s=17f4531580db29f7a1ef0356535ca354d30994cc",
+    "thumbnail": "https://b.thumbs.redditmedia.com/L4R7l3WAcNVWLQIEEQvmGw26_1DurkCBTHB1OxBgN8Y.jpg"
+  },
+  "score": {
+    "comments": 19,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 749,
+    "value": 749
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Crystal Patch!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fdkvdg/the_crystal_patch/"
+}

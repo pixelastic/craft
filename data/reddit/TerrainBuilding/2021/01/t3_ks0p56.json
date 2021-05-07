@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1edpb8lk",
+    "name": "billboardben2113"
+  },
+  "date": {
+    "day": 1609977600,
+    "full": 1609977645,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_ks0p56",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/td47yyhlws961.jpg?auto=webp&s=640a41232204796189b8e5e2ecef1de79ada50b8",
+    "preview": "https://preview.redd.it/td47yyhlws961.jpg?width=640&crop=smart&auto=webp&s=d4631457f94eeeade7da3380933e28b2944d92cb",
+    "thumbnail": "https://b.thumbs.redditmedia.com/N6Emr8gzJqoT-TH0vpPIUg7kSkquHJZZGz-nQ2vgvMs.jpg"
+  },
+  "score": {
+    "comments": 38,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 965,
+    "value": 965
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Test piece for an upcoming jungle terrain set",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ks0p56/test_piece_for_an_upcoming_jungle_terrain_set/"
+}

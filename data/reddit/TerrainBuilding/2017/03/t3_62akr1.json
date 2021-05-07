@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_af61t",
+    "name": "televided"
+  },
+  "date": {
+    "day": 1490832000,
+    "full": 1490832877,
+    "month": 1488326400,
+    "week": 1490486400
+  },
+  "id": "t3_62akr1",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/-gmz1-2NM-Ih9dJNvSugkpAkJT-r2B9vC6vgGDyf0ws.jpg?auto=webp&s=b2eedd4e6ffbeb122cb8bef8f2342e8ceb6a758f",
+    "preview": "https://external-preview.redd.it/-gmz1-2NM-Ih9dJNvSugkpAkJT-r2B9vC6vgGDyf0ws.jpg?width=640&crop=smart&auto=webp&s=8c3f8fc6384ad6d76178ddf1e6c56cef59e7eb3b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uwvVCa52HEBcBHu-ZjUIl2gTVHb1vDp1Xy9aFt1Ibzk.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 76,
+    "value": 76
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some terrain I built using spray foam & pink insulation foam. Treelord for scale.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/62akr1/some_terrain_i_built_using_spray_foam_pink/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_88snegma",
+    "name": "nihnah"
+  },
+  "date": {
+    "day": 1602460800,
+    "full": 1602466755,
+    "month": 1601510400,
+    "week": 1602374400
+  },
+  "id": "t3_j9hw4e",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/awzcefcviks51.jpg?auto=webp&s=527cec262bc695255eee7ee1b376d26f674edd1a",
+    "preview": "https://preview.redd.it/awzcefcviks51.jpg?width=640&crop=smart&auto=webp&s=be20a37dc224a69f69600eb570ad97a1b9b2c043",
+    "thumbnail": "https://b.thumbs.redditmedia.com/U2c2nXQJ9ZXHtyDZlM4Xf5FCWJ5B4hkhbTpE2GWq9nQ.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "This ones a little generic, but I was working on revising this piece to give it a better “organic” grid.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j9hw4e/this_ones_a_little_generic_but_i_was_working_on/"
+}

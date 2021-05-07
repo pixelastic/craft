@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ae6vkon",
+    "name": "gufted"
+  },
+  "date": {
+    "day": 1604102400,
+    "full": 1604132744,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_jleuja",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/dojxeykp4ew51.jpg?auto=webp&s=5b4824b8dadd0ff6fae332b556b96958b7bae1d5",
+    "preview": "https://preview.redd.it/dojxeykp4ew51.jpg?width=640&crop=smart&auto=webp&s=926cbc6d7fe6fa508c1498072f1c31a127de9c71",
+    "thumbnail": "https://a.thumbs.redditmedia.com/Zkg3cF6PqiBp8SDIUYqBr7-msHZxyAgEPGcIgRVvyb0.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 374,
+    "value": 374
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Just a hill made of cardboard.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jleuja/just_a_hill_made_of_cardboard/"
+}

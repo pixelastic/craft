@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4f2k145o",
+    "name": "goblin_bee"
+  },
+  "date": {
+    "day": 1582416000,
+    "full": 1582450648,
+    "month": 1580515200,
+    "week": 1582416000
+  },
+  "id": "t3_f87ekv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/j4ost0fn8ni41.jpg?auto=webp&s=6aa3bfa57f200fc7fe9dc48a221b5717e86a6b76",
+    "preview": "https://preview.redd.it/j4ost0fn8ni41.jpg?width=640&crop=smart&auto=webp&s=7d384a5c75243dced93f889d289b237413d5620b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/tSdjx79zx976VqbHBM9lwgSN6ca9MzT6mMCIphOq4-w.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 65,
+    "value": 65
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Please write your own tank pun",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f87ekv/please_write_your_own_tank_pun/"
+}

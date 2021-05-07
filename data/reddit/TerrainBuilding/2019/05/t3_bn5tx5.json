@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2zym4us7",
+    "name": "Scaled_Realm"
+  },
+  "date": {
+    "day": 1557532800,
+    "full": 1557533744,
+    "month": 1556668800,
+    "week": 1557014400
+  },
+  "id": "t3_bn5tx5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/z8w3itoy5hx21.jpg?auto=webp&s=bdc6fd1f86ae553ef8ec427fbcc0fab54ef5bd27",
+    "preview": "https://preview.redd.it/z8w3itoy5hx21.jpg?width=640&crop=smart&auto=webp&s=45fe5e4751dca5883a869480787c251d3c80fdd1",
+    "thumbnail": "https://b.thumbs.redditmedia.com/PTmYpOAjK4k964kEL4-ZgfrKYhOmZUFhvBTIyQHDnHs.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 340,
+    "value": 340
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Bazaar 🍡🍧",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bn5tx5/bazaar/"
+}

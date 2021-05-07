@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_xh08un4",
+    "name": "CaptHero"
+  },
+  "date": {
+    "day": 1597190400,
+    "full": 1597231280,
+    "month": 1596240000,
+    "week": 1596931200
+  },
+  "id": "t3_i8bxu2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/y2wia7qx2kg51.jpg?auto=webp&s=38724283dd6078b4685c1f21ee7259b45422c65d",
+    "preview": "https://preview.redd.it/y2wia7qx2kg51.jpg?width=640&crop=smart&auto=webp&s=59bdd137fb6f3a00e3ffe5cb34ea5f75e4c21fab",
+    "thumbnail": "https://b.thumbs.redditmedia.com/xQlPVuE621qhGEdYJlHBRiFrQi1FQ_SprJrmQO3JKcg.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at terrain building; a bunker with a removable roof. Really enjoyed the process and working on making enough terrain to play games at home.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/i8bxu2/my_first_attempt_at_terrain_building_a_bunker/"
+}

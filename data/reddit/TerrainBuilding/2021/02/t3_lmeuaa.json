@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_p84vz",
+    "name": "PM_ME_YOUR_PINOY"
+  },
+  "date": {
+    "day": 1613606400,
+    "full": 1613626427,
+    "month": 1612137600,
+    "week": 1613260800
+  },
+  "id": "t3_lmeuaa",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/iaicccraa6i61.jpg?auto=webp&s=2d969c3ee2ffe1c0526600931d1dd5c358366514",
+    "preview": "https://preview.redd.it/iaicccraa6i61.jpg?width=640&crop=smart&auto=webp&s=06e492c68c1b794d57676aeccc78987fed974984",
+    "thumbnail": "https://b.thumbs.redditmedia.com/5YcbG_Y1bYuUq5pi-GhCSls4Voh5E3aICIzyEfSj30Y.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Where can I find files for these terrain? (Or similar pieces)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lmeuaa/where_can_i_find_files_for_these_terrain_or/"
+}

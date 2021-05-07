@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3lgbcvek",
+    "name": "Najadem"
+  },
+  "date": {
+    "day": 1556582400,
+    "full": 1556617798,
+    "month": 1554076800,
+    "week": 1556409600
+  },
+  "id": "t3_bj1fst",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/txzaih1eidv21.jpg?auto=webp&s=fe2b967c13db211e2fa30a4eaf4b4f6bee5049c6",
+    "preview": "https://preview.redd.it/txzaih1eidv21.jpg?width=640&crop=smart&auto=webp&s=457c07216916de261a2005fce26e10c5ed4e8e4d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/pHNyA6WomDF-6cGGtbNPK--1z2K2cEcM6oZ4nf9w9KU.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A friend and I have been working on some polymere tavern decoration.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bj1fst/a_friend_and_i_have_been_working_on_some_polymere/"
+}

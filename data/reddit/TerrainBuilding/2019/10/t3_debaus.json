@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4dm6t",
+    "name": "Samurado91"
+  },
+  "date": {
+    "day": 1570320000,
+    "full": 1570404837,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_debaus",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/7x75hhj9a0r31.jpg?auto=webp&s=16e0e7e1fb768f2b10b3e8d10767d431e589791d",
+    "preview": "https://preview.redd.it/7x75hhj9a0r31.jpg?width=640&crop=smart&auto=webp&s=e5b52dc57af5eee57a07cde7ec3dca9b346e8284",
+    "thumbnail": "https://b.thumbs.redditmedia.com/9OrNUv8UQNuO_pCmro7YiYGlZ3JRzfvsIwNdnR-31Ow.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.86,
+    "ups": 17,
+    "value": 17
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "An update on my 2x2 infinity board, got the mesh and sand down!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/debaus/an_update_on_my_2x2_infinity_board_got_the_mesh/"
+}

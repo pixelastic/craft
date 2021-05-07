@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1xf4pssa",
+    "name": "NorthwesternGuy"
+  },
+  "date": {
+    "day": 1563235200,
+    "full": 1563284312,
+    "month": 1561939200,
+    "week": 1563062400
+  },
+  "id": "t3_cdx5s9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/dtyhh4sc5oa31.jpg?auto=webp&s=e77a8b6b78b3dad1df4eacc125a1867bf35e9738",
+    "preview": "https://preview.redd.it/dtyhh4sc5oa31.jpg?width=640&crop=smart&auto=webp&s=4ac87c167f03bb4bf940634cf20ddca95dc0a4be",
+    "thumbnail": "https://b.thumbs.redditmedia.com/-OT3NbxBB5sh9-U_3TUloSZQ3dk6KB08ZD_iifzBLNo.jpg"
+  },
+  "score": {
+    "comments": 24,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 442,
+    "value": 442
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The batch flocked and all done!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cdx5s9/the_batch_flocked_and_all_done/"
+}

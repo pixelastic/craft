@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ex92c",
+    "name": "alexcowles"
+  },
+  "date": {
+    "day": 1544832000,
+    "full": 1544867805,
+    "month": 1543622400,
+    "week": 1544313600
+  },
+  "id": "t3_a6e4dk",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/yyleyp8mze421.jpg?auto=webp&s=5d97acdfd244c3703a805c9c32732ffb2cbdbf8d",
+    "preview": "https://preview.redd.it/yyleyp8mze421.jpg?width=640&crop=smart&auto=webp&s=c4c39341de67d723d46cd80826b7e522be6dfadb",
+    "thumbnail": "https://b.thumbs.redditmedia.com/LLcuDd8kQKQYqcDfmkUi8nW2W5Dd6s0YVY8ihe1IKIM.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "It's a big base more than terrain, but it's also my first water piece and I'm relatively happy with how it turned out",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/a6e4dk/its_a_big_base_more_than_terrain_but_its_also_my/"
+}

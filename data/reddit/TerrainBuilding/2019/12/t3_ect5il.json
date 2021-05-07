@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8z4hp",
+    "name": "Biggs180"
+  },
+  "date": {
+    "day": 1576713600,
+    "full": 1576761923,
+    "month": 1575158400,
+    "week": 1576368000
+  },
+  "id": "t3_ect5il",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/7s7c5gl7dl541.jpg?auto=webp&s=df56aee4d13837ce0503ae1a995fadc466ff080f",
+    "preview": "https://preview.redd.it/7s7c5gl7dl541.jpg?width=640&crop=smart&auto=webp&s=3111a7d553a2a3ad27df7e78c81165e44c4b04c2",
+    "thumbnail": "https://b.thumbs.redditmedia.com/RLs1-oxnrZ65AvT-6f0CeEG68xuU700N5eAvu6wYTWs.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 66,
+    "value": 66
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Batch of Dungeon Tiles complete!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ect5il/first_batch_of_dungeon_tiles_complete/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6yvxym8r",
+    "name": "__hiro"
+  },
+  "date": {
+    "day": 1602028800,
+    "full": 1602040807,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j6jkf8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/8kj4uooaclr51.jpg?auto=webp&s=455dce707fe5822a4e4d589a94315c639e084f74",
+    "preview": "https://preview.redd.it/8kj4uooaclr51.jpg?width=640&crop=smart&auto=webp&s=67be1bb1a594f5e06bcb1a486be6b223fd9ec795",
+    "thumbnail": "https://b.thumbs.redditmedia.com/PBLfx0YNBJjx75VO6Cmofhdmxyo7P1a647Nfu-q-y7s.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 7,
+    "value": 7
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First Build, just a simple road leading through some grassy areas, tips and advice welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j6jkf8/first_build_just_a_simple_road_leading_through/"
+}

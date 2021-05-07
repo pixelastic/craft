@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7j8g4",
+    "name": "demondownload"
+  },
+  "date": {
+    "day": 1575331200,
+    "full": 1575375481,
+    "month": 1575158400,
+    "week": 1575158400
+  },
+  "id": "t3_e5gbio",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/bDDIV3CuoiYeheAElH68yNYq5tf0d4AnYAG9ZITl4bQ.jpg?auto=webp&s=3512eb2619019bc42a5f52ddc701ff690c7a37ab",
+    "preview": "https://external-preview.redd.it/bDDIV3CuoiYeheAElH68yNYq5tf0d4AnYAG9ZITl4bQ.jpg?width=640&crop=smart&auto=webp&s=3adc0db48d941027061d21469df82954aaa49264",
+    "thumbnail": "https://a.thumbs.redditmedia.com/xzl4pZQh9Rj9MwpEpvuMyhIDrbiS8Z9oZS7_v5itCW8.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at a building",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/e5gbio/first_attempt_at_a_building/"
+}

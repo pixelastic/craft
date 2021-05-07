@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_73jrc",
+    "name": "senseiwolfman"
+  },
+  "date": {
+    "day": 1534464000,
+    "full": 1534540475,
+    "month": 1533081600,
+    "week": 1534032000
+  },
+  "id": "t3_98636r",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/2qgppfw5zpg11.jpg?auto=webp&s=7ca2f0784032922b58f56f4a257ddaaf2ed1a9d7",
+    "preview": "https://preview.redd.it/2qgppfw5zpg11.jpg?width=640&crop=smart&auto=webp&s=698a365516fd4a84c30c05ce5117c9346f8962ba",
+    "thumbnail": "https://b.thumbs.redditmedia.com/tmveHtEcjnFYQufiRkvY_n7YSgBLlZkayqWMxBLWjKo.jpg"
+  },
+  "score": {
+    "comments": 44,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 394,
+    "value": 394
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first terrain model ever, thoughts, tips?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/98636r/my_first_terrain_model_ever_thoughts_tips/"
+}

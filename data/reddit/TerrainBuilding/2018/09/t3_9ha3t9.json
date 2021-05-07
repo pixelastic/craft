@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6h513",
+    "name": "The_Bald"
+  },
+  "date": {
+    "day": 1537315200,
+    "full": 1537399048,
+    "month": 1535760000,
+    "week": 1537056000
+  },
+  "id": "t3_9ha3t9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/Gl_9DRU4a_oKPycH9-nZgrE6JxZlETGSSATQUEOeFvU.jpg?auto=webp&s=990b7ea2fae3ff460725afa3c0b185e4b5a06251",
+    "preview": "https://external-preview.redd.it/Gl_9DRU4a_oKPycH9-nZgrE6JxZlETGSSATQUEOeFvU.jpg?width=640&crop=smart&auto=webp&s=5a94e50e1e8440005335c48f3e547c48e0c11ece",
+    "thumbnail": "https://b.thumbs.redditmedia.com/kdw641uO2AilZWNvm5dA7ZXpVcBYymyo0R71dGHFQVs.jpg"
+  },
+  "score": {
+    "comments": 42,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 506,
+    "value": 506
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first attempt at a wire and latex tree!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9ha3t9/my_first_attempt_at_a_wire_and_latex_tree/"
+}

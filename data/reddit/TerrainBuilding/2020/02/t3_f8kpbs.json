@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_114rt9",
+    "name": "AndringRasew"
+  },
+  "date": {
+    "day": 1582502400,
+    "full": 1582513234,
+    "month": 1580515200,
+    "week": 1582416000
+  },
+  "id": "t3_f8kpbs",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/duz1bsusesi41.jpg?auto=webp&s=7578543e1e5717c9ec221196923ea89be46fd984",
+    "preview": "https://preview.redd.it/duz1bsusesi41.jpg?width=640&crop=smart&auto=webp&s=18962dd387226228160a49b2cef8e2d12424d58a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/q5UkN0M4TgvHEa_9W2DG9R61IH17zGk3CZ0uFraeksQ.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 120,
+    "value": 120
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tudor style build. C&C welcome.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/f8kpbs/wip_tudor_style_build_cc_welcome/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5zdn7",
+    "name": "Narbeleg"
+  },
+  "date": {
+    "day": 1564012800,
+    "full": 1564080245,
+    "month": 1561939200,
+    "week": 1563667200
+  },
+  "id": "t3_chrqxc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/gwuqkbm1whc31.jpg?auto=webp&s=4c3fc556aeaf43d837d9cab94439b9bde716cd79",
+    "preview": "https://preview.redd.it/gwuqkbm1whc31.jpg?width=640&crop=smart&auto=webp&s=a8d51262f0b4b755ff0057cdf42cabe4a48ffe2c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/8AmtPoQLwRIu0aeZ6jUmj8DWaRa43RSCL0jthRP0yYk.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 263,
+    "value": 263
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "\"Speak, friend, and enter\"",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/chrqxc/speak_friend_and_enter/"
+}

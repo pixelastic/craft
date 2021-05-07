@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_67vfg",
+    "name": "_Ritual"
+  },
+  "date": {
+    "day": 1554681600,
+    "full": 1554710764,
+    "month": 1554076800,
+    "week": 1554595200
+  },
+  "id": "t3_bar3vo",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/A8-8omucmZNG9oS8cyp-SRivB3yEATs0R_RllYhe6vI.jpg?auto=webp&s=0ef0139facd2c8683f7069b563183fd1adf8f533",
+    "preview": "https://external-preview.redd.it/A8-8omucmZNG9oS8cyp-SRivB3yEATs0R_RllYhe6vI.jpg?width=640&crop=smart&auto=webp&s=6025102f0ede1f6f78bd0aac68a080a536817e1e",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 3,
+    "value": 3
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Create a smooth raised cut out effect on a base",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bar3vo/create_a_smooth_raised_cut_out_effect_on_a_base/"
+}

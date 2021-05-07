@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3cjt8v2n",
+    "name": "fredez1"
+  },
+  "date": {
+    "day": 1591833600,
+    "full": 1591897223,
+    "month": 1590969600,
+    "week": 1591488000
+  },
+  "id": "t3_h13zu2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/l26ekdc8ib451.jpg?auto=webp&s=e9f31dbd8679a81a5db5221a748fe4acb80fcb33",
+    "preview": "https://preview.redd.it/l26ekdc8ib451.jpg?width=640&crop=smart&auto=webp&s=8ce3bf0361aaea429ee6243ba2a1244bb53fa084",
+    "thumbnail": "https://b.thumbs.redditmedia.com/dTdxuO-kxkvUZgTxJgYbC2UpvR1SCQPfegyv51_Qr4Q.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 149,
+    "value": 149
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Finally the whole thing is done!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/h13zu2/finally_the_whole_thing_is_done/"
+}

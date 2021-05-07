@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4pse81m4",
+    "name": "borasrb"
+  },
+  "date": {
+    "day": 1585612800,
+    "full": 1585672935,
+    "month": 1583020800,
+    "week": 1585440000
+  },
+  "id": "t3_fsg9xp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/klq2cx08e1q41.jpg?auto=webp&s=3a94d29d90db7687b74d80a22d1c401682cd5806",
+    "preview": "https://preview.redd.it/klq2cx08e1q41.jpg?width=640&crop=smart&auto=webp&s=19c7c7cf30fbb5cc094fcf313b98cafef7ac7c69",
+    "thumbnail": "https://b.thumbs.redditmedia.com/6yPhkZgKL2jejTLV-FFE8xehJQ6E6J2h__C2FcE9KgE.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "One more house under the hill I made.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fsg9xp/one_more_house_under_the_hill_i_made/"
+}

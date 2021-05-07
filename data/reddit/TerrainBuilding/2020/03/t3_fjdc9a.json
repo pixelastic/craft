@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_117e6lie",
+    "name": "Five-toed_sloth"
+  },
+  "date": {
+    "day": 1584316800,
+    "full": 1584325068,
+    "month": 1583020800,
+    "week": 1584230400
+  },
+  "id": "t3_fjdc9a",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xd17rg392ym41.jpg?auto=webp&s=ae6522b310a6aec0d87efe180d26a79e284d09b0",
+    "preview": "https://preview.redd.it/xd17rg392ym41.jpg?width=640&crop=smart&auto=webp&s=b8f1e716fbf743876cb16164688433fa38955f5a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/2JgUxnbOowbE9MfXEDiA5rWO6rcS7RGVdqTeDqG0XkY.jpg"
+  },
+  "score": {
+    "comments": 24,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 639,
+    "value": 639
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made a forge with a tea light for effect.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fjdc9a/i_made_a_forge_with_a_tea_light_for_effect/"
+}

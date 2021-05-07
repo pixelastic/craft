@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_hh8qa",
+    "name": "thunder_xitus"
+  },
+  "date": {
+    "day": 1587859200,
+    "full": 1587898657,
+    "month": 1585699200,
+    "week": 1587859200
+  },
+  "id": "t3_g8cg9f",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/l6hw4qse85v41.png?auto=webp&s=1eb3d12daef541ee95225bea9c12076892f6832d",
+    "preview": "https://preview.redd.it/l6hw4qse85v41.png?width=640&crop=smart&auto=webp&s=4b0f9774abb20cb2e2376f6e7ed121e8477ee583",
+    "thumbnail": "https://a.thumbs.redditmedia.com/XkxuGiUYnJroCUVrjG9QsrUottrCcmxKAq-5mnsYvI8.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 57,
+    "value": 57
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Goblin Look-out for the weekly challenge over at /r/dndiy",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/g8cg9f/goblin_lookout_for_the_weekly_challenge_over_at/"
+}

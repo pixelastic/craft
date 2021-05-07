@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_70cg8fip",
+    "name": "Maximum_Items"
+  },
+  "date": {
+    "day": 1592784000,
+    "full": 1592832988,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hdsgvg",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6a5a9rtqsg651.jpg?auto=webp&s=215d3d20ea5ceee9b2f47feb02157b1f8b544230",
+    "preview": "https://preview.redd.it/6a5a9rtqsg651.jpg?width=640&crop=smart&auto=webp&s=ca9808b00f0361003b6a7197ba564fdce092195e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/lFP90bZpJZDwOVmsq5YFIaOhPTHm_3JAVTqsEITlGIo.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 35,
+    "value": 35
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "WIP hab-block building for Infinity",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hdsgvg/wip_habblock_building_for_infinity/"
+}

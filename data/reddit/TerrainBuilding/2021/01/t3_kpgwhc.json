@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8qjytau0",
+    "name": "Persipop"
+  },
+  "date": {
+    "day": 1609632000,
+    "full": 1609661966,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_kpgwhc",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/oL_HGrSYBw6zo-f6EnsGRsCwF40h5eXnWEP8rGGgr5E.jpg?auto=webp&s=909af4ce83515a5e68bc776eef54152c14c54d81",
+    "preview": "https://external-preview.redd.it/oL_HGrSYBw6zo-f6EnsGRsCwF40h5eXnWEP8rGGgr5E.jpg?width=640&crop=smart&auto=webp&s=31dac0c725e5b9ca00d817133bebca7e8547f1b9",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Terrain Essentials by Mel the Terrain Tutor",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kpgwhc/terrain_essentials_by_mel_the_terrain_tutor/"
+}

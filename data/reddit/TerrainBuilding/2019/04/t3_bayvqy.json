@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_fc3ww",
+    "name": "Vykun"
+  },
+  "date": {
+    "day": 1554681600,
+    "full": 1554756182,
+    "month": 1554076800,
+    "week": 1554595200
+  },
+  "id": "t3_bayvqy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/nvy4r2euq3r21.jpg?auto=webp&s=e82a59de07db54189a017197e513fcb07d2bb295",
+    "preview": "https://preview.redd.it/nvy4r2euq3r21.jpg?width=640&crop=smart&auto=webp&s=f23c151cbab15c2ca71a0938f4be4f836adbde5d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/RBVlevwXiCgbavX69tbj1Zlp9nrurVNx8KwbkFJtvBc.jpg"
+  },
+  "score": {
+    "comments": 33,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 103,
+    "value": 103
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt with new materials",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/bayvqy/first_attempt_with_new_materials/"
+}

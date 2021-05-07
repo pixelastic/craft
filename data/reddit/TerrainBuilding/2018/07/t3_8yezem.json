@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_s5wgs",
+    "name": "MechFoo"
+  },
+  "date": {
+    "day": 1531353600,
+    "full": 1531439325,
+    "month": 1530403200,
+    "week": 1531008000
+  },
+  "id": "t3_8yezem",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/f9qf5nzutl911.jpg?auto=webp&s=b9427c5d5ac6b9ad146b988d1c00192e019bbda4",
+    "preview": "https://preview.redd.it/f9qf5nzutl911.jpg?width=640&crop=smart&auto=webp&s=d896274574628909acd55b4d391a02ca66549c3d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/7q7zcG3G-28NJHCjz8zp9SioWIoDhikGFcS5FdlIWuc.jpg"
+  },
+  "score": {
+    "comments": 17,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 96,
+    "value": 96
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The crypt of some evil wizard who apparently liked to be buried with random magic items and gold coins.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8yezem/the_crypt_of_some_evil_wizard_who_apparently/"
+}

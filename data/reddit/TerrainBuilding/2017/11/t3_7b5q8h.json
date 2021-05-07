@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_l47ik",
+    "name": "flankbonus"
+  },
+  "date": {
+    "day": 1509926400,
+    "full": 1509981194,
+    "month": 1509494400,
+    "week": 1509840000
+  },
+  "id": "t3_7b5q8h",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/5dlyG0IUAGjcyHWIFEMTGxoGzMcxuZUqhlt2Y-Bew-U.jpg?auto=webp&s=279feac79c6bdc306b81306ce8f64603b0ab937d",
+    "preview": "https://external-preview.redd.it/5dlyG0IUAGjcyHWIFEMTGxoGzMcxuZUqhlt2Y-Bew-U.jpg?width=640&crop=smart&auto=webp&s=b496bc5d9148bbeeb3af85c66bac5f99da0c4813",
+    "thumbnail": "https://b.thumbs.redditmedia.com/e3t8ZX8f1gNzc8lH-IOdZS6gCVVLdP5tqsCZzTT7c1Y.jpg"
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 100,
+    "value": 100
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mostly fixed. Mostly done.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7b5q8h/mostly_fixed_mostly_done/"
+}

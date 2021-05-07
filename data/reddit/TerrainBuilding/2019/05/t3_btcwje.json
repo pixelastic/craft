@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_dscmn",
+    "name": "Unabatedtuna"
+  },
+  "date": {
+    "day": 1558828800,
+    "full": 1558903054,
+    "month": 1556668800,
+    "week": 1558828800
+  },
+  "id": "t3_btcwje",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/17fdnxqm9m031.jpg?auto=webp&s=a7973721d9f6aa5672eae3e96bea7f7ec783f158",
+    "preview": "https://preview.redd.it/17fdnxqm9m031.jpg?width=640&crop=smart&auto=webp&s=b338688f324085c6c9a121d7f34a8a5650e5fe3d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/hAENwac9M8VWBsK9W7t6CWWvVxMWhvdxAQ4sVcg-7wU.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Further killteam board progress",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/btcwje/further_killteam_board_progress/"
+}

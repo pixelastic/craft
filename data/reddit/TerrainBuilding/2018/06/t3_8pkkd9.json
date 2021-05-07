@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_rymf3",
+    "name": "nebulonb"
+  },
+  "date": {
+    "day": 1528416000,
+    "full": 1528469968,
+    "month": 1527811200,
+    "week": 1527984000
+  },
+  "id": "t3_8pkkd9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/881gymifks211.jpg?auto=webp&s=0ed0a1b4050ef73c87b776e939ea7cb1fc7ecf25",
+    "preview": "https://preview.redd.it/881gymifks211.jpg?width=640&crop=smart&auto=webp&s=7882da99b4da1af433e9922c2a9b968775d9a9a8",
+    "thumbnail": "https://a.thumbs.redditmedia.com/Rvv69QUUf0qyGmp3ofRzk2eBrY_7NTQYt74Q1-ebxW4.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "The Liberty brownstone complex",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8pkkd9/the_liberty_brownstone_complex/"
+}

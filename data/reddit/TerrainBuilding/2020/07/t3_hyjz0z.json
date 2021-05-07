@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_193re91i",
+    "name": "Almarca"
+  },
+  "date": {
+    "day": 1595808000,
+    "full": 1595817208,
+    "month": 1593561600,
+    "week": 1595721600
+  },
+  "id": "t3_hyjz0z",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5ak613ccabd51.jpg?auto=webp&s=944a21347cf5c603782db26f3fa000e7e7bea651",
+    "preview": "https://preview.redd.it/5ak613ccabd51.jpg?width=640&crop=smart&auto=webp&s=d525d8786203a4f2050524f084deae36fb6bea1b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/CpA3cpGp7t7_iwwD8BaIWgqYTomDU0AxapgzBNyoYmA.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Audi street model",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hyjz0z/audi_street_model/"
+}

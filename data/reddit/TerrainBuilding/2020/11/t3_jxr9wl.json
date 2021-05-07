@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_th41s",
+    "name": "GWizRidesAgain"
+  },
+  "date": {
+    "day": 1605830400,
+    "full": 1605886869,
+    "month": 1604188800,
+    "week": 1605398400
+  },
+  "id": "t3_jxr9wl",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/c84z2kkm0f061.jpg?auto=webp&s=237f7a3a84c2a4205cf2009e90fafb0d8a55a279",
+    "preview": "https://preview.redd.it/c84z2kkm0f061.jpg?width=640&crop=smart&auto=webp&s=fd369d53bb3fbc659e3191c09ceb74d7e12c6880",
+    "thumbnail": "https://b.thumbs.redditmedia.com/KOsU-la2cC01FAbV4_P4xvHbu09Y2SRSmJW1t3QJ7Rw.jpg"
+  },
+  "score": {
+    "comments": 33,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 522,
+    "value": 522
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "State of the Dungeon",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jxr9wl/state_of_the_dungeon/"
+}

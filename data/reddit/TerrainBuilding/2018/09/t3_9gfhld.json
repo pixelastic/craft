@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_533y4",
+    "name": "Mikempty"
+  },
+  "date": {
+    "day": 1537142400,
+    "full": 1537142695,
+    "month": 1535760000,
+    "week": 1537056000
+  },
+  "id": "t3_9gfhld",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/z2psdghtwom11.jpg?auto=webp&s=799e7f39985e5e3899fd8c3e753c97eb2968a8e0",
+    "preview": "https://preview.redd.it/z2psdghtwom11.jpg?width=640&crop=smart&auto=webp&s=b5ee1cd80c02745c9c2990eb8e14ed813ea832b4",
+    "thumbnail": "https://b.thumbs.redditmedia.com/-jP37qKpZL6sv86TF0_-YudSOGwsfVGhtS8RDQdIwlo.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 44,
+    "value": 44
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first go at making dungeon tiles for D&D. 5 3x3 squares and one giant 12x12 square.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9gfhld/my_first_go_at_making_dungeon_tiles_for_dd_5_3x3/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6iff3",
+    "name": "kalidan"
+  },
+  "date": {
+    "day": 1533600000,
+    "full": 1533614507,
+    "month": 1533081600,
+    "week": 1533427200
+  },
+  "id": "t3_958bhp",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/a8rpulfkhle11.jpg?auto=webp&s=f243fc3a3672aedcf615f26eed1218f998e170c5",
+    "preview": "https://preview.redd.it/a8rpulfkhle11.jpg?width=640&crop=smart&auto=webp&s=4d66da0a596bf32d712df0dd434bc96f5486d0e5",
+    "thumbnail": "https://a.thumbs.redditmedia.com/6iIJEd-ai3Kq5D4OZ8xVNODVhg0s8U9f_wfmz6CU_T4.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 33,
+    "value": 33
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dungeon Tiles Progress",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/958bhp/dungeon_tiles_progress/"
+}

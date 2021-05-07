@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ddhk1",
+    "name": "roastbill"
+  },
+  "date": {
+    "day": 1447459200,
+    "full": 1447481455,
+    "month": 1446336000,
+    "week": 1446940800
+  },
+  "id": "t3_3sr5os",
+  "misc": {
+    "postHint": "link"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/aBJVyPOwh-9Q21GVQUyG9YQDqcWs_YgUtsDW0_jE_PQ.jpg?auto=webp&s=c0ea54d83f980eee7ce679eb6aa5c62c7174629e",
+    "preview": "https://external-preview.redd.it/aBJVyPOwh-9Q21GVQUyG9YQDqcWs_YgUtsDW0_jE_PQ.jpg?width=640&crop=smart&auto=webp&s=db6fb5c1fcdcda647afbfe894001b00ae4b7bbae",
+    "thumbnail": "https://b.thumbs.redditmedia.com/Z3NY6BvryeOgqGHVLxpkMqQXN4Z4qt4LUG1HWTYDT9g.jpg"
+  },
+  "score": {
+    "comments": 10,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Built a scoreboard for guildball!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/3sr5os/built_a_scoreboard_for_guildball/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_mewtk",
+    "name": "oldercloud"
+  },
+  "date": {
+    "day": 1562457600,
+    "full": 1562469061,
+    "month": 1561939200,
+    "week": 1562457600
+  },
+  "id": "t3_ca29yb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5zag63y6ts831.jpg?auto=webp&s=a94eebfef936686fb3281f371c31aa8c9042297c",
+    "preview": "https://preview.redd.it/5zag63y6ts831.jpg?width=640&crop=smart&auto=webp&s=3df99218ef3110adf4cccafe2acca98d633ecf27",
+    "thumbnail": "https://b.thumbs.redditmedia.com/x7KGzuH6nrHEEIcSlvKsJ2pt37wHXFRJv7xsVqWbzRY.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 13,
+    "value": 13
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Exploring the Cultists’ Lair",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ca29yb/exploring_the_cultists_lair/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1583712000,
+    "full": 1583712815,
+    "month": 1583020800,
+    "week": 1583625600
+  },
+  "id": "t3_fflvzr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6b2d072qhjl41.jpg?auto=webp&s=8557caed8a6bf6f595ee89b0bd95cd853d97094f",
+    "preview": "https://preview.redd.it/6b2d072qhjl41.jpg?width=640&crop=smart&auto=webp&s=1e01744e8a957ba42be8045782683874f7a67a0c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/AbWJdAMGVkZwahuq3Ks90iVTtuurcJDK1GPe2b0_68w.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Stained glass window WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fflvzr/stained_glass_window_wip/"
+}

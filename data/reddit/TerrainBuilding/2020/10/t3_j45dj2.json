@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_35se1583",
+    "name": "The_M15"
+  },
+  "date": {
+    "day": 1601596800,
+    "full": 1601681460,
+    "month": 1601510400,
+    "week": 1601164800
+  },
+  "id": "t3_j45dj2",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/o5y6ereqnrq51.jpg?auto=webp&s=7a65d057c3653d268c241820e790821acee24757",
+    "preview": "https://preview.redd.it/o5y6ereqnrq51.jpg?width=640&crop=smart&auto=webp&s=95a1713c87ad4ad952c26b84e1bf6792bfc6df5d",
+    "thumbnail": "https://a.thumbs.redditmedia.com/FWgwaxQmNJHyiLxAC1oD6lp0nZTsv637LZfZTmX7_P8.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 34,
+    "value": 34
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "1.5 Buildings done 3.5 to go",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j45dj2/15_buildings_done_35_to_go/"
+}

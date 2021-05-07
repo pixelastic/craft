@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_paue0",
+    "name": "jawaki"
+  },
+  "date": {
+    "day": 1565481600,
+    "full": 1565554128,
+    "month": 1564617600,
+    "week": 1565481600
+  },
+  "id": "t3_cp1ngm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/1k4jdzjomvf31.jpg?auto=webp&s=761e71617a02fc0ff4e6f22abf5ccc2035cf5a3f",
+    "preview": "https://preview.redd.it/1k4jdzjomvf31.jpg?width=640&crop=smart&auto=webp&s=6c2d300762bffea850ccd2e5aafe7a115311762e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/qM8BSdBnxv5EQ3uu49cwMiPUIxuvZZmqwIMCU-qRBBw.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.94,
+    "ups": 50,
+    "value": 50
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruin scatter terrain from modelling clay. Aiming to build a modular set. Any ideas/tips &tricks?",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cp1ngm/ruin_scatter_terrain_from_modelling_clay_aiming/"
+}

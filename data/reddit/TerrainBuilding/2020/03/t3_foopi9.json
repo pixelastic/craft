@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10bjw9",
+    "name": "sFAMINE"
+  },
+  "date": {
+    "day": 1585094400,
+    "full": 1585135619,
+    "month": 1583020800,
+    "week": 1584835200
+  },
+  "id": "t3_foopi9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/t0z4dxlc0to41.jpg?auto=webp&s=b7ea61735924d2f36da997ecb1e1796743a2a863",
+    "preview": "https://preview.redd.it/t0z4dxlc0to41.jpg?width=640&crop=smart&auto=webp&s=207887fa67ca30b85e1154c7d3ddf6728a3f9af1",
+    "thumbnail": "https://a.thumbs.redditmedia.com/L9pQkzpZ4SNnApWjnasiUZK_SOR5UwGkklRdftMIyx8.jpg"
+  },
+  "score": {
+    "comments": 26,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 518,
+    "value": 518
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Scouting a Holy Site",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/foopi9/scouting_a_holy_site/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4ii802a3",
+    "name": "Titus_painting"
+  },
+  "date": {
+    "day": 1598832000,
+    "full": 1598897704,
+    "month": 1596240000,
+    "week": 1598745600
+  },
+  "id": "t3_ik3asb",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ljm8izv7qdk51.jpg?auto=webp&s=3f1068ead20409fb768cfd60ffd9d483f4bc426d",
+    "preview": "https://preview.redd.it/ljm8izv7qdk51.jpg?width=640&crop=smart&auto=webp&s=5b7b51c3556f9cc82fa8b84a15e05527233771fd",
+    "thumbnail": "https://b.thumbs.redditmedia.com/At0hta-aC7hQjri7JjIi_SL3XuHH6qdNv3jsz00W6yU.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 107,
+    "value": 107
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "1st RoSD Terrain Test",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ik3asb/1st_rosd_terrain_test/"
+}

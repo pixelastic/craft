@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_13bcf0",
+    "name": "daltonoreo"
+  },
+  "date": {
+    "day": 1565740800,
+    "full": 1565824279,
+    "month": 1564617600,
+    "week": 1565481600
+  },
+  "id": "t3_cqhjmr",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/rqofi66zxhg31.jpg?auto=webp&s=0ffefae1a3ae3aaae17c10df8309dc63f4fec2cf",
+    "preview": "https://preview.redd.it/rqofi66zxhg31.jpg?width=640&crop=smart&auto=webp&s=57577e26b216b6d6bf849fa1fedbe990a25c0248",
+    "thumbnail": "https://b.thumbs.redditmedia.com/TTzNMd3NTGDY6f2OsOPDp50UmFw7Fz-oQzygkHcnHjg.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Part of a bridge I'm working on",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/cqhjmr/part_of_a_bridge_im_working_on/"
+}

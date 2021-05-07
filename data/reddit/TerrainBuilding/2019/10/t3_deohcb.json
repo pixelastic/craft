@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1570406400,
+    "full": 1570476979,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_deohcb",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/pZ0j6sFlUT3U55vSCajYCGyJNxscSZung-r7Q0ogJ6A.jpg?auto=webp&s=afba7b7d56ddcb0d684efa755aed5972b1fbb8d2",
+    "preview": "https://external-preview.redd.it/pZ0j6sFlUT3U55vSCajYCGyJNxscSZung-r7Q0ogJ6A.jpg?width=640&crop=smart&auto=webp&s=4ef81184bb66a8bf94f445fd888ec1e3e704f3f7",
+    "thumbnail": "https://b.thumbs.redditmedia.com/dt_WndHBNGmQhO25Q83SDLrh6PiKNdx5s1UVOFOEJiM.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.84,
+    "ups": 8,
+    "value": 8
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Survival Dome Scratchbuild",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/deohcb/survival_dome_scratchbuild/"
+}

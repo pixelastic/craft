@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1vzqf4fk",
+    "name": "insaniakUTC"
+  },
+  "date": {
+    "day": 1548028800,
+    "full": 1548101061,
+    "month": 1546300800,
+    "week": 1547942400
+  },
+  "id": "t3_aie3vj",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/3cDdwKXklN2LpwDQgAXoIA6iuQ6UR5uv7Pu3iKaa214.jpg?auto=webp&s=08d5af3bfb4200443ecc4320f3c295c40250d9ba",
+    "preview": "https://external-preview.redd.it/3cDdwKXklN2LpwDQgAXoIA6iuQ6UR5uv7Pu3iKaa214.jpg?width=640&crop=smart&auto=webp&s=cff4e29b90b645cbb4d500253c6fec92c1c99c60",
+    "thumbnail": "https://b.thumbs.redditmedia.com/6qETd9wEQfZl1RbPSK8cAkqmpziIYaGIeU_MioD0zGU.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.9,
+    "ups": 28,
+    "value": 28
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building a landing pad display board",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aie3vj/building_a_landing_pad_display_board/"
+}

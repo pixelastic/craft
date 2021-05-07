@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1e2zw06f",
+    "name": "rootstemmultimedia"
+  },
+  "date": {
+    "day": 1535328000,
+    "full": 1535403926,
+    "month": 1533081600,
+    "week": 1535241600
+  },
+  "id": "t3_9assm5",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3hquatbnapi11.jpg?auto=webp&s=af1561c07d293568bd9efec9af7da9f92ff9f470",
+    "preview": "https://preview.redd.it/3hquatbnapi11.jpg?width=640&crop=smart&auto=webp&s=5173860cd54c633ba6734d612a11f9cabe411487",
+    "thumbnail": "https://a.thumbs.redditmedia.com/3yHLugZfaZ6a120EfFduE9umOEC0l5_ZvC_U5-9P1j4.jpg"
+  },
+  "score": {
+    "comments": 21,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 181,
+    "value": 181
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Mechanicus building!!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9assm5/mechanicus_building/"
+}

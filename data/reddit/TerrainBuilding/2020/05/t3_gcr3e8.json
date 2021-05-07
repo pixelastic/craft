@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_13g2wj",
+    "name": "Sasmotish"
+  },
+  "date": {
+    "day": 1588464000,
+    "full": 1588514511,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_gcr3e8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/38u4bm0p3kw41.jpg?auto=webp&s=049f06d09a244f4e81ed08cbcbc5603faf2e8a6a",
+    "preview": "https://preview.redd.it/38u4bm0p3kw41.jpg?width=640&crop=smart&auto=webp&s=b75904f58ea880c011d176ec63cb3b4f2765ce2a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/v0fPuOBsDSOiNZIqJBPYhi0h5YVDLgkP9hkxxzp0b0I.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 445,
+    "value": 445
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "I made an other thing.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gcr3e8/i_made_an_other_thing/"
+}

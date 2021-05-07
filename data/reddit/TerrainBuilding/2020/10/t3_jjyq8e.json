@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_6eridk4k",
+    "name": "Nat1Video"
+  },
+  "date": {
+    "day": 1603843200,
+    "full": 1603927108,
+    "month": 1601510400,
+    "week": 1603584000
+  },
+  "id": "t3_jjyq8e",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kf1ufqli4xv51.png?auto=webp&s=51070f9e0b2dba9e3bf2196ad1a4f7e09182976f",
+    "preview": "https://preview.redd.it/kf1ufqli4xv51.png?width=640&crop=smart&auto=webp&s=6c73723d1d421ce5da279a3208b9bdf7280d7ef9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/SWfs4OwNRvOL0IB4tbCzGM73Dwv-cZTOoXqldzLgZrk.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 21,
+    "value": 21
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dungeon in a box!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jjyq8e/dungeon_in_a_box/"
+}

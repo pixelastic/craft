@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3o0uyuhz",
+    "name": "TabletopGeneral"
+  },
+  "date": {
+    "day": 1586649600,
+    "full": 1586692226,
+    "month": 1585699200,
+    "week": 1586649600
+  },
+  "id": "t3_fzvdzm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/izr3jkuvkds41.jpg?auto=webp&s=c82f0c47ec6472bc83a1b550882c1bbe778f29ae",
+    "preview": "https://preview.redd.it/izr3jkuvkds41.jpg?width=640&crop=smart&auto=webp&s=787b328df72446a3b0e6938eefb6d68b17e65a28",
+    "thumbnail": "https://b.thumbs.redditmedia.com/i7CEoj2yfWCe3_GGiy0HxS2EuUXwBHPC-dTunO_YvLQ.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.7,
+    "ups": 6,
+    "value": 6
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some working on a MDF building to improve it's look, still WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fzvdzm/some_working_on_a_mdf_building_to_improve_its/"
+}

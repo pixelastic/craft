@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4lttfk6y",
+    "name": "quidamcorvus"
+  },
+  "date": {
+    "day": 1600905600,
+    "full": 1600949555,
+    "month": 1598918400,
+    "week": 1600560000
+  },
+  "id": "t3_iyw2nl",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/k4ib9tdg73p51.jpg?auto=webp&s=cf3f9b167634f3ed082b4456f8f1d29c0eceb314",
+    "preview": "https://preview.redd.it/k4ib9tdg73p51.jpg?width=640&crop=smart&auto=webp&s=3a5eed76deb5d4d064cd8e475227be5d7de16dd5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/WHIdmlCkO6yAn7yKJs6cvxuoyPQq_Bp_RJNBmMuimcg.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 47,
+    "value": 47
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A farm, another model of the Teufelsberg village, serving as a battlefield for smaller and larger clashes in the Warhammer world.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/iyw2nl/a_farm_another_model_of_the_teufelsberg_village/"
+}

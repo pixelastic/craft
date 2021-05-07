@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_15bpzi",
+    "name": "freefenris"
+  },
+  "date": {
+    "day": 1598486400,
+    "full": 1598541084,
+    "month": 1596240000,
+    "week": 1598140800
+  },
+  "id": "t3_ihmrwy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vwc9id6u9kj51.jpg?auto=webp&s=ddce5d8aef2122336e0f1e8b81b66ce5dac89dad",
+    "preview": "https://preview.redd.it/vwc9id6u9kj51.jpg?width=640&crop=smart&auto=webp&s=eacc4fd7058f91aa349ae959a16bc7d771b2f344",
+    "thumbnail": "https://b.thumbs.redditmedia.com/zI8W7sxpGWYyRAXfBfe1uWmVRRozND4OEBx88NNoEdQ.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 38,
+    "value": 38
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Industrial terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ihmrwy/industrial_terrain/"
+}

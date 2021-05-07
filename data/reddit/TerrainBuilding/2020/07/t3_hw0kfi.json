@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_72598ty4",
+    "name": "Battlefasten"
+  },
+  "date": {
+    "day": 1595376000,
+    "full": 1595446925,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hw0kfi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/zoqrkyabpgc51.jpg?auto=webp&s=4b78e8f03273d687a4eb609ee6405613259c1bac",
+    "preview": "https://preview.redd.it/zoqrkyabpgc51.jpg?width=640&crop=smart&auto=webp&s=44bf4ebaa55ed6575616302ff75ec0a8b3e96c7e",
+    "thumbnail": "https://a.thumbs.redditmedia.com/q1WW1OsXx5Rm4YJjxfU42m1TLeo9wG2QKuyEQPW0b54.jpg"
+  },
+  "score": {
+    "comments": 30,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 929,
+    "value": 929
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A custom build from a few years ago. LotR inspired. \"Lean forward!!\"",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hw0kfi/a_custom_build_from_a_few_years_ago_lotr_inspired/"
+}

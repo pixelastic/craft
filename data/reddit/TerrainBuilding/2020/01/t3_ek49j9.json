@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5d1i5nk2",
+    "name": "boylei"
+  },
+  "date": {
+    "day": 1578096000,
+    "full": 1578179886,
+    "month": 1577836800,
+    "week": 1577577600
+  },
+  "id": "t3_ek49j9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/4hrrh4fjhu841.jpg?auto=webp&s=b7eff626952d95afb9e09192d20937af27d2b0ed",
+    "preview": "https://preview.redd.it/4hrrh4fjhu841.jpg?width=640&crop=smart&auto=webp&s=e68bdcd0ad77fafdd374402b86b857700a260baf",
+    "thumbnail": "https://b.thumbs.redditmedia.com/byXuRnuIUAl6bsPGTNS9DhlC22gUDGiOY86UxkmjUGc.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 42,
+    "value": 42
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Desert dwelling.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ek49j9/desert_dwelling/"
+}

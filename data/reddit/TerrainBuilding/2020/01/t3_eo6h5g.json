@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_e1q3w",
+    "name": "TrueDivision"
+  },
+  "date": {
+    "day": 1578873600,
+    "full": 1578933341,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_eo6h5g",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/jg0nazh2mka41.jpg?auto=webp&s=3d94256abe42534f2028b751c70c9e299aea4246",
+    "preview": "https://preview.redd.it/jg0nazh2mka41.jpg?width=640&crop=smart&auto=webp&s=d93e277993a2855ffb48443b9532fa19b4009a58",
+    "thumbnail": "https://b.thumbs.redditmedia.com/CsyU9AJx4fA8KjoC3c-07fvvmgKG9x5OUnTIG2u7QMI.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 90,
+    "value": 90
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Plasma Battery, first attempt at terrain",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eo6h5g/plasma_battery_first_attempt_at_terrain/"
+}

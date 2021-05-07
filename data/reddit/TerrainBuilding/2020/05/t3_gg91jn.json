@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5po5de96",
+    "name": "TwinkieDLite"
+  },
+  "date": {
+    "day": 1588982400,
+    "full": 1588999707,
+    "month": 1588291200,
+    "week": 1588464000
+  },
+  "id": "t3_gg91jn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/zggo0q8e6ox41.jpg?auto=webp&s=adadee5d1f6b7f316cc6163545ffaa280808bde4",
+    "preview": "https://preview.redd.it/zggo0q8e6ox41.jpg?width=640&crop=smart&auto=webp&s=c421a759079c472b9c8ad971ef1ed246e3c4a14d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/6VFu8BBXkYYSkEWRRldsh1UehuYy-DBkEpMnttMhqIw.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 103,
+    "value": 103
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "So close to completion...",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gg91jn/so_close_to_completion/"
+}

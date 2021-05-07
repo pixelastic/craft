@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4qous5pj",
+    "name": "buildthemechs"
+  },
+  "date": {
+    "day": 1602028800,
+    "full": 1602033000,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j6hnh9",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/qgaw6sk3pkr51.jpg?auto=webp&s=ded87ef0c218457e2ff02355f515c627eba9b11b",
+    "preview": "https://preview.redd.it/qgaw6sk3pkr51.jpg?width=640&crop=smart&auto=webp&s=a05ec3ed9968297f6d4486f519bc48891799e14c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/AAI0SmuZbbNNlH2I2WwKMDovcqRPSPIYCo7jgEczuus.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 20,
+    "value": 20
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Another interactive terrain piece, this time with a step-by-step build gallery in the comments!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j6hnh9/another_interactive_terrain_piece_this_time_with/"
+}

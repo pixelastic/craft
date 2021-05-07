@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5qbenwtd",
+    "name": "sonsofmalice1"
+  },
+  "date": {
+    "day": 1585958400,
+    "full": 1585996591,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_furio0",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vq8nw5gm4sq41.jpg?auto=webp&s=860ac89d9510769347db4b55c819f15cadbc65ac",
+    "preview": "https://preview.redd.it/vq8nw5gm4sq41.jpg?width=640&crop=smart&auto=webp&s=f57953a885ab981ca5398e3ac7a9ee089ca6152e",
+    "thumbnail": "https://b.thumbs.redditmedia.com/l3Sduu2a8x_irnAjdSayCwdfjG8CkfrNf6evpuJyWkQ.jpg"
+  },
+  "score": {
+    "comments": 15,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 422,
+    "value": 422
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Grim Dark Base",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/furio0/grim_dark_base/"
+}

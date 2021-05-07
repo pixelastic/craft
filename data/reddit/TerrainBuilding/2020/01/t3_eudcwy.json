@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_h0141",
+    "name": "Zulathan"
+  },
+  "date": {
+    "day": 1579996800,
+    "full": 1580074510,
+    "month": 1577836800,
+    "week": 1579996800
+  },
+  "id": "t3_eudcwy",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/eohid6f8z6d41.jpg?auto=webp&s=007632721d627bebde93758f90b8b2292236d3e4",
+    "preview": "https://preview.redd.it/eohid6f8z6d41.jpg?width=640&crop=smart&auto=webp&s=f95dbc5933b9a64b38c4c0fc9cb1dbf49bdd2d87",
+    "thumbnail": "https://b.thumbs.redditmedia.com/sVNBwD7VSlAedYEhSXY46AGaWb-DaYUJLHTKWOCjSPE.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 106,
+    "value": 106
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Panic building for a session tomorrow.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eudcwy/panic_building_for_a_session_tomorrow/"
+}

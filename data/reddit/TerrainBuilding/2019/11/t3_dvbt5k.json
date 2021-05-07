@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1soi9gv1",
+    "name": "Awakened_Cactus"
+  },
+  "date": {
+    "day": 1573516800,
+    "full": 1573573964,
+    "month": 1572566400,
+    "week": 1573344000
+  },
+  "id": "t3_dvbt5k",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kv1xd9zl1ay31.jpg?auto=webp&s=787b497009c10fa97a642aa568948ae09d80e53c",
+    "preview": "https://preview.redd.it/kv1xd9zl1ay31.jpg?width=640&crop=smart&auto=webp&s=ef61eb29466d5247e346948453bd3e7c81ce7709",
+    "thumbnail": "https://b.thumbs.redditmedia.com/UXFuRkXLykyH1wfT1r33cGZR-KfqbSjS87oMUkRLEMk.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 67,
+    "value": 67
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Circle jig = Better results",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dvbt5k/circle_jig_better_results/"
+}

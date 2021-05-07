@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_81qgk",
+    "name": "AccoSpoot"
+  },
+  "date": {
+    "day": 1595116800,
+    "full": 1595164616,
+    "month": 1593561600,
+    "week": 1595116800
+  },
+  "id": "t3_hu0c04",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/s01zel1vdtb51.jpg?auto=webp&s=4ee5515992e9ed9110950bd02e3f2b9a16152d93",
+    "preview": "https://preview.redd.it/s01zel1vdtb51.jpg?width=640&crop=smart&auto=webp&s=ebd8c537c485dcb81625612fe2f43c024ea39051",
+    "thumbnail": "https://b.thumbs.redditmedia.com/rHpIM5YCbE6TAWhWS_qxVc1jn1CW9kYBm4DpXK7s3CE.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Beastmen Henges and Sacrificial Altar.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hu0c04/beastmen_henges_and_sacrificial_altar/"
+}

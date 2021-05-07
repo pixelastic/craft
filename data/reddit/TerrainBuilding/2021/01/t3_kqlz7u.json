@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_ffhdr",
+    "name": "84mg09"
+  },
+  "date": {
+    "day": 1609804800,
+    "full": 1609806061,
+    "month": 1609459200,
+    "week": 1609632000
+  },
+  "id": "t3_kqlz7u",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9fm3j6x3qe961.jpg?auto=webp&s=6c28bbe6e52555c045c8bf706083a0350006fa6f",
+    "preview": "https://preview.redd.it/9fm3j6x3qe961.jpg?width=640&crop=smart&auto=webp&s=11caf9e7e872d073d228e9e8d9856a9b9cfca75d",
+    "thumbnail": "https://b.thumbs.redditmedia.com/wy3AGcVy9_6ORLG_UVC2pP0c-HhpJVbsNkB_kWqlUUc.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Merc Hare and Bear pair. Figures designed on heroforge. Walls designed on tinkercad.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/kqlz7u/merc_hare_and_bear_pair_figures_designed_on/"
+}

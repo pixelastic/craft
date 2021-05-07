@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7uhmphr6",
+    "name": "deadleadproject"
+  },
+  "date": {
+    "day": 1598486400,
+    "full": 1598571631,
+    "month": 1596240000,
+    "week": 1598140800
+  },
+  "id": "t3_ihw9q8",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/3irpppt9smj51.jpg?auto=webp&s=fb4253f4686fa77e0b5b2a54841a36968871727a",
+    "preview": "https://preview.redd.it/3irpppt9smj51.jpg?width=640&crop=smart&auto=webp&s=05bb51623df26aad5fb0e40bd46957de768c9290",
+    "thumbnail": "https://b.thumbs.redditmedia.com/rSSGg5JulhFBEK85IAWoz7S9R_teWITi5szC4ow_gVk.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 22,
+    "value": 22
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Some buildings for playing solo Rangers of Shadow Deep",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ihw9q8/some_buildings_for_playing_solo_rangers_of_shadow/"
+}

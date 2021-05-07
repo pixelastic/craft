@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_24gf1r4c",
+    "name": "DStenz89"
+  },
+  "date": {
+    "day": 1602288000,
+    "full": 1602295894,
+    "month": 1601510400,
+    "week": 1601769600
+  },
+  "id": "t3_j8cb01",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/c9yklkkte6s51.jpg?auto=webp&s=3e0f231d51867ceecb1e438a7f1949dfee861822",
+    "preview": "https://preview.redd.it/c9yklkkte6s51.jpg?width=640&crop=smart&auto=webp&s=60b5b9d55c1a378a5908049adbc0fc5b230b13ef",
+    "thumbnail": "https://b.thumbs.redditmedia.com/nRULEGVvGSCKuJ7t2M6WZT31U6oJPWkYXoQ61R7s8uE.jpg"
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 204,
+    "value": 204
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first foray into terrain building!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j8cb01/my_first_foray_into_terrain_building/"
+}

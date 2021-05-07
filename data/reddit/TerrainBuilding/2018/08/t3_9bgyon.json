@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_10z02i",
+    "name": "SavageKabage"
+  },
+  "date": {
+    "day": 1535587200,
+    "full": 1535607649,
+    "month": 1533081600,
+    "week": 1535241600
+  },
+  "id": "t3_9bgyon",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/b1fs2vef46j11.jpg?auto=webp&s=b2738672c3b11c09a9cd1ec8a9795da661ad077e",
+    "preview": "https://preview.redd.it/b1fs2vef46j11.jpg?width=640&crop=smart&auto=webp&s=1cfd9b31e5bc22c7f9b251db519bca17e1fd9be9",
+    "thumbnail": "https://b.thumbs.redditmedia.com/k--kzRfF6MknbrBlq_oAzmkrC4rN2RvQLm9-rilW39M.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 145,
+    "value": 145
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Arcane Ruins",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/9bgyon/arcane_ruins/"
+}

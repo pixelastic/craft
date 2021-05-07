@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8wv1q",
+    "name": "headdragon"
+  },
+  "date": {
+    "day": 1576627200,
+    "full": 1576643903,
+    "month": 1575158400,
+    "week": 1576368000
+  },
+  "id": "t3_ec7sbv",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/kbxyj44amb541.jpg?auto=webp&s=4352e6dc9476d2ea9fa48101b04b16aedf1f1e13",
+    "preview": "https://preview.redd.it/kbxyj44amb541.jpg?width=640&crop=smart&auto=webp&s=8bac275850a221cf19fae53915a469ed0ecef887",
+    "thumbnail": "https://b.thumbs.redditmedia.com/4zxo7JfoqHWtwfYs67SX2Q4JDmMuzOT96W5GHoPDl_g.jpg"
+  },
+  "score": {
+    "comments": 6,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 29,
+    "value": 29
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Building a chimney base. Advice welcome",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ec7sbv/building_a_chimney_base_advice_welcome/"
+}

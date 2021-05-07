@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5dotr6ov",
+    "name": "TheWeebMemeist"
+  },
+  "date": {
+    "day": 1614729600,
+    "full": 1614743908,
+    "month": 1614556800,
+    "week": 1614470400
+  },
+  "id": "t3_lwklub",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/nkyqdgg5lqk61.jpg?auto=webp&s=9cd3107cac94f0a6f2f336c979766831535c4897",
+    "preview": "https://preview.redd.it/nkyqdgg5lqk61.jpg?width=640&crop=smart&auto=webp&s=0ecab7fc12557ae0239f0e26b9def5dec2ef94ec",
+    "thumbnail": "https://b.thumbs.redditmedia.com/RU1TYJ63AOgM0Gezia36mIrMOcmHSUqGET0fsdVKy8M.jpg"
+  },
+  "score": {
+    "comments": 25,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.93,
+    "ups": 45,
+    "value": 45
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ideas on how to use this in terrain.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/lwklub/ideas_on_how_to_use_this_in_terrain/"
+}

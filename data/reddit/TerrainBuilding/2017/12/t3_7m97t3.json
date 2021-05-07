@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bamtm",
+    "name": "everydayisamixtape"
+  },
+  "date": {
+    "day": 1514246400,
+    "full": 1514311363,
+    "month": 1512086400,
+    "week": 1514073600
+  },
+  "id": "t3_7m97t3",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/mhw71lck3b601.jpg?auto=webp&s=91c1f8f97c093056c8498a7a2b4a517225483018",
+    "preview": "https://preview.redd.it/mhw71lck3b601.jpg?width=640&crop=smart&auto=webp&s=aa816a4fc3a8dd37fb98b20dd723f17c4b232484",
+    "thumbnail": "https://b.thumbs.redditmedia.com/BaQ15S80yqC_-Z5BRYsfegAL3i1Kf6Z8cKzr_iaWl9Q.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 198,
+    "value": 198
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first scratchbuilt terrain!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/7m97t3/my_first_scratchbuilt_terrain/"
+}

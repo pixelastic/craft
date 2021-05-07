@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7qk3k",
+    "name": "BuiLTofStonE"
+  },
+  "date": {
+    "day": 1606003200,
+    "full": 1606015789,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_jyopos",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/4k8c5w3wnp061.jpg?auto=webp&s=5a2d88161874aee02104a70c664051371ca6fad9",
+    "preview": "https://preview.redd.it/4k8c5w3wnp061.jpg?width=640&crop=smart&auto=webp&s=1d1a895c1dcc116387a13c057dd65db2c4cc1dd7",
+    "thumbnail": "https://a.thumbs.redditmedia.com/mrZgl27aciOskd9f7CG2leWDLYB80f07c6Zj5ZccQB0.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 16,
+    "value": 16
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "My first scatter terrain. Built for Zona Alfa",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/jyopos/my_first_scatter_terrain_built_for_zona_alfa/"
+}

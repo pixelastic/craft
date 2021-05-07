@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_7zoqk",
+    "name": "NotUnstoned"
+  },
+  "date": {
+    "day": 1583539200,
+    "full": 1583540909,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fen4t0",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/6u4sb56ma5l41.jpg?auto=webp&s=574d7d75e990029434dc9331ade680ba74d168c8",
+    "preview": "https://preview.redd.it/6u4sb56ma5l41.jpg?width=640&crop=smart&auto=webp&s=6e1254fb48257a4da4a9e50aa32c180f58e2217c",
+    "thumbnail": "https://b.thumbs.redditmedia.com/k95D8OiZ5HFu5vgMsrNK_gFFK48zd2CZsn3zSUPFRPo.jpg"
+  },
+  "score": {
+    "comments": 16,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.99,
+    "ups": 574,
+    "value": 574
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Spent so much time building terrain that I’ve only painted 4 models so far.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fen4t0/spent_so_much_time_building_terrain_that_ive_only/"
+}

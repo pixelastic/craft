@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4ovxsgs6",
+    "name": "arcaneoctopuslab"
+  },
+  "date": {
+    "day": 1577145600,
+    "full": 1577150191,
+    "month": 1575158400,
+    "week": 1576972800
+  },
+  "id": "t3_eetv45",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/pa98t1smfh641.jpg?auto=webp&s=16dbf3fcf2d31d2abe659b57285544cdc32d9520",
+    "preview": "https://preview.redd.it/pa98t1smfh641.jpg?width=640&crop=smart&auto=webp&s=246079ad6b366fbb489c2fb00ba0917dee0680d5",
+    "thumbnail": "https://b.thumbs.redditmedia.com/0TwjbITVgUTq98ZlRCgdd4wmWB-Ml33RWrM0HLEt9NQ.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 49,
+    "value": 49
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Lava Terrain Set WIP",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eetv45/lava_terrain_set_wip/"
+}

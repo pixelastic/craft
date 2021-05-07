@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1751nxr",
+    "name": "brockereebeef"
+  },
+  "date": {
+    "day": 1523664000,
+    "full": 1523721447,
+    "month": 1522540800,
+    "week": 1523145600
+  },
+  "id": "t3_8c8f51",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/7q2no71ncwr01.jpg?auto=webp&s=e0ee4876bcec704a38f2e51d83ea148482da8383",
+    "preview": "https://preview.redd.it/7q2no71ncwr01.jpg?width=640&crop=smart&auto=webp&s=d9e15a91a6b91e148d0d295933a22b0aa49e9f14",
+    "thumbnail": "https://b.thumbs.redditmedia.com/wRNSW-6lAOFDxqTsqO9UrskWSP3BBy48EQ8N51xS6fs.jpg"
+  },
+  "score": {
+    "comments": 18,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 208,
+    "value": 208
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A dice tower I built. First real terrain build. I’m addicted to flocking now.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8c8f51/a_dice_tower_i_built_first_real_terrain_build_im/"
+}

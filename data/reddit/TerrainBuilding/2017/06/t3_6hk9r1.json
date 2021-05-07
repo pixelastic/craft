@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1r3dpwt",
+    "name": "Nelmarticus"
+  },
+  "date": {
+    "day": 1497571200,
+    "full": 1497586360,
+    "month": 1496275200,
+    "week": 1497139200
+  },
+  "id": "t3_6hk9r1",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/d7fvzo5mnx3z.jpg?auto=webp&s=42d7c7b5826cf766f7cd899f2d2a7fa10256ab9b",
+    "preview": "https://preview.redd.it/d7fvzo5mnx3z.jpg?width=640&crop=smart&auto=webp&s=a160b3a72d84c1d9fd5a6a3e2543a7e9b238b070",
+    "thumbnail": "https://a.thumbs.redditmedia.com/N7ZC6EXoQJJrVVXEcH7E8t4AlzPk-Ue7ObblWJqkfV4.jpg"
+  },
+  "score": {
+    "comments": 4,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Ruin Tower/Dragon Roost.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/6hk9r1/ruin_towerdragon_roost/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_npmkw3s",
+    "name": "ricklespickle"
+  },
+  "date": {
+    "day": 1531353600,
+    "full": 1531419545,
+    "month": 1530403200,
+    "week": 1531008000
+  },
+  "id": "t3_8yca4h",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/mzgedeh17k911.jpg?auto=webp&s=ae59cbcfc47662aac56f3ba2f54375b4a20cfb5a",
+    "preview": "https://preview.redd.it/mzgedeh17k911.jpg?width=640&crop=smart&auto=webp&s=f9138357fdf14a55c4967f4d0c9148e8c3d5d2a4",
+    "thumbnail": "https://b.thumbs.redditmedia.com/jOuXPvIcRS6DxuJzTp-PSh26qfarmZXSm4caA-kKtjU.jpg"
+  },
+  "score": {
+    "comments": 5,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 30,
+    "value": 30
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tower of dead ...almost complete",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/8yca4h/tower_of_dead_almost_complete/"
+}

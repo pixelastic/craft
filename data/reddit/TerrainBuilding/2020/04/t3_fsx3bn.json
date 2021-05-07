@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bbddx",
+    "name": "Akblabla"
+  },
+  "date": {
+    "day": 1585699200,
+    "full": 1585736028,
+    "month": 1585699200,
+    "week": 1585440000
+  },
+  "id": "t3_fsx3bn",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/xk2n4r1pl6q41.jpg?auto=webp&s=d8864f538798dec86d69c1eeed1d16b4704133ca",
+    "preview": "https://preview.redd.it/xk2n4r1pl6q41.jpg?width=640&crop=smart&auto=webp&s=f68f95899015e585c53e8d7f2d60b98a02b7663b",
+    "thumbnail": "https://b.thumbs.redditmedia.com/3xM7rqrXrWnXF_2vpkh1RgzaMDKi_wp2h6RRH7TWuLs.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 70,
+    "value": 70
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Playing around with new techniques for painting concrete tiles",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fsx3bn/playing_around_with_new_techniques_for_painting/"
+}

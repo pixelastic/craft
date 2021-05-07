@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_83581",
+    "name": "EccentricOwl"
+  },
+  "date": {
+    "day": 1572912000,
+    "full": 1572978966,
+    "month": 1572566400,
+    "week": 1572739200
+  },
+  "id": "t3_ds3ewl",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/gvcjzjmcwww31.png?auto=webp&s=ab675404b02e284d7e7038106b69cf4fb8ebbd36",
+    "preview": "https://preview.redd.it/gvcjzjmcwww31.png?width=640&crop=smart&auto=webp&s=b1a2c819507f4234343632dd41c90e0c39940db4",
+    "thumbnail": "https://a.thumbs.redditmedia.com/ykJZqmNXG5Q-u_occJKqcN1cN6MTbcqe7tHf31Euz10.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.97,
+    "ups": 75,
+    "value": 75
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Clock Tower from TTCombat",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ds3ewl/clock_tower_from_ttcombat/"
+}

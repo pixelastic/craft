@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_bdcwl",
+    "name": "blargney"
+  },
+  "date": {
+    "day": 1600300800,
+    "full": 1600334792,
+    "month": 1598918400,
+    "week": 1599955200
+  },
+  "id": "t3_iug3di",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/ej5rp6dcfon51.jpg?auto=webp&s=408e86e495b4aec1d223b7a57dcbde9b6b59048f",
+    "preview": "https://preview.redd.it/ej5rp6dcfon51.jpg?width=640&crop=smart&auto=webp&s=6a99e2645672ae4738de0a143d48136f0e82f4e1",
+    "thumbnail": "https://a.thumbs.redditmedia.com/E34znSeQzBQfbfC5yR5GS3AORe0o36d-TlrX3V_ali4.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.85,
+    "ups": 12,
+    "value": 12
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Decrepit doors for a ruined tower I'm working on",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/iug3di/decrepit_doors_for_a_ruined_tower_im_working_on/"
+}

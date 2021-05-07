@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_4ix6bjnl",
+    "name": "TimeInvestment1"
+  },
+  "date": {
+    "day": 1598918400,
+    "full": 1598994958,
+    "month": 1598918400,
+    "week": 1598745600
+  },
+  "id": "t3_ikt3qi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/qinljrxdrlk51.jpg?auto=webp&s=2f23fa2f43781d6202dcc84e4efca9c089a091a7",
+    "preview": "https://preview.redd.it/qinljrxdrlk51.jpg?width=640&crop=smart&auto=webp&s=0047e4f297b0365f2dc030e4235eed96370596f6",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ZIJm7SVfLcfjvHWkipfC2dLZE9hn2c4SVqx1TUME-1k.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.81,
+    "ups": 24,
+    "value": 24
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Rosemary (repost with picture)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/ikt3qi/rosemary_repost_with_picture/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_1soi9gv1",
+    "name": "Awakened_Cactus"
+  },
+  "date": {
+    "day": 1578873600,
+    "full": 1578941691,
+    "month": 1577836800,
+    "week": 1578787200
+  },
+  "id": "t3_eo8fri",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9z5ry9jkela41.jpg?auto=webp&s=96985cb97db959ac2698ce3fbdc9ef67979f2b7d",
+    "preview": "https://preview.redd.it/9z5ry9jkela41.jpg?width=640&crop=smart&auto=webp&s=d360bf09c30b602db46cefc9afd3871168232c98",
+    "thumbnail": "https://a.thumbs.redditmedia.com/e6MXHTvsJrtNPfAz2osL5HiWMe0NKUzB1ru5XDBZOR8.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 19,
+    "value": 19
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Dwarven Statues",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/eo8fri/dwarven_statues/"
+}

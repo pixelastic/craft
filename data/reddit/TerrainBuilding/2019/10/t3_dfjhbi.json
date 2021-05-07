@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_15ozeh",
+    "name": "Bajtopisarz"
+  },
+  "date": {
+    "day": 1570579200,
+    "full": 1570638458,
+    "month": 1569888000,
+    "week": 1570320000
+  },
+  "id": "t3_dfjhbi",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/amvo41pakjr31.jpg?auto=webp&s=876cae36028d04359b58f49a284abe793a5e99a6",
+    "preview": "https://preview.redd.it/amvo41pakjr31.jpg?width=640&crop=smart&auto=webp&s=6e484a6c6ad83c44dac701e82d83951449696392",
+    "thumbnail": "https://b.thumbs.redditmedia.com/uQ6DHIw6pYrSMhd0LLxaiYe_XtOJUNC-C7foqtBVS4Q.jpg"
+  },
+  "score": {
+    "comments": 9,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.91,
+    "ups": 26,
+    "value": 26
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Recently started to learn terrain building with a friend. Experimenting with different XPS DnD tiles is a lot of fun!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dfjhbi/recently_started_to_learn_terrain_building_with_a/"
+}

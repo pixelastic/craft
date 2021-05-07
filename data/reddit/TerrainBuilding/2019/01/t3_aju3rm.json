@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_5p1xqb",
+    "name": "Tsagoare"
+  },
+  "date": {
+    "day": 1548374400,
+    "full": 1548453065,
+    "month": 1546300800,
+    "week": 1547942400
+  },
+  "id": "t3_aju3rm",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/j5lvu7hv2nc21.jpg?auto=webp&s=30a1ad9365790a027d7e3a2321c65ea09498f618",
+    "preview": "https://preview.redd.it/j5lvu7hv2nc21.jpg?width=640&crop=smart&auto=webp&s=a44b27327e4ed7c718303fd590c75c1bddfd0bad",
+    "thumbnail": "https://a.thumbs.redditmedia.com/Kq-J2NFKJI_e9Z88_AZ73TmiavBOP3Xu0CDCu11Jww0.jpg"
+  },
+  "score": {
+    "comments": 8,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 95,
+    "value": 95
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "First attempt at terrain - Cheval de Frise",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/aju3rm/first_attempt_at_terrain_cheval_de_frise/"
+}

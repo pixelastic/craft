@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9xxj8",
+    "name": "HailCall"
+  },
+  "date": {
+    "day": 1606262400,
+    "full": 1606270352,
+    "month": 1604188800,
+    "week": 1606003200
+  },
+  "id": "t3_k0j249",
+  "misc": {
+    "postHint": "self"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/_kxb6neF79mxUzM-reHKlb5rdlK_uhtuJIQhlix88GI.jpg?auto=webp&s=ff2c1f46898e2a3d91cd3bf6a0e432eb858c555c",
+    "preview": "https://external-preview.redd.it/_kxb6neF79mxUzM-reHKlb5rdlK_uhtuJIQhlix88GI.jpg?width=640&crop=smart&auto=webp&s=45de7c78bb777d939fdeac4c80db697d99a1c716",
+    "thumbnail": "self"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Cobalt Foundry (Rampart Terrain)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/k0j249/cobalt_foundry_rampart_terrain/"
+}

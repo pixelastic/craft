@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_54dcctfy",
+    "name": "Arch_Shadow"
+  },
+  "date": {
+    "day": 1601251200,
+    "full": 1601334638,
+    "month": 1598918400,
+    "week": 1601164800
+  },
+  "id": "t3_j1n83d",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/rymj19fi0zp51.jpg?auto=webp&s=8c0a3be03122e8b14d826c3a2d3804f48019c6a8",
+    "preview": "https://preview.redd.it/rymj19fi0zp51.jpg?width=640&crop=smart&auto=webp&s=baf23a12b8b7779e82b62005f779de5fc8a4275a",
+    "thumbnail": "https://b.thumbs.redditmedia.com/ZBSQ6NfF0u6VkolgrT82KgrTDQRDNmccswvlU4H5aGg.jpg"
+  },
+  "score": {
+    "comments": 11,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 41,
+    "value": 41
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Progress",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/j1n83d/progress/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_3ekzvr69",
+    "name": "SunkenPayload"
+  },
+  "date": {
+    "day": 1583366400,
+    "full": 1583433273,
+    "month": 1583020800,
+    "week": 1583020800
+  },
+  "id": "t3_fdzpje",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/9jfo71rhewk41.jpg?auto=webp&s=f2608a802e74d4ddbb5b6e3e1e2b44ec695acb37",
+    "preview": "https://preview.redd.it/9jfo71rhewk41.jpg?width=640&crop=smart&auto=webp&s=163685977962ad5557956f3f4cce1d6ebdbfcaed",
+    "thumbnail": "https://b.thumbs.redditmedia.com/8hvUeljFXAuKqmlGT1EdPZ3qyrirY1Q36Vh7u4ifgiQ.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 56,
+    "value": 56
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Massive Crystal Centrepiece Wip!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/fdzpje/massive_crystal_centrepiece_wip/"
+}

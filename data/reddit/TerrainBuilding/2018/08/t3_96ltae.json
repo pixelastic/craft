@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_xd9f8rk",
+    "name": "smoresman"
+  },
+  "date": {
+    "day": 1534032000,
+    "full": 1534039031,
+    "month": 1533081600,
+    "week": 1534032000
+  },
+  "id": "t3_96ltae",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/0t2ryun2kkf11.jpg?auto=webp&s=25640763d3ce01eca19f42aa0e5e183058c73101",
+    "preview": "https://preview.redd.it/0t2ryun2kkf11.jpg?width=640&crop=smart&auto=webp&s=8358558198b21733a9f84463c40d3b513a0b7675",
+    "thumbnail": "https://b.thumbs.redditmedia.com/JXLziee3TO7nPYNBloMBjVG2EbQvrqkFrtQ5HQ2sSPA.jpg"
+  },
+  "score": {
+    "comments": 2,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.83,
+    "ups": 32,
+    "value": 32
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Simple building from shoe box",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/96ltae/simple_building_from_shoe_box/"
+}

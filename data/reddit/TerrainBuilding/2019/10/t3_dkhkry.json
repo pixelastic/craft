@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_8yncl",
+    "name": "thisisntmyredditname"
+  },
+  "date": {
+    "day": 1571529600,
+    "full": 1571564873,
+    "month": 1569888000,
+    "week": 1571529600
+  },
+  "id": "t3_dkhkry",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/jzezisbp3ot31.jpg?auto=webp&s=b81ce4ccd6b82989d2ce1b4baa04f4e15bff7507",
+    "preview": "https://preview.redd.it/jzezisbp3ot31.jpg?width=640&crop=smart&auto=webp&s=c649032b02937c0c24427cf1314a0aa81924d792",
+    "thumbnail": "https://b.thumbs.redditmedia.com/slrTPbjV2CaWQKgo5TCABqMKedFPCymujVb2g8OPgNo.jpg"
+  },
+  "score": {
+    "comments": 3,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.92,
+    "ups": 27,
+    "value": 27
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A rustic “da Vinci” bridge for a new campaign",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/dkhkry/a_rustic_da_vinci_bridge_for_a_new_campaign/"
+}

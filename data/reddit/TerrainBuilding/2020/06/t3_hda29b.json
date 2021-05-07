@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_f7og4",
+    "name": "shtim"
+  },
+  "date": {
+    "day": 1592697600,
+    "full": 1592757976,
+    "month": 1590969600,
+    "week": 1592697600
+  },
+  "id": "t3_hda29b",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/bmk9nx1pla651.jpg?auto=webp&s=108f827f7c2ea526a9dfbd002dfe3b5470e4166e",
+    "preview": "https://preview.redd.it/bmk9nx1pla651.jpg?width=640&crop=smart&auto=webp&s=0b1bb7000a5f0c81b84f6a2b3533d021764ff3e3",
+    "thumbnail": "https://b.thumbs.redditmedia.com/XWXHD0jiyTfqpEHOg97172I-Twgzlf8HVuJ9usBEYxA.jpg"
+  },
+  "score": {
+    "comments": 7,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.96,
+    "ups": 60,
+    "value": 60
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Tester for my jungle terrain - any feedback or tips are welcome!",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/hda29b/tester_for_my_jungle_terrain_any_feedback_or_tips/"
+}

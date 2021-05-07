@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_16ycovb",
+    "name": "tiny_architect"
+  },
+  "date": {
+    "day": 1546905600,
+    "full": 1546951908,
+    "month": 1546300800,
+    "week": 1546732800
+  },
+  "id": "t3_adtwcc",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/wy0z2gnq47921.jpg?auto=webp&s=d0168ec15b05c00707b2e3ce1ea3eecd4977c031",
+    "preview": "https://preview.redd.it/wy0z2gnq47921.jpg?width=640&crop=smart&auto=webp&s=a17b23d294fac6c8abfd4c1d3f4b540c4ba27438",
+    "thumbnail": "https://b.thumbs.redditmedia.com/JK2sNWEDsG3h7QWwoThSYdGFJswQIdKxakRLYnHhHDQ.jpg"
+  },
+  "score": {
+    "comments": 13,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.98,
+    "ups": 94,
+    "value": 94
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Skaven Nest",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/adtwcc/skaven_nest/"
+}

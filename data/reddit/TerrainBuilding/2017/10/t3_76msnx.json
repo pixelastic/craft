@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_11l784",
+    "name": "montro898"
+  },
+  "date": {
+    "day": 1508112000,
+    "full": 1508112821,
+    "month": 1506816000,
+    "week": 1508025600
+  },
+  "id": "t3_76msnx",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/5v64vuw643sz.jpg?auto=webp&s=8a623e0adfb910e9d02b6a66b91fd97584f9db9d",
+    "preview": "https://preview.redd.it/5v64vuw643sz.jpg?width=640&crop=smart&auto=webp&s=4026ed6ff8d616ca2914a59380565492ee8c171c",
+    "thumbnail": "https://a.thumbs.redditmedia.com/HFNkHUiLRhNoTHjqs2sbFOx2gXiCwaefmST-WNF7vd4.jpg"
+  },
+  "score": {
+    "comments": 12,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 0.95,
+    "ups": 61,
+    "value": 61
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "A small bit of scatter terrain I painted up.",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/76msnx/a_small_bit_of_scatter_terrain_i_painted_up/"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_2apjr9ns",
+    "name": "TheSlipCC"
+  },
+  "date": {
+    "day": 1590710400,
+    "full": 1590712604,
+    "month": 1588291200,
+    "week": 1590278400
+  },
+  "id": "t3_gsiiov",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/vg4zyrwqnl151.jpg?auto=webp&s=13023b1f972b1fb7094f24d600ef6e7bb4c5ece2",
+    "preview": "https://preview.redd.it/vg4zyrwqnl151.jpg?width=640&crop=smart&auto=webp&s=af4cb01c679f26638797f6ca18259aa653a427e3",
+    "thumbnail": "https://a.thumbs.redditmedia.com/_gc3iLGNoaiFElaYB9M67VGezJ4WSGOdgGdFoAGc818.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 1,
+    "value": 1
+  },
+  "subreddit": {
+    "id": "t5_2xy5e",
+    "name": "TerrainBuilding"
+  },
+  "tags": [],
+  "title": "Double-sided Dungeon Tiles (First Terrain Build)",
+  "url": "https://www.reddit.com/r/TerrainBuilding/comments/gsiiov/doublesided_dungeon_tiles_first_terrain_build/"
+}
