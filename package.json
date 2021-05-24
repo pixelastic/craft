@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "norska": "2.1.0",
-    "norska-theme-search": "0.1.0",
+    "norska": "2.3.0",
+    "norska-theme-search": "1.0.0",
     "norska-theme-search-infinite": "1.0.0"
   },
   "devDependencies": {
-    "aberlaas": "1.15.0",
+    "aberlaas": "1.22.0",
     "algolia-indexing": "1.2.0",
-    "firost": "2.7.0",
+    "firost": "2.13.1",
     "golgoth": "2.0.0",
     "reddinx": "0.0.7",
     "youtinx": "0.4.1"
