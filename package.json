@@ -7,7 +7,7 @@
   "devDependencies": {
     "aberlaas": "1.23.0",
     "algolia-indexing": "1.2.0",
-    "firost": "2.13.1",
+    "firost": "2.14.0",
     "golgoth": "2.0.0",
     "reddinx": "0.0.7",
     "youtinx": "0.4.1"
